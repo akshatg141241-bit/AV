@@ -1,0 +1,339 @@
+{
+  "personality_by_sign": {
+    "0": "In love and marriage, you express affection directly, passionately, and with protective honesty. You value partners who match your vitality, celebrate your independence, and communicate openly without veiled games. Softening sharp urgency during tense moments turns your fierce devotion into deep relational safety.",
+    "1": "Steady loyalty, sensual warmth, and enduring devotion define how you love. Once your heart commits, you build a calm, comforting sanctuary rich in small acts of daily care and shared rituals. Allowing flexibility around minor domestic habits keeps harmony effortless over decades.",
+    "2": "Mental spark, witty banter, and genuine friendship form the bedrock of your closest bonds. You need a partner with whom conversations stay endlessly curious, playful, and open to new experiences together. Slowing down to sit quietly with unspoken feelings deepens emotional intimacy wonderfully.",
+    "3": "Nurturing warmth, protective tenderness, and intuitive devotion sit at the center of your romantic heart. Family closeness, heartfelt loyalty, and emotional remembrance mean everything to you. Expressing boundaries gently rather than retreating into silence keeps misunderstandings small and loving.",
+    "4": "Generous romance, noble loyalty, and warm expressive affection make you a devoted, celebratory partner. You take pride in uplifting your beloved and creating joyous memories together. Practicing humble, attentive listening invites equal warmth back into every shared decision.",
+    "5": "Thoughtful devotion, practical acts of service, and quiet faithfulness reveal your deepest love. You notice what your partner needs long before they ask, caring through reliability and attentive presence. Letting go of tiny perfectionist critiques allows spontaneous romance to bloom freely.",
+    "6": "Grace, mutual fairness, and romantic partnership come naturally to your temperament. Relationship harmony matters deeply to you, inspiring thoughtful gestures, aesthetic shared spaces, and diplomatic compromise. Voicing personal needs early rather than keeping quiet preserves true reciprocity.",
+    "7": "Profound emotional depth, magnetic loyalty, and all-in devotion characterize your bonds. Superficial small talk never satisfies your soul—you seek transparent trust, fierce protection, and shared growth through every life season. Choosing open vulnerability over guarded silence deepens enduring peace.",
+    "8": "Optimism, shared adventures, and ethical honesty uplift your romantic partnerships. You blossom alongside a companion who values truth, humor, growth, and spacious personal freedom within loyalty. Remembering gentle daily tenderness alongside grand plans keeps connection radiant.",
+    "9": "Serious commitment, dependable stewardship, and quiet faithfulness anchor your approach to marriage. Even when affection shows through steady responsibility more than dramatic speeches, your devotion deepens wonderfully with time. Sharing playful warmth makes long-term bonds both strong and tender.",
+    "10": "Respect for individuality, shared ideals, and authentic friendship guide how you choose and honor a partner. You thrive in egalitarian unions founded on trust, intellectual openness, and mutual freedom. Expressing heartfelt emotional presence alongside thoughtful conversation deepens closeness.",
+    "11": "Poetic empathy, forgiving grace, and soulful tenderness infuse your closest relationships. You sense your partner's inner world intuitively and offer soothing unconditional kindness. Keeping practical clarity around shared expectations safeguards your gentle heart."
+  },
+  "planet_in_house": {
+    "Sun_1": "Sun in your 1st House gives dignified self-respect in marriage, attracting partners who honor personal integrity and mutual leadership.",
+    "Sun_2": "Sun in your 2nd House fosters proud family values and strong household dignity; soft spoken warmth keeps domestic dialogue gentle.",
+    "Sun_3": "Sun in your 3rd House encourages lively, honest communication and shared creative initiatives that keep partnerships vibrant.",
+    "Sun_4": "Sun in your 4th House values noble family roots and a bright, harmonious home; balancing personal authority with tender empathy brings domestic joy.",
+    "Sun_5": "Sun in your 5th House illuminates proud, joyful romance, creative courtship, and warm celebration of family and children.",
+    "Sun_6": "Sun in your 6th House brings resilient loyalty in resolving practical relationship hurdles through shared daily teamwork.",
+    "Sun_7": "Sun in your 7th House attracts a capable, dignified, high-integrity spouse; honoring mutual autonomy turns partnership into a luminous crown.",
+    "Sun_8": "Sun in your 8th House invites profound emotional transformation and dignified shared trust through life's deeper chapters.",
+    "Sun_9": "Sun in your 9th House aligns marriage with shared ideals, cultural grace, mentor-like wisdom, and uplifting joint journeys.",
+    "Sun_10": "Sun in your 10th House supports an accomplished partner and public dignity as a respected, mutually supportive couple.",
+    "Sun_11": "Sun in your 11th House brings uplifting social circles, shared aspirations, and warm community celebration around your union.",
+    "Sun_12": "Sun in your 12th House deepens quiet devotion, private sanctuary moments, and peaceful cross-cultural compatibility.",
+    "Moon_1": "Moon in your 1st House gives magnetic emotional warmth, responsive empathy, and nurturing presence in partnership.",
+    "Moon_2": "Moon in your 2nd House blesses soothing speech, affectionate family hospitality, and deeply comforting domestic peace.",
+    "Moon_3": "Moon in your 3rd House fosters heartfelt daily dialogue, sweet letters, and caring attention to small relational moments.",
+    "Moon_4": "Moon in your 4th House anchors extraordinary domestic tenderness, loving home harmony, and deep emotional security.",
+    "Moon_5": "Moon in your 5th House enriches soulful romance, tender parenting joy, and intuitive emotional bonding.",
+    "Moon_6": "Moon in your 6th House expresses care through daily service and attentive wellness support; gentle boundaries protect serene calm.",
+    "Moon_7": "Moon in your 7th House attracts a caring, intuitive, devoted partner and deepens heartfelt emotional reciprocity in marriage.",
+    "Moon_8": "Moon in your 8th House grants penetrating emotional intuition and healing closeness during moments requiring reassurance.",
+    "Moon_9": "Moon in your 9th House connects love with shared faith, inspiring travels, and deeply nourishing philosophical kinship.",
+    "Moon_10": "Moon in your 10th House harmonizes supportive public presence with a caring, socially graceful partner.",
+    "Moon_11": "Moon in your 11th House fosters friendship-first love, warm shared communities, and mutually supportive dreams.",
+    "Moon_12": "Moon in your 12th House enriches intimate stillness, compassionate forgiveness, and peaceful dreamy romance.",
+    "Mars_1": "Mars in your 1st House infuses romantic bonds with vibrant passion and protective courage; patient listening balances fiery energy gracefully.",
+    "Mars_2": "Mars in your 2nd House energizes direct honesty in family life; conscious softness in tone keeps household peace effortless.",
+    "Mars_3": "Mars in your 3rd House creates lively, energetic communication and exciting shared adventures as a couple.",
+    "Mars_4": "Mars in your 4th House channels passionate devotion toward building a strong family home; calm evening rituals nourish domestic peace.",
+    "Mars_5": "Mars in your 5th House sparks passionate courtship, spirited playfulness, and fierce loyalty to loved ones.",
+    "Mars_6": "Mars in your 6th House equips you to protect partnership peace actively and resolve external pressures together cleanly.",
+    "Mars_7": "Mars in your 7th House attracts a dynamic, strong-willed partner; thoughtful matching and mutual respect forge passionate equal teamwork.",
+    "Mars_8": "Mars in your 8th House confers intense devotion and courageous resilience together; gentle patience harmonizes deep shared emotions.",
+    "Mars_9": "Mars in your 9th House inspires passionate shared convictions, adventurous travels, and spirited commitment to growth.",
+    "Mars_10": "Mars in your 10th House pairs ambitious drive with mutual pride in a partner who supports tangible life milestones.",
+    "Mars_11": "Mars in your 11th House celebrates active friendship within romance and shared achievement of exciting household goals.",
+    "Mars_12": "Mars in your 12th House deepens private passion and physical vitality; calm mindfulness turns intense energy into tender closeness.",
+    "Mercury_1": "Mercury in your 1st House brings youthful humor, articulate listening, and refreshing curiosity into marriage.",
+    "Mercury_2": "Mercury in your 2nd House favors witty family dialogue, clever storytelling, and clear shared financial transparency.",
+    "Mercury_3": "Mercury in your 3rd House fills partnership with playful conversation, shared reading, and swift affectionate check-ins.",
+    "Mercury_4": "Mercury in your 4th House fosters open household communication, calm problem-solving, and intellectually warm home life.",
+    "Mercury_5": "Mercury in your 5th House adds charming flirtation, clever wordplay, and joyful curiosity to romance.",
+    "Mercury_6": "Mercury in your 6th House resolves daily logistics smoothly through attentive listening and thoughtful organization.",
+    "Mercury_7": "Mercury in your 7th House attracts a communicative, clever, adaptable partner who remains your favorite conversationalist.",
+    "Mercury_8": "Mercury in your 8th House encourages honest exploration of deep feelings, shared budgets, and thoughtful emotional clarity.",
+    "Mercury_9": "Mercury in your 9th House unites partners through travel, shared philosophy, languages, and lifelong learning together.",
+    "Mercury_10": "Mercury in your 10th House supports collaborative life planning and articulate, respected couple rapport in society.",
+    "Mercury_11": "Mercury in your 11th House blesses joyful friendship, shared social laughter, and mutual encouragement of bold dreams.",
+    "Mercury_12": "Mercury in your 12th House creates quiet late-night conversations, tender understanding, and gentle shared intuition.",
+    "Jupiter_1": "Jupiter in your 1st House radiates benevolent warmth, ethical faithfulness, and wisdom that invites joyful, enduring companionship.",
+    "Jupiter_2": "Jupiter in your 2nd House blesses affectionate family continuity, auspicious home celebrations, and gracious speech.",
+    "Jupiter_3": "Jupiter in your 3rd House inspires uplifting communication, mutual encouragement, and generous warmth with extended kin.",
+    "Jupiter_4": "Jupiter in your 4th House bestows serene domestic abundance, loving hospitality, and joyful sanctuary at home.",
+    "Jupiter_5": "Jupiter in your 5th House brings auspicious romance, heartfelt family blessings, and deep joyful devotion.",
+    "Jupiter_6": "Jupiter in your 6th House guides compassionate conflict healing, fair compromise, and protective care in daily life.",
+    "Jupiter_7": "Jupiter in your 7th House is a classic blessing for a noble, wise, supportive spouse and harmonious lifelong marriage.",
+    "Jupiter_8": "Jupiter in your 8th House protects marital longevity, deep mutual trust, and graceful resilience across every decade.",
+    "Jupiter_9": "Jupiter in your 9th House fills partnership with shared dharma, blessings of elders, and inspiring travels together.",
+    "Jupiter_10": "Jupiter in your 10th House fosters respected family standing and generous mutual encouragement of life purpose.",
+    "Jupiter_11": "Jupiter in your 11th House showers marriage with abundant friendships, fulfilled shared wishes, and enduring joy.",
+    "Jupiter_12": "Jupiter in your 12th House enriches intimate serenity, spiritual bonding, and forgiving unconditional love.",
+    "Venus_1": "Venus in your 1st House gives magnetic warmth, graceful charm, and natural aptitude for loving harmony.",
+    "Venus_2": "Venus in your 2nd House brings sweet affectionate speech, joyful shared dining, and abundant domestic warmth.",
+    "Venus_3": "Venus in your 3rd House spices partnership with playful creativity, thoughtful gifts, and loving artistic expression.",
+    "Venus_4": "Venus in your 4th House creates an exquisitely cozy, harmonious home sanctuary filled with tenderness and comfort.",
+    "Venus_5": "Venus in your 5th House fills courtship and marriage with enduring romance, joyful celebration, and artistic warmth.",
+    "Venus_6": "Venus in your 6th House gently smooths everyday partnership logistics through thoughtful diplomacy and mutual care.",
+    "Venus_7": "Venus in your 7th House places the planet of love directly in partnership's house, blessing romance, attraction, and joyful companionship.",
+    "Venus_8": "Venus in your 8th House deepens sensual intimacy, enduring devotion, and quiet luxury shared harmoniously together.",
+    "Venus_9": "Venus in your 9th House invites cultured shared journeys, graceful mutual values, and uplifting romantic harmony.",
+    "Venus_10": "Venus in your 10th House gives couples charming social harmony and pride in supporting each other's shine gracefully.",
+    "Venus_11": "Venus in your 11th House makes romance feel effortlessly friendly, celebratory, and blessed by warm social circles.",
+    "Venus_12": "Venus in your 12th House elevates deep romantic intimacy, peaceful retreats together, and tender sensual closeness.",
+    "Saturn_1": "Saturn in your 1st House fosters deep loyalty, emotional maturity, and steady commitment that grows sweeter with time.",
+    "Saturn_2": "Saturn in your 2nd House grounds household security responsibly; warm expressiveness brightens calm practical care.",
+    "Saturn_3": "Saturn in your 3rd House builds dependable promises, faithful follow-through, and patient honest communication.",
+    "Saturn_4": "Saturn in your 4th House values enduring home foundations and steady loyalty; scheduling lighthearted joy refreshes domestic spirit.",
+    "Saturn_5": "Saturn in your 5th House takes love seriously—prioritizing sincere, lasting devotion over fleeting casual infatuation.",
+    "Saturn_6": "Saturn in your 6th House offers steadfast everyday reliability, calmly weathering practical challenges side by side.",
+    "Saturn_7": "Saturn in your 7th House achieves directional strength for enduring marriage, mature fidelity, and rock-solid lifelong partnership.",
+    "Saturn_8": "Saturn in your 8th House fosters profound loyalty through thick and thin, transforming shared responsibilities into deep trust.",
+    "Saturn_9": "Saturn in your 9th House honors marriage as sacred covenant, blending timeless values with patient mutual growth.",
+    "Saturn_10": "Saturn in your 10th House favors mature, accomplished partnerships built upon mutual respect and long-horizon stability.",
+    "Saturn_11": "Saturn in your 11th House yields lifelong loyalty, dependable friendship in marriage, and steadily deepening companionship.",
+    "Saturn_12": "Saturn in your 12th House teaches quiet devotion and peaceful rest together; nurturing regular shared presence sustains intimacy.",
+    "Rahu_1": "Rahu in your 1st House brings captivating personal magnetism and openness to vibrant, modern approaches to love.",
+    "Rahu_2": "Rahu in your 2nd House favors cross-cultural family warmth and distinctive charm; clear honesty anchors lasting household harmony.",
+    "Rahu_3": "Rahu in your 3rd House fuels spirited romantic initiative, exciting communication, and bold expressions of affection.",
+    "Rahu_4": "Rahu in your 4th House seeks grand, modern home spaces and diverse experiences; quiet presence at home deepens emotional peace.",
+    "Rahu_5": "Rahu in your 5th House brings thrilling romantic chemistry and creative love stories; grounded patience nurtures lasting roots.",
+    "Rahu_6": "Rahu in your 6th House helps overcome convention or external obstacles boldly in service of chosen partnership.",
+    "Rahu_7": "Rahu in your 7th House often attracts distinctive, cross-cultural, or magnetic partners; transparent trust turns intrigue into lasting unity.",
+    "Rahu_8": "Rahu in your 8th House heightens intense bonding and transformation; open honest conversations turn mystery into unshakable trust.",
+    "Rahu_9": "Rahu in your 9th House welcomes diverse cultural perspectives and global adventures in partnership.",
+    "Rahu_10": "Rahu in your 10th House pairs ambitious public lives with exciting mutual growth when shared downtime stays protected.",
+    "Rahu_11": "Rahu in your 11th House draws lively social circles and joyful unconventional friendships around your union.",
+    "Rahu_12": "Rahu in your 12th House enriches imaginative intimacy and global getaways; grounded shared routines keep affection vibrant.",
+    "Ketu_1": "Ketu in your 1st House lends serene independence and soulful sincerity, drawing partners who honor authentic depth.",
+    "Ketu_2": "Ketu in your 2nd House encourages concise, truthful speech and spiritual warmth inside family life.",
+    "Ketu_3": "Ketu in your 3rd House fosters quiet, perceptive understanding that needs few words to feel deeply connected.",
+    "Ketu_4": "Ketu in your 4th House values peaceful sanctuary at home over noisy display, cultivating calm inner stillness together.",
+    "Ketu_5": "Ketu in your 5th House brings subtle, intuitive romance rooted in soulful resonance and genuine affection.",
+    "Ketu_6": "Ketu in your 6th House dissolves petty domestic friction through quiet grace and calm discernment.",
+    "Ketu_7": "Ketu in your 7th House invites deep karmic recognition in partnership, blossoming brightest through conscious affection and clear dialogue.",
+    "Ketu_8": "Ketu in your 8th House grants tranquil intuitive trust and profound spiritual empathy between partners.",
+    "Ketu_9": "Ketu in your 9th House unites couples around shared inner wisdom, pilgrimage journeys, and authentic values.",
+    "Ketu_10": "Ketu in your 10th House keeps marriage grounded in private sincerity rather than outward social performance.",
+    "Ketu_11": "Ketu in your 11th House treasures intimate trust and selective real friendships that honor your shared space.",
+    "Ketu_12": "Ketu in your 12th House fosters serene spiritual companionship and restful shared quietude."
+  },
+  "hidden_challenges": {
+    "Sun": "Natural pride and strong personal convictions can sometimes make apologizing first or softening a firm stance feel challenging. Choosing tender warmth over winning minor debates preserves lasting closeness.",
+    "Moon": "Because feelings register deeply, unvoiced expectations or momentary hurt can occasionally turn into quiet withdrawal. Naming needs early in gentle words prevents tiny ripples from lingering.",
+    "Mars": "High passion and protective energy bring wonderful devotion, yet swift frustration during stressful days can sound sharper than intended. Taking a calm breath before responding transforms tension into constructive repair.",
+    "Mercury": "Quick analytical thinking excels at solving household logistics, yet debating feelings strictly through logic can leave emotional warmth wanting. Leading with simple empathy before solutions heals discussions swiftly.",
+    "Jupiter": "High relationship ideals inspire noble devotion, yet subtle expectations that a partner read philosophical cues perfectly can create quiet pressure. Celebrating human quirks warmly keeps love joyful.",
+    "Venus": "Desire for effortless peace can sometimes lead to smoothing over uncomfortable topics until resentment builds silently. Kind, early honesty keeps romance fresh and genuinely transparent.",
+    "Saturn": "Deep sense of duty shows care reliably, yet heavy work schedules or reserved affection can unintentionally feel distant to a partner. Intentional daily tenderness keeps loyal love radiant.",
+    "Rahu": "Attraction to novelty and intense chemistry brings thrilling energy, yet resting too lightly on quiet everyday patience can test long-horizon rhythms. Honoring simple daily rituals sustains magic over decades.",
+    "Ketu": "Valuing inner solitude and spiritual space keeps love authentic, yet slipping into silent detachment without reassurance can leave loved ones guessing. Sharing explicit words of care bridges every distance effortlessly."
+  },
+  "superpowers": {
+    "Sun": {
+      "title": "Dignified Devotion & Protective Integrity",
+      "body": "The Sun anchors your relationship style in unwavering loyalty, honorable honesty, and protective generosity. Partners feel proud standing beside you because your commitments are clear and steadfast. Warm mutual respect becomes the radiant cornerstone of home life."
+    },
+    "Moon": {
+      "title": "Deep Emotional Empathy & Sanctuary",
+      "body": "The Moon blesses your heart with intuitive tenderness, soothing presence, and affectionate domestic nurturing. You remember what makes loved ones feel cherished and create a comforting home haven naturally. Heartfelt emotional closeness sustains joyful lifelong bonds."
+    },
+    "Mars": {
+      "title": "Passionate Loyalty & Courageous Protection",
+      "body": "Mars infuses your partnerships with vibrant spark, active care, and fearless willingness to stand up for family harmony. Love feels alive, energetic, and authentically engaged through every season. Shared challenges unite you swiftly as a resilient team."
+    },
+    "Mercury": {
+      "title": "Playful Friendship & Open Dialogue",
+      "body": "Mercury enriches your love life with sparkling conversation, mutual curiosity, and light-hearted adaptability. Partners feel heard, amused, and intellectually met across changing life chapters. Honest dialogue keeps affection resilient and constantly renewed."
+    },
+    "Jupiter": {
+      "title": "Auspicious Grace & Values Harmony",
+      "body": "Jupiter blesses marriage with forgiving wisdom, family blessings, and ethical devotion that deepens year by year. Shared ideals and warm optimism guide couples cleanly over occasional bumps. Your union naturally radiates stability and goodwill."
+    },
+    "Venus": {
+      "title": "Magnetic Romance & Aesthetic Warmth",
+      "body": "Venus graces your partnerships with effortless charm, affectionate sensitivity, and refined celebration of shared beauty. Small thoughtful gestures, sensual warmth, and gracious diplomacy come naturally to you. Romance continues flourishing beautifully over decades."
+    },
+    "Saturn": {
+      "title": "Timeless Fidelity & Quiet Steadiness",
+      "body": "Saturn anchors your closest relationships in enduring patience, dependable stewardship, and rock-solid faithfulness through every season. While shallow infatuations fade, your commitment ripens into unbreakable trust and comfort. Time amplifies your marital grace."
+    },
+    "Rahu": {
+      "title": "Electrifying Chemistry & Open Horizons",
+      "body": "Rahu awakens magnetic fascination, cross-cultural openness, and refreshing originality in love. You welcome partners authentically beyond narrow labels and keep shared life exciting and expansive. Grounded trust sustains joyful growth."
+    },
+    "Ketu": {
+      "title": "Soulful Resonance & Unconditional Depth",
+      "body": "Ketu infuses your bonds with ego-free sincerity, calm intuitive knowing, and spiritual depth that transcends superficial friction. True partners recognize an immediate, peaceful kinship around you. Quiet acceptance heals and uplifts both hearts."
+    }
+  },
+  "growth_areas": {
+    "Sun": {
+      "title": "Gentle Compromise & Shared Authority",
+      "body": "Your proud integrity brings clear stability, and honoring a partner's distinct rhythm equally invites joyful mutual leadership. Leading together creates far richer peace than carrying everything alone.",
+      "guidance": "Practice asking openly how your partner prefers to approach shared household choices before deciding."
+    },
+    "Moon": {
+      "title": "Voice Feelings Early Before Withdrawing",
+      "body": "Your tender heart absorbs subtle emotional signals cleanly; expressing small wishes warmly right away prevents quiet overthinking. Gentle candor keeps shared peace crystal clear.",
+      "guidance": "Use calm 'I feel' check-ins during quiet evening walks rather than waiting until frustration accumulates."
+    },
+    "Mars": {
+      "title": "Soft Pause Before Heated Replies",
+      "body": "Your vivid passion cares deeply, and adding a brief loving pause before debating sensitive topics keeps repair effortless. Channeling fire into shared movement restores harmony quickly.",
+      "guidance": "Agree on a kind 15-minute reset cue whenever discussions grow urgent, returning with calm hearts."
+    },
+    "Mercury": {
+      "title": "Heart-First Listening Without Fixing",
+      "body": "Your quick mind loves troubleshooting promptly; giving a partner space simply to be felt before offering solutions deepens tenderness dramatically. Presence speaks even deeper than clever answers.",
+      "guidance": "Ask 'Would you like thoughtful brainstorming right now, or just warm listening?' during close talks."
+    },
+    "Jupiter": {
+      "title": "Playful Tenderness Alongside High Ideals",
+      "body": "Your noble values build inspiring long-term trust, and weaving light playful spontaneity into everyday routines keeps romance sparkling. Joy thrives in simple unhurried moments together.",
+      "guidance": "Protect one screen-free weekly date centered strictly on laughter, warmth, and effortless presence."
+    },
+    "Venus": {
+      "title": "Kind Directness About Honest Needs",
+      "body": "Your gracious nature prioritizes smoothness everywhere; speaking honest preferences warmly early on protects genuine harmony over polite silence. Real love welcomes clarity comfortably.",
+      "guidance": "Share one appreciation and one honest personal wish calmly each Sunday evening together."
+    },
+    "Saturn": {
+      "title": "Warm Expressive Affection Daily",
+      "body": "Your reliable actions prove deep commitment daily, while adding simple verbal tenderness and spontaneous warmth brings emotional sunshine into steady love. Small words carry wonderful power.",
+      "guidance": "Offer a genuine verbal compliment or affectionate gesture intentionally every single morning."
+    },
+    "Rahu": {
+      "title": "Rooting Passion in Everyday Consistency",
+      "body": "Exciting chemistry blossoms highest when supported by reliable calendars, shared trust, and simple unglamorous presence. Steady reassurance turns electric attraction into lasting home.",
+      "guidance": "Keep weekly promises rock solid and celebrate quiet domestic routines equally with bold adventures."
+    },
+    "Ketu": {
+      "title": "Intentional Presence Amid Quiet Solitude",
+      "body": "Honoring your need for reflective stillness keeps your spirit clear, and sharing warm transition check-ins reassures loved ones that your quietness reflects love and focus.",
+      "guidance": "Communicate peacefully when taking solo recharge time and reconnect warmly right afterward."
+    }
+  },
+  "diverse_paths_by_planet": {
+    "Sun": [
+      { "title": "Mutual Respect & Equal Dignity", "sector": "Shared Leadership", "reason": "Reflects proud self-respect and honorable devotion illuminated by {planet} in your {house}." },
+      { "title": "Family Mission & Shared Values Rituals", "sector": "Purpose-Led Bond", "reason": "Anchors lifelong commitment in principled purpose driven by {planet} in your {house}." },
+      { "title": "Gracious Public Hospitality Together", "sector": "Social Warmth", "reason": "Shines cleanly when welcoming extended family gently under {planet} in your {house}." }
+    ],
+    "Moon": [
+      { "title": "Cozy Home Sanctuary & Tender Care", "sector": "Emotional Nesting", "reason": "Nurtures deep belonging and soothing affection flowing from {planet} in your {house}." },
+      { "title": "Shared Culinary Rituals & Quiet Walks", "sector": "Everyday Tenderness", "reason": "Keeps hearts emotionally attuned through caring rhythms of {planet} in your {house}." },
+      { "title": "Extended Family & Child-Centered Joy", "sector": "Lineage Warmth", "reason": "Honors loving protective instincts carried by {planet} inside your {house}." }
+    ],
+    "Mars": [
+      { "title": "Active Adventures & Shared Sports/Fitness", "sector": "Vitality & Motion", "reason": "Channels bold passion of {planet} in your {house} into energizing shared milestones." },
+      { "title": "Candid Clear Agreements & Rapid Repair", "sector": "Authentic Candor", "reason": "Values honest loyalty and decisive problem-solving backed by {planet} in your {house}." },
+      { "title": "Building Home Projects Hands-On Together", "sector": "Co-Creation", "reason": "Converts productive drive of {planet} in your {house} into shared home pride." }
+    ],
+    "Mercury": [
+      { "title": "Best-Friend Banter & Curiosity Dates", "sector": "Intellectual Companionship", "reason": "Thrives on witty conversation and lighthearted curiosity led by {planet} in your {house}." },
+      { "title": "Transparent Co-Planning & Shared Calendars", "sector": "Everyday Harmony", "reason": "Simplifies logistics and keeps expectations breezy through {planet} in your {house}." },
+      { "title": "Short Trips, Books & Learning Together", "sector": "Travel & Discovery", "reason": "Refreshes romance continuously via fresh dialogue spark from {planet} in your {house}." }
+    ],
+    "Jupiter": [
+      { "title": "Wisdom-Guided Partnership & Shared Growth", "sector": "Philosophical Unity", "reason": "Blessed by generous patience and shared values illuminated by {planet} in your {house}." },
+      { "title": "Mentoring, Hospitality & Community Service", "sector": "Generous Household", "reason": "Turns home life into an uplifting blessing through {planet} in your {house}." },
+      { "title": "Spiritual Traditions & Ethical Parenting", "sector": "Dharmic Continuity", "reason": "Anchors long-term family blessing radiating from {planet} in your {house}." }
+    ],
+    "Venus": [
+      { "title": "Aesthetic Home Atmosphere & Art Appreciation", "sector": "Romantic Grace", "reason": "Enriches tender affection effortlessly through {planet} harmony in your {house}." },
+      { "title": "Celebration Rituals & Thoughtful Gifts", "sector": "Affectionate Expression", "reason": "Keeps courtship alive across decades guided by {planet} in your {house}." },
+      { "title": "Diplomatic Listening & Gentle Compromise", "sector": "Peaceful Partnership", "reason": "Smooths daily friction warmly through poised grace of {planet} in your {house}." }
+    ],
+    "Saturn": [
+      { "title": "Rock-Solid Reliability Through Every Season", "sector": "Timeless Commitment", "reason": "Builds deep unshakeable trust grounded by {planet} in your {house}." },
+      { "title": "Shared Long-Horizon Security & Patience", "sector": "Steady Foundation", "reason": "Proves love consistently via dependable care anchored by {planet} in your {house}." },
+      { "title": "Calm Elder Wisdom & Structured Roles", "sector": "Orderly Peace", "reason": "Protects partnership peace through steady follow-through from {planet} in your {house}." }
+    ],
+    "Rahu": [
+      { "title": "Cross-Cultural or Modern Partnership Dynamics", "sector": "Unconventional Spark", "reason": "Welcomes fresh perspectives and magnetic chemistry energized by {planet} in your {house}." },
+      { "title": "Ambitious Power-Couple Shared Ventures", "sector": "Dynamic Growth", "reason": "Channels shared excitement toward bold shared dreams with {planet} in your {house}." },
+      { "title": "Intentional Weekly Check-Ins Amid Busy Lives", "sector": "Modern Grounding", "reason": "Balances fast innovation with faithful reassurance for {planet} in your {house}." }
+    ],
+    "Ketu": [
+      { "title": "Soul-Level Tranquility & Quiet Understanding", "sector": "Spiritual Bonding", "reason": "Fosters effortless non-verbal acceptance nurtured by {planet} in your {house}." },
+      { "title": "Honoring Individual Contemplative Solitude", "sector": "Respectful Space", "reason": "Keeps affection serene when personal recharge space is respected around {planet} in your {house}." },
+      { "title": "Mindful Simplicity & Shared Meditation", "sector": "Peaceful Union", "reason": "Cultivates unforced intimacy centered gracefully by {planet} in your {house}." }
+    ]
+  },
+  "cautious_zones_by_planet": {
+    "Sun": ["Turning small household decisions into ego contests", "Working late at the cost of meaningful evening presence"],
+    "Moon": ["Expecting partners to guess unspoken moods silently", "Carrying external family anxiety into bedroom conversations"],
+    "Mars": ["Responding immediately while heated during tired evenings", "Pushing urgent solutions before hearing emotional context"],
+    "Mercury": ["Over-analyzing partner feelings instead of offering warm empathy", "Bringing work notifications to sacred dinner time"],
+    "Jupiter": ["Holding partner routines to overly rigid idealistic standards", "Assuming big-picture harmony skips small daily affection"],
+    "Venus": ["Staying politely silent until tiny annoyances build up", "Comparing personal partnership pace against curated social feeds"],
+    "Saturn": ["Withholding verbal warmth while showing love only through chores", "Bottling long work stress quietly without leaning on your partner"],
+    "Rahu": ["Keeping vague expectations around finances or family boundaries", "Chasing constant novelty instead of savoring quiet routine"],
+    "Ketu": ["Disappearing into quiet solitude without a brief loving check-in", "Detaching emotionally during sensitive practical disagreements"]
+  },
+  "safety_advice_by_planet": {
+    "Sun": ["Ask warmly for your partner's preferred approach before deciding", "Schedule screen-free presence where mutual appreciation comes first"],
+    "Moon": ["Voice simple 'I feel' reflections softly before retreating into silence", "Protect restful sleep and calm walks together every week"],
+    "Mars": ["Use a mutually agreed 15-minute cooling reset during urgent talks", "Channel fierce vitality into shared hikes, movement, or home projects"],
+    "Mercury": ["Ask gently: 'Do you want quiet listening or brainstorming right now?'", "Keep phones out of reach during meals and evening decompression"],
+    "Jupiter": ["Safeguard one lighthearted, playful weekly date free of heavy debates", "Celebrate ordinary daily humor equally alongside deep ideals"],
+    "Venus": ["Share one sincere appreciation and one honest need every Sunday evening", "Choose small authentic affection gestures over grand rare displays"],
+    "Saturn": ["Offer explicit spoken compliments daily alongside dependable help", "Set clear boundaries around weekend work so companionship breathes"],
+    "Rahu": ["Maintain clear shared agreements on calendars, finances, and family roles", "Ground exciting ambitions in reliable small weekly promises"],
+    "Ketu": ["Give a loving heads-up before taking solo quiet recharge hours", "Anchor daily warmth with an affectionate greeting upon reconnecting"]
+  },
+  "absorbed_topics": {
+    "marriage_timing": {
+      "title": "Marriage Timing & Relationship Readiness",
+      "strong": "Your {house} and Navamsa (D9) pattern graced by {planet} radiate welcoming harmony for committed partnership. Vimshottari Dasha alignments highlight {year_range} as a deeply supportive window for marriage or sacred commitment.",
+      "balanced": "Stable partnership alignment sits clearly in your {house} alongside {planet}. Open conversations with trusted family and calm clarity around shared life goals unlock rewarding developments between {year_range}.",
+      "focus": "Your {house} favors building emotional poise and clear lifestyle alignment alongside {planet} rather than rushing timelines. Waiting until confidence matures near {year_range} supports joyful long-term compatibility.",
+      "basis": "7th House, Venus, D9 Navamsa & {planet}"
+    },
+    "marriage_type": {
+      "title": "Personal Choice (Love) vs Family-Introduced Harmony",
+      "strong": "Harmonious 5th-to-7th interaction reinforced by {planet} points toward organic personal attraction evolving naturally into lasting commitment. Meaningful emotional clarity crystallizes cleanly around {year_range}.",
+      "balanced": "Your {house} and {planet} showcase a graceful blend of personal chemistry and heartfelt family blessing. Transparent dialogue with elders across {year_range} brings both worlds comfortably together.",
+      "focus": "Structured family introductions carry comforting long-term support around your {house} while {planet} prizes tested values and shared stability. Taking time to converse deeply through {year_range} keeps choice grounded.",
+      "basis": "5th-7th Linkage, Venus & Moon Harmony"
+    },
+    "mangal_dosha": {
+      "title": "Mangal Dosha Analysis & Practical Balance",
+      "strong": "Mars relative to your {house} sits balanced or naturally harmonized alongside stabilizing support from {planet}. Traditional Mangal concern does not limit lasting relational warmth across {year_range}.",
+      "balanced": "Mars adds candid passion and lively energy around your {house}—an invitation for thoughtful listening rather than fear. Mutual respect and balanced horoscope matching nurture peaceful joy through {year_range}.",
+      "focus": "Active Mars expression near your {house} appreciates calm communication habits and careful pre-marital chart review backed by {planet}. Patient self-awareness turns passionate drive into steadfast devotion across {year_range}.",
+      "basis": "Mars House Check, Cancellation & {planet}"
+    },
+    "children_timing": {
+      "title": "Family Growth, Children & D7 Saptamsha",
+      "strong": "Generous 5th-house warmth and Saptamsha (D7) alignment supported by {planet} favor joyful family expansion and creative parenting. The {year_range} cycle brings serene, celebratory momentum.",
+      "balanced": "Your {house} and D7 chart carry gentle, encouraging indicators for family growth alongside {planet}. Nourishing health routines and peaceful home rhythms pair cleanly with {year_range}.",
+      "focus": "Prioritizing emotional rest, unhurried health checkups, and calm preparation around your {house} lets {planet} nurture ideal readiness. Harmony deepens gently as the {year_range} window unfolds.",
+      "basis": "5th House, Jupiter & D7 Saptamsha"
+    }
+  },
+  "cross_references": {
+    "WEALTH": {
+      "title": "Financial Security Strengthens Home Peace",
+      "insight": "When {planet} stabilizes your {house}, shared savings rituals and clear household goals deepen mutual trust effortlessly."
+    },
+    "HEALTH": {
+      "title": "Emotional Serenity & Physical Vitality",
+      "insight": "A warm, low-friction bond around {planet} in your {house} lowers cortisol and steadily nourishes lunar sleep and immunity."
+    },
+    "CAREER": {
+      "title": "Work-Life Boundaries & Shared Support",
+      "insight": "Protecting calm evening hours for your {house} turns {planet} partnership harmony into quiet fuel for bold career focus."
+    },
+    "DHARMA": {
+      "title": "Shared Purpose & Soul Alignment",
+      "insight": "Exploring philosophy, service, and mindful growth together keeps {planet} inside your {house} radiant through every life stage."
+    }
+  }
+}

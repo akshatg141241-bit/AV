@@ -1,0 +1,166 @@
+{
+  "planet_names": {
+    "Sun": "Sun",
+    "Moon": "Moon",
+    "Mars": "Mars",
+    "Mercury": "Mercury",
+    "Jupiter": "Jupiter",
+    "Venus": "Venus",
+    "Saturn": "Saturn",
+    "Rahu": "Rahu",
+    "Ketu": "Ketu"
+  },
+  "house_names": {
+    "1": "1st House (Self & Lagna)",
+    "2": "2nd House (Family & Wealth)",
+    "3": "3rd House (Courage & Travel)",
+    "4": "4th House (Home & Property)",
+    "5": "5th House (Education & Progeny)",
+    "6": "6th House (Service & Resilience)",
+    "7": "7th House (Partnership & Marriage)",
+    "8": "8th House (Transformation)",
+    "9": "9th House (Fortune & Higher Learning)",
+    "10": "10th House (Career & Status)",
+    "11": "11th House (Gains & Fulfillment)",
+    "12": "12th House (Foreign & Liberation)"
+  },
+  "questions": {
+    "marriage_timing": { "title": "When will I get married?", "hint": "7th house, Venus, D9 Navamsha & Dasha window" },
+    "marriage_type": { "title": "Love marriage or arranged marriage?", "hint": "5th–7th house link, Venus & Moon harmony" },
+    "govt_job": { "title": "Is there a government job yog, and when?", "hint": "Sun, 10th house, D10 Dashamsha & authority" },
+    "job_vs_business": { "title": "Job or business — which suits me more?", "hint": "6th service vs 7th/10th enterprise & Mercury" },
+    "job_promotion": { "title": "When will I get a job / promotion?", "hint": "10th & 11th houses, D10 & active Dasha" },
+    "dhan_yog": { "title": "Is there a Dhan yog, and when does money grow?", "hint": "2nd, 11th, 5th/9th lords & Jupiter strength" },
+    "debt_clearance": { "title": "When will my loans/debts clear?", "hint": "6th–11th balance, 2nd lord & Saturn cycle" },
+    "property_yog": { "title": "Is there a property/house purchase yog, and when?", "hint": "4th house, Mars, Venus & 11th gains" },
+    "foreign_travel": { "title": "Is there a foreign settlement/travel yog?", "hint": "9th & 12th houses, Rahu & Moon placement" },
+    "career_field": { "title": "Which career field suits me best?", "hint": "10th lord, D10 Dashamsha & planetary strengths" },
+    "competitive_exams": { "title": "Will I succeed in competitive exams / when?", "hint": "6th house grit, 5th intellect, Mercury & Mars" },
+    "children_timing": { "title": "When will I have children?", "hint": "5th house, Jupiter & D7 Saptamsha chart" },
+    "health_areas": { "title": "Which health areas need extra care, and which periods need attention?", "hint": "Lagna lord, 6th/8th balance & Sun/Moon vitality" },
+    "mangal_dosha": { "title": "Do I have Mangal Dosha — effect and remedy?", "hint": "Mars house placement, Bhanga & practical balance" },
+    "sade_sati": { "title": "Am I in Sade Sati — status and when does it end?", "hint": "Moon sign relative to Saturn & current phase" }
+  },
+  "answers": {
+    "marriage_timing": {
+      "Strong": "Your {house} and Navamsha placement show clear harmony with {planet} lending generous support. The Vimshottari window around {year_range} brings strong momentum for meaningful commitment and marriage.",
+      "Moderate": "Your chart shows steady marital promise anchored by {planet} and balanced {house} indications. With sincere dialogue and family alignment, {year_range} opens an encouraging window for marriage.",
+      "Weak": "Marital alignments around {house} show mixed pacing right now, asking for patience and clarity in expectations. Preparing steadily while {planet} matures toward {year_range} improves compatibility.",
+      "NotNow": "Current planetary periods emphasize personal foundation over immediate marriage timing. Focusing on career and inner readiness until {year_range} allows {planet} to bring far smoother alignment.",
+      "remedy": "Offer white flowers or light a ghee lamp on Fridays; chant Om Shukraya Namah softly while practicing calm patience.",
+      "redirect": "Invest this season in clarifying shared values and family harmony rather than rushing timelines."
+    },
+    "marriage_type": {
+      "Strong": "Strong 5th–7th connection and supportive {planet} placement point clearly toward a bond shaped by personal choice and mutual affection. Around {year_range}, emotional resonance naturally guides the decision.",
+      "Moderate": "Your {house} shows a pleasant blend of personal choice and family-blessed introduction guided by {planet}. Open family communication during {year_range} bridges both paths gracefully.",
+      "Weak": "Traditional family support around {house} currently outweighs spontaneous romance, as {planet} favors structured introductions. Arranged or community-facilitated meetings around {year_range} feel more dependable.",
+      "NotNow": "Planetary energies around {house} suggest keeping emotional expectations grounded for now. Allowing {planet} to settle toward {year_range} reveals whether choice or family introduction fits better.",
+      "remedy": "Worship Goddess Parvati and Lord Shiva together on Mondays; cultivate honest warmth with elders.",
+      "redirect": "An arranged or family-introduced alliance with proper time to get acquainted looks steadier for you."
+    },
+    "govt_job": {
+      "Strong": "A dignified {planet} and strong {house} alignment in both Rashi and D10 Dashamsha support authoritative public or government service. Dedicated preparation aligns favorably with {year_range}.",
+      "Moderate": "Your {house} and {planet} indicate respectable chances in public sector,PSU, or administrative roles when backed by disciplined test prep. The {year_range} dasha window boosts interview clarity.",
+      "Weak": "While {house} favors steady livelihood, {planet} shows steeper competition for pure civil-service tracks right now. Semi-government, technical, or private leadership roles look brighter around {year_range}.",
+      "NotNow": "Current dasha rhythms around {house} do not strongly favor traditional government exams at this moment. Channeling {planet} into private expertise or skill credentials until {year_range} protects momentum.",
+      "remedy": "Offer water to the rising Sun on Sunday mornings and recite Aditya Hridayam or Gayatri Mantra with focus.",
+      "redirect": "Private management, specialized consulting, or independent enterprise looks stronger than pure government service."
+    },
+    "job_vs_business": {
+      "Strong": "Strong 7th, 10th, and 11th house interplay with {planet} gives you sharp commercial instincts for business or independent practice. Stepping into structured entrepreneurship around {year_range} holds high upside.",
+      "Moderate": "Your {house} supports both steady employment and side-venture growth guided by {planet}. Building a financial cushion through service before scaling independently around {year_range} suits you best.",
+      "Weak": "Your {house} currently thrives better on predictable salary structures and institutional backing than solo risk. Letting {planet} strengthen reserves through {year_range} keeps career growth stress-free.",
+      "NotNow": "Unsteady risk indicators around {house} advise against capital-heavy ventures right now. Steady salaried employment through {year_range} allows {planet} to stabilize your foundation.",
+      "remedy": "Chant Om Budhaya Namah on Wednesdays and keep written financial budgets cleanly reviewed every week.",
+      "redirect": "Structured salaried service or salaried leadership looks safer and more rewarding than solo capital risk right now."
+    },
+    "job_promotion": {
+      "Strong": "Your {house} lord and D10 Dashamsha highlight upward visibility, with {planet} reinforcing recognition. Meaningful role upgrades or new job offers cluster favorably around {year_range}.",
+      "Moderate": "Consistent delivery around {house} is steadily noticed by leadership as {planet} gains strength. Updating skills and initiating review conversations near {year_range} supports advancement.",
+      "Weak": "Progress around {house} may feel slower than expected due to heavy workload or shifting priorities. Focusing on measurable deliverables until {year_range} lets {planet} unlock overdue credit.",
+      "NotNow": "The present dasha emphasizes quiet skill-building over immediate title jumps around {house}. Avoid impulsive resignations; wait for {planet} alignment around {year_range}.",
+      "remedy": "Express gratitude to mentors, offer yellow sweets on Thursdays, and maintain punctual morning routines.",
+      "redirect": "Lateral skill acquisition or a certification now will fetch a higher jump than switching roles hastily."
+    },
+    "dhan_yog": {
+      "Strong": "A clear Dhan Yog connects your {house}, 11th gains, and {planet}, signaling strong earning and saving capacity. Wealth momentum accelerates noticeably across {year_range}.",
+      "Moderate": "Steady income and gradual asset compounding are supported by {planet} and your {house}. Disciplined monthly allocation turns {year_range} into a productive accumulation phase.",
+      "Weak": "Earnings arrive through steady personal effort rather than windfalls, as {house} asks for tighter expense tracking. Avoid speculative bets while {planet} consolidates through {year_range}.",
+      "NotNow": "Cashflow currently prioritizes essentials and stability over rapid expansion around {house}. Preserving emergency savings until {year_range} prepares you for stronger {planet} gains.",
+      "remedy": "Keep finances transparent, donate a small portion of earnings on Thursdays, and recite Sri Suktam or Om Gurave Namah.",
+      "redirect": "Focus on steady skill-based income and low-risk compounding rather than speculative investments."
+    },
+    "debt_clearance": {
+      "Strong": "Favorable 11th gains and supportive {planet} placement help income outpace obligations cleanly. A structured repayment plan gains strong relief momentum across {year_range}.",
+      "Moderate": "Your {house} shows manageable liabilities that respond well to consolidated budgeting and steady discipline. Consistent payments bring visible breathing room by {year_range}.",
+      "Weak": "Obligations around {house} require careful prioritization to avoid taking new short-term credit. With {planet} guiding restraint, steady reduction becomes noticeably easier in {year_range}.",
+      "NotNow": "Current planetary alignments around {house} caution strictly against fresh borrowing. Renegotiate high-interest dues and focus on cash conservation until {year_range} brings {planet} relief.",
+      "remedy": "Chant Hanuman Chalisa on Tuesdays and avoid lending or borrowing on Tuesdays; review monthly budgets calmly.",
+      "redirect": "Pause new lifestyle upgrades and consolidate existing high-cost dues first for fastest relief."
+    },
+    "property_yog": {
+      "Strong": "Strong {house} support paired with dignified {planet} indicates solid potential for land, home, or real-estate ownership. Favorable documentation and possession windows open around {year_range}.",
+      "Moderate": "Your {house} supports gradual home acquisition when savings and clear legal verification align with {planet}. Realistic property research around {year_range} brings promising options.",
+      "Weak": "Property indications around {house} suggest taking extra care with paperwork, titles, and loan ratios. Waiting for {planet} dasha support in {year_range} protects long-term equity.",
+      "NotNow": "Liquidity and flexibility serve you better than locking capital into real estate right now. Revisit purchase plans around {year_range} when {planet} strengthens {house} stability.",
+      "remedy": "Keep your current home entrance clean and bright; offer sweet wheat rotis or jaggery on Tuesdays.",
+      "redirect": "Building liquid savings and improving credit readiness now creates far stronger terms later."
+    },
+    "foreign_travel": {
+      "Strong": "Active {house}, 9th house, and {planet} placements highlight genuine potential for overseas travel, study, or international work. Meaningful movement windows open around {year_range}.",
+      "Moderate": "Your chart shows encouraging openness to cross-border projects, remote global roles, or short overseas trips via {planet}. Opportunities around {year_range} reward proactive preparation.",
+      "Weak": "Stronger domestic roots around {house} indicate that regional growth currently yields steadier returns than permanent relocation. Short-term travel remains possible around {year_range} under {planet}.",
+      "NotNow": "Immediate relocation plans face paperwork or timing friction around {house}. Strengthening credentials locally until {year_range} lets {planet} open smoother international channels.",
+      "remedy": "Meditate calmly before travel applications and donate clean drinking water or food to travelers on Saturdays.",
+      "redirect": "Remote international collaborations or domestic leadership roles look smoother than immediate relocation."
+    },
+    "career_field": {
+      "Strong": "Your {house}, D10 Dashamsha, and {planet} point strongly toward analytical, advisory, technology, finance, or structured leadership fields. Aligning specialization around {year_range} brings peak satisfaction.",
+      "Moderate": "A blend of communication, operations, and people-centered problem solving suits your {house} and {planet}. Focusing on one core domain across {year_range} multiplies credibility.",
+      "Weak": "Your chart shows versatile interests around {house}, making early specialization feel uncertain. Testing structured roles mentored by experienced seniors through {year_range} clarifies {planet}'s best fit.",
+      "NotNow": "Avoid switching industries abruptly right now; use current responsibilities around {house} to build transferable skills until {year_range} clarifies {planet}'s direction.",
+      "remedy": "Keep a clean study/work desk facing North or East and chant Gayatri or Budha mantra before key tasks.",
+      "redirect": "Combining structured operations with advisory or analytical work suits you better than scattered freelancing."
+    },
+    "competitive_exams": {
+      "Strong": "Sharp intellect from {planet} and disciplined grit in {house} strongly favor competitive exams and merit selections. Consistent mock practice aligns with success around {year_range}.",
+      "Moderate": "Your {house} supports clearing competitive hurdles when structured revision offsets distraction. Targeting the {year_range} exam cycle with steady discipline brings encouraging {planet} results.",
+      "Weak": "High competition around {house} means last-minute cramming will fall short; only methodical daily schedules work. Give yourself extra preparation buffer through {year_range} for {planet} support.",
+      "NotNow": "Current planetary rhythms favor practical skill-building or portfolio-based entry over high-cut-off written exams around {house}. Reassess exam attempts near {year_range} when {planet} sharpens focus.",
+      "remedy": "Study early in the morning, offer green moong or books to students on Wednesdays, and stay hydrated.",
+      "redirect": "Skill-based portfolios, technical certifications, or interviews look stronger than pure memory-based exams right now."
+    },
+    "children_timing": {
+      "Strong": "A supportive {house}, strong {planet}, and harmonious D7 Saptamsha bless creative lineage and joy with children. The dasha window around {year_range} looks warm and auspicious.",
+      "Moderate": "Your {house} and D7 chart carry gentle, encouraging indications for progeny supported by {planet}. Calm wellness care and peaceful routines harmonize well with {year_range}.",
+      "Weak": "Indications around {house} suggest honoring medical wellness, stress reduction, and patience as {planet} matures. Supportive planetary alignment improves gently toward {year_range}.",
+      "NotNow": "Current periods emphasize emotional rest and health preparation around {house} before expansion. Seek trusted medical guidance alongside {planet} support as {year_range} approaches.",
+      "remedy": "Offer yellow fruits or turmeric on Thursdays, chant Santan Gopala or Guru mantra, and nurture joy at home.",
+      "redirect": "Prioritize restorative rest, balanced nutrition, and trusted healthcare guidance during this preparation window."
+    },
+    "health_areas": {
+      "Strong": "Your {house} ruler and {planet} show resilient core vitality and steady recovery capacity. Maintaining rhythmic sleep and hydration keeps {year_range} remarkably balanced.",
+      "Moderate": "Overall stamina is solid, though digestive rhythm, stress tension, or sleep quality deserve steady care under {planet}. Preventive routines protect wellness smoothly across {year_range}.",
+      "Weak": "Sensitivity around {house}—including fatigue, digestion, joints, or stress-related strain—calls for consistent daily pacing during {year_range}. Do not ignore early warning signals from {planet}.",
+      "NotNow": "A demanding planetary stretch around {house} requires deliberate rest, light sattvic nutrition, and timely medical checkups through {year_range}. Let {planet} teach gentler self-care.",
+      "remedy": "Practice 10 minutes of morning pranayama, get early sunlight, and keep evening meals warm and light.",
+      "redirect": "Consult a qualified physician promptly for persistent symptoms; steady routine is your strongest ally."
+    },
+    "mangal_dosha": {
+      "Strong": "Your chart shows Mars well-balanced or naturally neutralized relative to {house}, with {planet} lending steadiness. Traditional Mangal Dosha anxiety does not hold back your harmony in {year_range}.",
+      "Moderate": "Mars creates mild drive around {house}, reflecting strong passion and candor rather than severe obstruction. Mindful listening and {planet} balance ensure peaceful partnership across {year_range}.",
+      "Weak": "Mangal Dosha indications appear active around {house}, calling for patience with temper and careful chart matching before marriage. {planet} support and calm dialogue ease {year_range}.",
+      "NotNow": "Active Mars placement around {house} asks for conscious anger management and thorough compatibility review before commitments. Practicing {planet} remedies steadily improves harmony by {year_range}.",
+      "remedy": "Recite Hanuman Chalisa on Tuesdays, donate red lentils or jaggery, and cultivate gentle speech at home.",
+      "redirect": "Focus on emotional maturity and pre-marriage compatibility matching; Manglik placement is manageable, never a curse."
+    },
+    "sade_sati": {
+      "Strong": "Your natal Moon sits comfortably outside active Sade Sati stress, with {planet} supporting steady mental clarity. Use this open period through {year_range} to build lasting projects.",
+      "Moderate": "Saturn's influence relative to {house} and {planet} asks for steady realism and disciplined patience rather than haste. Consistency turns {year_range} into durable achievement.",
+      "Weak": "Sade Sati's testing rhythm touches your lunar {house}, bringing heavier responsibilities that forge rare resilience. Relief and lighter momentum build steadily as {planet} shifts around {year_range}.",
+      "NotNow": "You are navigating an active Saturn cycle around {house} that rewards humility, clean ethics, and unhurried pacing. Avoid shortcuts; steadier relief arrives as this cycle closes near {year_range}.",
+      "remedy": "Light a sesame oil lamp on Saturday evenings, serve elders kindly, and keep promises faithfully.",
+      "redirect": "Treat Sade Sati as a season of disciplined craftsmanship—slow, honest effort now builds unshakeable rewards."
+    }
+  }
+}

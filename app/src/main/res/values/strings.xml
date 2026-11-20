@@ -1,0 +1,404 @@
+<resources>
+    <string name="app_name">AstroVeda</string>
+    <string name="studio_name">AryaLeela Studios</string>
+    <string name="disclaimer_text">For guidance only. Not a substitute for professional advice.</string>
+
+    <!-- Navigation & Top Bar -->
+    <string name="tab_kundali">Kundali</string>
+    <string name="tab_predictions">Predictions</string>
+    <string name="tab_shaadi_milan">Shaadi Milan</string>
+    <string name="cd_astroveda_logo">AstroVeda logo</string>
+    <string name="cd_profile_avatar">Open profile and settings</string>
+    <string name="cd_person_dropdown">Select person</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_expand">Expand section</string>
+    <string name="cd_collapse">Collapse section</string>
+    <string name="add_short">+ Add</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_choose_language">Choose your language</string>
+    <string name="onboarding_choose_language_sub">Select your preferred reading language</string>
+    <string name="onboarding_continue">Continue</string>
+    <string name="onboarding_name_title">What should we call you?</string>
+    <string name="onboarding_name_subtitle">Your name stays completely private on this device</string>
+    <string name="onboarding_name_placeholder">Enter your preferred name</string>
+    <string name="onboarding_default_guest">Seeker</string>
+    <string name="onboarding_get_started">Get Started</string>
+    <string name="onboarding_step3_title">Welcome, %1$s!</string>
+    <string name="onboarding_step3_subtitle">Your private Vedic astrology companion is ready. Add a birth profile to explore charts, predictions, and deep-dive life readings.</string>
+    <string name="onboarding_explore_tab">Explore Kundali tab</string>
+
+    <!-- Kundali Empty State & Actions -->
+    <string name="empty_kundali_title">No Kundali yet</string>
+    <string name="empty_kundali_subtitle">Add your first person to calculate authentic Vedic charts, Panchang, Vimshottari Dasha, deep-dive readings, and predictions.</string>
+    <string name="cta_add_first_person">+ Add your first person</string>
+    <string name="cta_add_new">+ Add New</string>
+
+    <!-- Kundali Sections -->
+    <string name="todays_prediction_title">Today\'s Prediction</string>
+    <string name="read_more_cta">Read more →</string>
+    <string name="chart_section_title">Kundali Birth Chart</string>
+    <string name="chart_lagna_label">Lagna: %1$s (%2$s)</string>
+    <string name="chart_style_north">North</string>
+    <string name="chart_style_south">South</string>
+    <string name="chart_style_north_full">North Indian</string>
+    <string name="chart_style_south_full">South Indian</string>
+    <string name="chart_south_watermark">South Indian Chart</string>
+    <string name="chart_asc_short">Asc</string>
+    <string name="chart_lagna_short">Lag</string>
+
+    <string name="section_cosmic_highlights">Your Cosmic Highlights</string>
+    <string name="highlight_chart_career">Career</string>
+    <string name="highlight_chart_marriage">Marriage</string>
+    <string name="highlight_chart_self">Self</string>
+
+    <string name="section_your_reading">Your Reading</string>
+    <string name="reading_personality">Personality &amp; Demeanor</string>
+    <string name="reading_career">Career &amp; Wealth</string>
+    <string name="reading_relationships">Relationships &amp; Marriage</string>
+    <string name="reading_health">Health &amp; Vitality</string>
+    <string name="reading_dharma">Dharma &amp; Life Purpose</string>
+    <string name="reading_tap_explore">Deep Dive</string>
+    <string name="reading_current_phase">Current Phase (Dasha)</string>
+    <string name="reading_active_dasha">Active Dasha: %1$s</string>
+    <string name="reading_dasha_note">According to the Vimshottari Dasha system, this planetary period emphasizes steady clarity, purposeful effort, and balanced growth.</string>
+    <string name="reading_lucky_elements">Lucky Elements</string>
+    <string name="reading_remedies">Remedies &amp; Upay</string>
+
+    <string name="lucky_number">Lucky Number</string>
+    <string name="lucky_color">Lucky Color</string>
+    <string name="lucky_day">Lucky Day</string>
+    <string name="lucky_direction">Auspicious Direction</string>
+    <string name="lucky_gemstone">Benefic Gemstone</string>
+
+    <string name="remedy_mantra">Mantra</string>
+    <string name="remedy_charity">Charity</string>
+    <string name="remedy_fasting">Fasting</string>
+    <string name="remedy_behavioral">Behavioral</string>
+
+    <!-- Predictions Section & Screen -->
+    <string name="section_predictions">Predictions</string>
+    <string name="predictions_screen_title">Predictions</string>
+    <string name="period_daily">Daily</string>
+    <string name="period_monthly">Monthly</string>
+    <string name="period_yearly">Yearly</string>
+    <string name="period_life">Life</string>
+    <string name="prediction_daily_card">Daily Prediction</string>
+    <string name="prediction_monthly_card">Monthly Prediction</string>
+    <string name="prediction_yearly_card">Yearly Prediction</string>
+    <string name="prediction_life_card">Life Prediction</string>
+    <string name="prediction_sign_label">Moon Sign: %1$s</string>
+    <string name="prediction_guidance_title">Guidance for You</string>
+    <string name="prediction_lucky_title">Lucky Elements</string>
+
+    <!-- Detailed Charts -->
+    <string name="section_detailed_charts">Detailed Astrological Charts</string>
+    <string name="detail_planets_title">Planets (Sign, Degree, Retro, Nakshatra)</string>
+    <string name="col_planet">Planet</string>
+    <string name="col_sign">Sign</string>
+    <string name="col_deg">Deg</string>
+    <string name="col_nakshatra">Nakshatra</string>
+    <string name="detail_bhava_title">Bhava (House Cusps)</string>
+    <string name="house_label">House %1$d</string>
+    <string name="detail_dasha_title">Vimshottari Dasha (Maha → Antar)</string>
+    <string name="maha_dasha_suffix">%1$s Maha Dasha</string>
+    <string name="detail_panchang_title">Panchang at Birth</string>
+    <string name="panchang_tithi">Tithi</string>
+    <string name="panchang_vara">Vara (Day)</string>
+    <string name="panchang_nakshatra">Nakshatra</string>
+    <string name="panchang_yoga">Yoga</string>
+    <string name="panchang_karana">Karana</string>
+    <string name="panchang_sun_times">Sunrise / Sunset</string>
+    <string name="detail_yogas_doshas_title">Yogas &amp; Doshas</string>
+    <string name="remedy_prefix">Remedy: %1$s</string>
+    <string name="detail_divisional_title">Divisional Charts (D9, D10, D7)</string>
+
+    <!-- Actions -->
+    <string name="section_actions">Actions &amp; Export</string>
+    <string name="action_export_pdf">Export Master PDF Report</string>
+    <string name="toast_pdf_generating">Generating Master Kundali PDF…</string>
+    <string name="action_share_json">Share Kundali Data (JSON)</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="toast_pdf_saved">PDF report saved successfully</string>
+    <string name="toast_pdf_failed">Failed to export PDF</string>
+    <string name="toast_backup_saved">Backup saved successfully</string>
+    <string name="toast_import_success">Data imported successfully</string>
+    <string name="toast_import_invalid">Invalid JSON file</string>
+    <string name="share_chooser_title">Share Kundali JSON</string>
+
+    <!-- Person Selector Bottom Sheet -->
+    <string name="sheet_select_horoscope">Select Horoscope</string>
+    <string name="sheet_search_hint">Search by name or place…</string>
+    <string name="sheet_no_results">No matching profile found</string>
+    <string name="context_choose_action">Choose an action for this profile:</string>
+    <string name="context_edit">Edit Profile</string>
+    <string name="context_duplicate">Duplicate Profile</string>
+    <string name="context_delete">Delete Profile</string>
+    <string name="close_btn">Close</string>
+    <string name="copy_suffix">%1$s (Copy)</string>
+
+    <!-- Add / Edit Person -->
+    <string name="title_add_person">Add New Person</string>
+    <string name="title_edit_person">Edit Person</string>
+    <string name="step1_title">Step 1: Name &amp; Gender</string>
+    <string name="label_full_name">Full Name (Required)</string>
+    <string name="error_enter_name">Please enter a name</string>
+    <string name="label_gender_optional">Gender (Optional)</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_other">Other</string>
+    <string name="gender_prefer_not">Prefer not to say</string>
+
+    <string name="step2_title">Step 2: Birth Date &amp; Time</string>
+    <string name="label_birth_date">Birth Date</string>
+    <string name="label_birth_time">Birth Time</string>
+    <string name="time_unknown_display">12:00 PM (Unknown)</string>
+    <string name="label_time_unknown">Time unknown</string>
+    <string name="desc_time_unknown">Default 12:00 PM will be used</string>
+    <string name="warning_time_unknown">Notice: Lagna and house cusps may be approximate without exact birth time. Moon sign and Nakshatra remain reliable.</string>
+
+    <string name="step3_title">Step 3: Birth Place &amp; Coordinates</string>
+    <string name="label_birth_place">Birth Place</string>
+    <string name="cd_edit_place">Edit birth place</string>
+    <string name="place_step_hint">• Search places online, pick from 50+ bundled cities, or enter coordinates manually.</string>
+
+    <string name="step4_title">Step 4: About You (Optional)</string>
+    <string name="label_marital_status">Marital Status</string>
+    <string name="marital_single">Single</string>
+    <string name="marital_married">Married</string>
+    <string name="marital_divorced">Divorced</string>
+    <string name="marital_widowed">Widowed</string>
+    <string name="label_occupation">Occupation / Domain</string>
+    <string name="occ_service">Service</string>
+    <string name="occ_business">Business</string>
+    <string name="occ_student">Student</string>
+    <string name="occ_freelancer">Freelancer</string>
+    <string name="occ_homemaker">Homemaker</string>
+    <string name="occ_other">Other</string>
+
+    <string name="step5_title">Step 5: Review &amp; Save</string>
+    <string name="review_name">Name</string>
+    <string name="review_gender">Gender</string>
+    <string name="review_date">Birth Date</string>
+    <string name="review_time">Birth Time</string>
+    <string name="review_place">Place</string>
+    <string name="review_coords">Coordinates</string>
+    <string name="review_marital">Marital Status</string>
+    <string name="review_occupation">Occupation</string>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_save_horoscope">Save Horoscope</string>
+
+    <!-- Place Picker Dialog -->
+    <string name="place_picker_title">Select Birth Place</string>
+    <string name="place_use_location_search">Use location search</string>
+    <string name="place_search_placeholder">Search city or village…</string>
+    <string name="place_attribution">Powered by OpenStreetMap / Photon</string>
+    <string name="place_search_unavailable">Search unavailable — showing city list and manual entry</string>
+    <string name="place_manual_section">Manual Lat / Lon / Timezone</string>
+    <string name="place_lat_label">Latitude</string>
+    <string name="place_lon_label">Longitude</string>
+    <string name="place_tz_label">Timezone (e.g. Asia/Kolkata)</string>
+    <string name="place_city_directory">Major Cities Directory (50+)</string>
+    <string name="place_select_btn">Select Place</string>
+    <string name="cancel_btn">Cancel</string>
+
+    <!-- Shaadi Milan -->
+    <string name="milan_empty_title">Add at least 2 people to match</string>
+    <string name="milan_empty_subtitle">Kundali matching evaluates 36 Gunas and Mangal Dosha compatibility between two saved profiles.</string>
+    <string name="milan_add_person_cta">+ Add Person</string>
+    <string name="milan_select_profiles">Select Profiles to Match</string>
+    <string name="milan_partner_1">Partner 1</string>
+    <string name="milan_partner_2">Partner 2</string>
+    <string name="milan_gunas_unit">/ 36 Gunas</string>
+    <string name="milan_mangal_title">Mangal Dosha Compatibility</string>
+    <string name="milan_breakdown_title">8-Koota Detailed Breakdown</string>
+    <string name="milan_select_partner_1">Select Partner 1</string>
+    <string name="milan_select_partner_2">Select Partner 2</string>
+
+    <!-- Profile Drawer -->
+    <string name="drawer_title">Profile &amp; Settings</string>
+    <string name="drawer_your_name">Your Name</string>
+    <string name="drawer_guest">Guest Seeker</string>
+    <string name="drawer_language">App Language</string>
+    <string name="drawer_notif_title">Daily Horoscope Notification</string>
+    <string name="drawer_notif_subtitle">Morning cosmic guidance</string>
+    <string name="drawer_notif_disabled_hint">Add a person first to receive daily horoscope notifications.</string>
+    <string name="drawer_notif_time">Alert Time</string>
+    <string name="drawer_notif_person">Notification Person</string>
+    <string name="drawer_settings_title">Astrology Settings</string>
+    <string name="drawer_default_chart">Default Chart Style</string>
+    <string name="drawer_ayanamsa">Ayanamsa System</string>
+    <string name="ayanamsa_lahiri">Lahiri</string>
+    <string name="ayanamsa_raman">Raman</string>
+    <string name="ayanamsa_kp">KP</string>
+    <string name="drawer_data_title">Data Management</string>
+    <string name="drawer_export_json">Export all data (JSON via SAF)</string>
+    <string name="drawer_import_json">Import data (JSON via SAF)</string>
+    <string name="drawer_clear_all">Clear all data</string>
+    <string name="drawer_about_title">AstroVeda v1.0</string>
+    <string name="drawer_about_body">Pure offline Vedic astrology engine.\n\nDisclaimer: For guidance only. Not a substitute for professional advice.</string>
+    <string name="clear_dialog_title">Confirm Clear Data</string>
+    <string name="clear_dialog_body">Are you sure you want to clear all saved horoscopes and preferences? This action cannot be undone.</string>
+    <string name="clear_dialog_confirm">Yes, Clear All</string>
+
+    <!-- Notifications & PDF -->
+    <string name="notif_channel_name">Daily AstroVeda Predictions</string>
+    <string name="notif_channel_desc">Daily morning astrological insights and predictions</string>
+    <string name="notif_title_format">%1$s • %2$s</string>
+    <string name="notif_expanded_footer">Lucky Color: %1$s • Lucky No: %2$d\nTap to see today\'s prediction.</string>
+    <string name="pdf_header_title">AstroVeda • Vedic Birth Chart</string>
+    <string name="pdf_header_subtitle">AryaLeela Studios • Offline Vedic Astrology Engine</string>
+    <string name="pdf_panchang_title">Birth Panchang</string>
+    <string name="pdf_planets_title">Planetary Positions</string>
+    <string name="pdf_yogas_title">Key Yogas &amp; Doshas</string>
+    <string name="pdf_lucky_title">Lucky Elements &amp; Remedies</string>
+    <string name="pdf_lagna_row">Lagna (Ascendant)</string>
+    <string name="pdf_date_label">Birth Date:</string>
+    <string name="pdf_time_label">Birth Time:</string>
+    <string name="pdf_place_label">Birth Place:</string>
+    <string name="pdf_panchang_line1">Tithi: %1$s (%2$s)  |  Vara: %3$s  |  Sunrise: %4$s</string>
+    <string name="pdf_panchang_line2">Nakshatra: %1$s  |  Yoga: %2$s  |  Karana: %3$s</string>
+    <string name="pdf_col_planet">Planet</string>
+    <string name="pdf_col_sign">Sign</string>
+    <string name="pdf_col_degree">Degree</string>
+    <string name="pdf_col_retro">Retro</string>
+    <string name="pdf_col_nakshatra">Nakshatra (Pada)</string>
+    <string name="pdf_col_house">House</string>
+    <string name="pdf_lucky_line">Lucky No: %1$d  |  Color: %2$s  |  Day: %3$s  |  Gemstone: %4$s</string>
+    <string name="pdf_mantra_line">Mantra: %1$s</string>
+    <string name="pdf_footer">For guidance only. Not a substitute for professional advice. • AstroVeda (AryaLeela Studios)</string>
+
+    <string name="predictions_theme_header">Cosmic Theme</string>
+    <string name="predictions_action_tip">Tip: Spend a few quiet morning moments in mindfulness and maintain gentle clarity in speech.</string>
+    <string name="share_profile_text">AstroVeda Profile: %1$s\nBirth Date: %2$s\nBirth Time: %3$s\nBirth Place: %4$s\nCoordinates: %5$.4f, %6$.4f (%7$s)</string>
+    <string name="toast_export_error">Export failed: %1$s</string>
+    <string name="toast_import_error">Import failed: %1$s</string>
+    <string name="place_custom_format">Custom (%1$.4f, %2$.4f)</string>
+    <string name="place_coords_summary">Lat: %1$.4f | Lon: %2$.4f | TZ: %3$s</string>
+    <string name="place_city_coords_row">Lat: %1$.2f°, Lon: %2$.2f° • %3$s</string>
+    <string name="drawer_user_default">Seeker</string>
+    <string name="cd_edit_user_name">Edit name</string>
+    <string name="cd_save_user_name">Save name</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="predictions_shortcuts_subtitle">Open full forecast, cosmic theme, and lucky elements</string>
+
+    <!-- Detailed Category Screens -->
+    <string name="cat_career_title">Career &amp; Vocation</string>
+    <string name="cat_wealth_title">Wealth &amp; Prosperity</string>
+    <string name="cat_marriage_title">Relationships &amp; Marriage</string>
+    <string name="cat_health_title">Health &amp; Vitality</string>
+    <string name="cat_dharma_title">Dharma &amp; Life Purpose</string>
+    <string name="cat_career_tab">Career</string>
+    <string name="cat_wealth_tab">Wealth</string>
+    <string name="cat_marriage_tab">Marriage</string>
+    <string name="cat_health_tab">Health</string>
+    <string name="cat_dharma_tab">Dharma</string>
+    <string name="cat_your_gift_label">Cosmic Signature</string>
+    <string name="cat_recommended_paths">Recommended Paths</string>
+    <string name="cat_cautious_zones">Cautious Zones</string>
+    <string name="cat_diverse_paths_title">Aligned Paths &amp; Chart Reasons</string>
+    <string name="cat_career_track_title">Employment vs Business Path</string>
+    <string name="cat_employment_tab">Employment</string>
+    <string name="cat_business_tab">Business</string>
+    <string name="cat_career_employment_sub">Salaried Roles, Public Service, Trades &amp; Mission Organizations</string>
+    <string name="cat_career_business_sub">Independent Ventures, Agencies, D2C Brands &amp; Artisan Studios</string>
+    <string name="cat_power_bars_title">Category Power Bars</string>
+    <string name="cat_narrative_title">Vedic Reading</string>
+    <string name="cat_astro_proof_title">Astrological Proof</string>
+    <string name="cat_yogas_proof_title">Relevant Yogas &amp; Doshas</string>
+    <string name="cat_divisional_chart_title">Chart Evidence (%1$s)</string>
+    <string name="cat_absorbed_topics_title">In-Depth Life Questions &amp; Timing</string>
+    <string name="cat_timing_window_badge">Window: %1$s</string>
+    <string name="cat_cross_reference_title">How Other Life Areas Connect</string>
+    <string name="cat_tap_to_open">Explore →</string>
+    <string name="cat_actionable_advice_title">Actionable Guidance</string>
+    <string name="cat_what_to_do">What to Do</string>
+    <string name="cat_safety_advice">Safety Advice</string>
+    <string name="cat_remedies_title">Category Remedies</string>
+    <string name="cat_remedy_mantra">Mantra</string>
+    <string name="cat_remedy_charity">Charity &amp; Seva</string>
+    <string name="cat_remedy_ritual">Weekly Practice</string>
+
+    <!-- Premium Astro Meters & Cosmic Blueprint -->
+    <string name="meter_excellent">Excellent</string>
+    <string name="meter_favorable">Favorable</string>
+    <string name="meter_growing">Growing</string>
+    <string name="meter_needs_focus">Needs Focus</string>
+    <string name="section_cosmic_blueprint">Your Cosmic Blueprint</string>
+
+    <!-- Category Library Sections -->
+    <string name="cat_personality_heading">Your Personality in This Area</string>
+    <string name="cat_strengths_heading">Your Strengths</string>
+    <string name="cat_challenges_heading">Your Subtle Challenges</string>
+    <string name="cat_superpower_title">Your Superpower</string>
+    <string name="cat_growth_area_title">Area for Growth</string>
+    <string name="cat_growth_guidance_label">Constructive Guidance</string>
+
+    <!-- Category Blueprint Overhaul & Daily Remedies -->
+    <string name="section_daily_remedies">Your Daily Remedies</string>
+    <string name="remedy_label_mantra">The Mantra</string>
+    <string name="remedy_label_why">Why</string>
+    <string name="remedy_label_how">How</string>
+    <string name="cat_match_percent_format">%1$d%% Match</string>
+    <string name="cat_chart_reference_label">Chart Reference</string>
+    <string name="cat_career_dna_title">Career DNA</string>
+    <string name="cat_financial_dna_title">Financial DNA</string>
+    <string name="cat_relationship_dna_title">Relationship DNA</string>
+    <string name="cat_vitality_dna_title">Vitality DNA</string>
+    <string name="cat_soul_alignment_title">Soul Alignment</string>
+    <string name="cat_tier1_career_matches_title">Top Normalized Career Matches</string>
+    <string name="cat_tier2_broad_scopes_title">Broad Industry Scopes</string>
+    <string name="cat_tier3_career_attitude_title">How to Approach Your Work</string>
+    <string name="cat_tier1_wealth_sources_title">Top Normalized Wealth Sources</string>
+    <string name="cat_tier2_money_mindset_title">Your Money Mindset</string>
+    <string name="cat_tier3_wealth_rules_title">Universal Wealth Rules</string>
+    <string name="cat_tier1_spouse_profile_title">Spouse Profile &amp; Golden Timing</string>
+    <string name="cat_tier2_love_vs_arranged_title">Love vs. Arranged Path</string>
+    <string name="cat_tier3_rel_psychology_title">Relationship Psychology</string>
+    <string name="cat_tier1_health_focus_title">Areas for Mindful Care</string>
+    <string name="cat_tier2_health_action_title">Daily Vitality Action Plan</string>
+    <string name="cat_tier3_health_mindset_title">Holistic Health Mindset</string>
+    <string name="cat_health_medical_disclaimer_title">Medical Disclaimer</string>
+    <string name="cat_tier1_soul_mission_title">Past Life Resonance &amp; Soul Mission</string>
+    <string name="cat_tier2_life_themes_title">Overarching Life Themes</string>
+    <string name="cat_tier3_spiritual_attitude_title">Spiritual Attitude</string>
+    <string name="cat_creative_faqs_title">Deep-Dive Questions &amp; Answers</string>
+    <string name="cat_future_focus_title">Future Focus &amp; Self-Mastery</string>
+
+    <!-- Part A: Collapsible Category Story & Tier 1 Expand -->
+    <string name="cat_story_career_title">Your Career Story</string>
+    <string name="cat_story_wealth_title">Your Wealth Story</string>
+    <string name="cat_story_marriage_title">Your Marriage Story</string>
+    <string name="cat_story_health_title">Your Health Story</string>
+    <string name="cat_story_dharma_title">Your Dharma Story</string>
+    <string name="cat_story_subtitle">A multi-chapter synthesis of your planetary placements &amp; Dasha</string>
+    <string name="cat_tier1_show_more">Show top 5 aligned paths</string>
+    <string name="cat_tier1_show_less">Show top 3 aligned paths</string>
+
+    <!-- Part B: 2027 Comprehensive Report -->
+    <string name="kundali_year_2027_badge">2027 ANNUAL EDITION</string>
+    <string name="kundali_year_2027_title">Your 2027 Forecast</string>
+    <string name="kundali_year_2027_subtitle">Windowed Dasha periods, golden &amp; effort months, 5 category deep-dives &amp; Jan–Dec timeline</string>
+    <string name="kundali_year_2027_cta">Open Full 2027 Report →</string>
+    <string name="year_2027_screen_title">2027 Comprehensive Report</string>
+    <string name="year_2027_hero_label">2027 COSMIC THEME</string>
+    <string name="year_2027_dasha_badge">Active in 2027: %1$s</string>
+    <string name="year_2027_at_a_glance">2027 at a Glance</string>
+    <string name="year_2027_dasha_timeline">Vimshottari Sub-Periods Active in 2027</string>
+    <string name="year_2027_golden_windows">Golden Windows in 2027</string>
+    <string name="year_2027_effort_windows">Windows Calling for Extra Effort</string>
+    <string name="year_2027_golden_chip">Golden: %1$s</string>
+    <string name="year_2027_effort_chip">Requires Extra Effort: %1$s</string>
+    <string name="year_2027_deep_dives_title">2027 Category Deep-Dives</string>
+    <string name="year_2027_remedy_note_label">2027 Alignment Practice</string>
+    <string name="year_2027_monthly_title">Month-by-Month 2027 Timeline (Jan–Dec)</string>
+    <string name="year_2027_moon_transit_prefix">Transit Pulse: %1$s</string>
+    <string name="year_2027_lucky_focus">Lucky Focus</string>
+    <string name="year_2027_effort_focus">Mindful Focus</string>
+    <string name="year_2027_charts_appendix_title">2027 Charts &amp; Sign Matrix Appendix</string>
+    <string name="year_2027_sign_matrix_title">Planetary Sign Placement (D1 / D9 / D10)</string>
+    <string name="year_2027_remedies_title">2027 Remedies Summary</string>
+</resources>

@@ -1,0 +1,227 @@
+{
+  "questions": [
+    {
+      "id": "career_field",
+      "primaryHouse": 10,
+      "houses": [10, 2, 5, 9],
+      "karakas": ["Mercury", "Jupiter", "Sun", "Venus"],
+      "timingDashaLords": ["Mercury", "Jupiter", "Sun", "HOUSE_10_LORD"],
+      "relatedIds": ["job_vs_business", "govt_job", "job_promotion"],
+      "checks": [
+        { "type": "HOUSE_LORD_STRONG", "house": 10, "weight": 25, "partialWeight": 12 },
+        { "type": "D10_SUPPORT", "planet": "Mercury", "weight": 20, "partialWeight": 10 },
+        { "type": "KARAKA_STRONG", "planet": "Jupiter", "weight": 20, "partialWeight": 10 },
+        { "type": "BENEFIC_IN_HOUSES", "houses": [1, 5, 9, 10], "weight": 20, "partialWeight": 10 },
+        { "type": "HOUSE_LORD_STRONG", "house": 5, "weight": 15, "partialWeight": 8 }
+      ]
+    },
+    {
+      "id": "dhan_yog",
+      "primaryHouse": 2,
+      "houses": [2, 11, 5, 9],
+      "karakas": ["Jupiter", "Venus"],
+      "timingDashaLords": ["Jupiter", "Venus", "HOUSE_2_LORD", "HOUSE_11_LORD", "HOUSE_9_LORD"],
+      "relatedIds": ["debt_clearance", "property_yog", "job_vs_business"],
+      "checks": [
+        { "type": "HOUSE_LORD_STRONG", "house": 2, "weight": 20, "partialWeight": 10 },
+        { "type": "HOUSE_LORD_STRONG", "house": 11, "weight": 25, "partialWeight": 12 },
+        { "type": "KARAKA_STRONG", "planet": "Jupiter", "weight": 20, "partialWeight": 10 },
+        { "type": "BENEFIC_IN_HOUSES", "houses": [2, 5, 9, 11], "weight": 20, "partialWeight": 10 },
+        { "type": "YOGA_PRESENT", "yogaKey": "Gajakesari", "weight": 15, "partialWeight": 5 }
+      ]
+    },
+    {
+      "id": "job_promotion",
+      "primaryHouse": 10,
+      "houses": [10, 11, 9, 6],
+      "karakas": ["Jupiter", "Sun", "Saturn"],
+      "timingDashaLords": ["Jupiter", "Sun", "Saturn", "HOUSE_10_LORD", "HOUSE_11_LORD"],
+      "relatedIds": ["career_field", "job_vs_business", "dhan_yog"],
+      "checks": [
+        { "type": "HOUSE_LORD_STRONG", "house": 10, "weight": 25, "partialWeight": 12 },
+        { "type": "HOUSE_LORD_STRONG", "house": 11, "weight": 20, "partialWeight": 10 },
+        { "type": "BENEFIC_IN_HOUSES", "houses": [10, 11, 9], "weight": 20, "partialWeight": 10 },
+        { "type": "D10_SUPPORT", "planet": "Jupiter", "weight": 20, "partialWeight": 10 },
+        { "type": "DASHA_FAVORABLE", "houses": [10, 11, 9], "weight": 15, "partialWeight": 7 }
+      ]
+    },
+    {
+      "id": "job_vs_business",
+      "primaryHouse": 10,
+      "houses": [6, 7, 10, 11],
+      "karakas": ["Mercury", "Saturn", "Sun"],
+      "timingDashaLords": ["Mercury", "Saturn", "Sun", "HOUSE_10_LORD", "HOUSE_7_LORD"],
+      "relatedIds": ["career_field", "dhan_yog", "job_promotion"],
+      "checks": [
+        { "type": "KARAKA_STRONG", "planet": "Mercury", "weight": 25, "partialWeight": 12 },
+        { "type": "HOUSE_LORD_STRONG", "house": 7, "weight": 20, "partialWeight": 10 },
+        { "type": "HOUSE_LORD_STRONG", "house": 10, "weight": 20, "partialWeight": 10 },
+        { "type": "HOUSE_LORD_STRONG", "house": 11, "weight": 20, "partialWeight": 10 },
+        { "type": "D10_SUPPORT", "planet": "Mercury", "weight": 15, "partialWeight": 7 }
+      ]
+    },
+    {
+      "id": "govt_job",
+      "primaryHouse": 10,
+      "houses": [10, 6, 9, 1],
+      "karakas": ["Sun", "Jupiter", "Saturn"],
+      "timingDashaLords": ["Sun", "Jupiter", "Saturn", "HOUSE_10_LORD", "HOUSE_6_LORD"],
+      "relatedIds": ["competitive_exams", "job_vs_business", "job_promotion"],
+      "checks": [
+        { "type": "KARAKA_STRONG", "planet": "Sun", "weight": 25, "partialWeight": 12 },
+        { "type": "PLANET_IN_HOUSES", "planet": "Sun", "houses": [1, 4, 5, 6, 9, 10, 11], "weight": 20, "partialWeight": 10 },
+        { "type": "HOUSE_LORD_STRONG", "house": 10, "weight": 20, "partialWeight": 10 },
+        { "type": "KARAKA_STRONG", "planet": "Jupiter", "weight": 15, "partialWeight": 8 },
+        { "type": "D10_SUPPORT", "planet": "Sun", "weight": 20, "partialWeight": 10 }
+      ]
+    },
+    {
+      "id": "debt_clearance",
+      "primaryHouse": 6,
+      "houses": [6, 11, 12, 2],
+      "karakas": ["Jupiter", "Mars", "Saturn"],
+      "timingDashaLords": ["Jupiter", "Mercury", "Venus", "HOUSE_11_LORD", "HOUSE_2_LORD"],
+      "relatedIds": ["dhan_yog", "property_yog", "sade_sati"],
+      "checks": [
+        { "type": "HOUSE_LORD_STRONG", "house": 11, "weight": 25, "partialWeight": 12 },
+        { "type": "HOUSE_LORD_AVOID_DUSTHANA", "house": 2, "weight": 20, "partialWeight": 10 },
+        { "type": "KARAKA_STRONG", "planet": "Jupiter", "weight": 20, "partialWeight": 10 },
+        { "type": "NO_DUSTHANA_CLUSTER", "houses": [6, 8, 12], "weight": 20, "partialWeight": 10 },
+        { "type": "DOSHA_ABSENT", "doshaKey": "SadeSati", "weight": 15, "partialWeight": 7 }
+      ]
+    },
+    {
+      "id": "property_yog",
+      "primaryHouse": 4,
+      "houses": [4, 2, 11],
+      "karakas": ["Mars", "Venus", "Moon"],
+      "timingDashaLords": ["Mars", "Venus", "Moon", "HOUSE_4_LORD", "HOUSE_11_LORD"],
+      "relatedIds": ["dhan_yog", "debt_clearance", "foreign_travel"],
+      "checks": [
+        { "type": "HOUSE_LORD_STRONG", "house": 4, "weight": 25, "partialWeight": 12 },
+        { "type": "KARAKA_STRONG", "planet": "Mars", "weight": 25, "partialWeight": 12 },
+        { "type": "BENEFIC_IN_HOUSES", "houses": [4, 11], "weight": 20, "partialWeight": 10 },
+        { "type": "KARAKA_STRONG", "planet": "Venus", "weight": 15, "partialWeight": 8 },
+        { "type": "HOUSE_LORD_STRONG", "house": 11, "weight": 15, "partialWeight": 8 }
+      ]
+    },
+    {
+      "id": "competitive_exams",
+      "primaryHouse": 6,
+      "houses": [6, 5, 9, 1],
+      "karakas": ["Mercury", "Mars", "Jupiter", "Sun"],
+      "timingDashaLords": ["Mercury", "Jupiter", "Sun", "Mars", "HOUSE_6_LORD", "HOUSE_5_LORD"],
+      "relatedIds": ["govt_job", "job_promotion", "career_field"],
+      "checks": [
+        { "type": "KARAKA_STRONG", "planet": "Mercury", "weight": 25, "partialWeight": 12 },
+        { "type": "HOUSE_LORD_STRONG", "house": 5, "weight": 20, "partialWeight": 10 },
+        { "type": "KARAKA_STRONG", "planet": "Mars", "weight": 20, "partialWeight": 10 },
+        { "type": "KARAKA_STRONG", "planet": "Jupiter", "weight": 20, "partialWeight": 10 },
+        { "type": "HOUSE_LORD_STRONG", "house": 6, "weight": 15, "partialWeight": 8 }
+      ]
+    },
+    {
+      "id": "foreign_travel",
+      "primaryHouse": 12,
+      "houses": [9, 12, 7, 3],
+      "karakas": ["Rahu", "Moon", "Venus"],
+      "timingDashaLords": ["Rahu", "Moon", "Venus", "HOUSE_9_LORD", "HOUSE_12_LORD"],
+      "relatedIds": ["career_field", "property_yog", "dhan_yog"],
+      "checks": [
+        { "type": "PLANET_IN_HOUSES", "planet": "Rahu", "houses": [9, 12, 7, 3, 10], "weight": 25, "partialWeight": 12 },
+        { "type": "HOUSE_LORD_STRONG", "house": 9, "weight": 25, "partialWeight": 12 },
+        { "type": "PLANET_IN_HOUSES", "planet": "Moon", "houses": [3, 7, 9, 12], "weight": 20, "partialWeight": 10 },
+        { "type": "HOUSE_LORD_STRONG", "house": 12, "weight": 15, "partialWeight": 8 },
+        { "type": "D9_SUPPORT", "planet": "Rahu", "weight": 15, "partialWeight": 7 }
+      ]
+    },
+    {
+      "id": "marriage_timing",
+      "primaryHouse": 7,
+      "houses": [7, 2, 11],
+      "karakas": ["Venus", "Jupiter"],
+      "timingDashaLords": ["Venus", "Jupiter", "Moon", "HOUSE_7_LORD", "HOUSE_11_LORD"],
+      "relatedIds": ["marriage_type", "mangal_dosha", "children_timing"],
+      "checks": [
+        { "type": "HOUSE_LORD_STRONG", "house": 7, "weight": 25, "partialWeight": 12 },
+        { "type": "BENEFIC_IN_HOUSES", "houses": [7, 2, 11], "weight": 20, "partialWeight": 10 },
+        { "type": "KARAKA_STRONG", "planet": "Venus", "weight": 20, "partialWeight": 10 },
+        { "type": "D9_SUPPORT", "planet": "Venus", "weight": 20, "partialWeight": 10 },
+        { "type": "DOSHA_ABSENT", "doshaKey": "Mangal", "weight": 15, "partialWeight": 7 }
+      ]
+    },
+    {
+      "id": "marriage_type",
+      "primaryHouse": 7,
+      "houses": [5, 7, 9, 11],
+      "karakas": ["Venus", "Rahu", "Moon"],
+      "timingDashaLords": ["Venus", "Rahu", "Moon", "HOUSE_5_LORD", "HOUSE_7_LORD"],
+      "relatedIds": ["marriage_timing", "mangal_dosha", "sade_sati"],
+      "checks": [
+        { "type": "HOUSE_LORD_STRONG", "house": 5, "weight": 25, "partialWeight": 12 },
+        { "type": "PLANET_IN_HOUSES", "planet": "Venus", "houses": [1, 5, 7, 9, 11], "weight": 25, "partialWeight": 12 },
+        { "type": "PLANETS_SAME_OR_ASPECT", "planetA": "Venus", "planetB": "Mars", "weight": 20, "partialWeight": 10 },
+        { "type": "HOUSE_LORD_STRONG", "house": 7, "weight": 15, "partialWeight": 8 },
+        { "type": "D9_SUPPORT", "planet": "Moon", "weight": 15, "partialWeight": 8 }
+      ]
+    },
+    {
+      "id": "children_timing",
+      "primaryHouse": 5,
+      "houses": [5, 9, 11],
+      "karakas": ["Jupiter", "Moon"],
+      "timingDashaLords": ["Jupiter", "Moon", "Venus", "HOUSE_5_LORD", "HOUSE_9_LORD"],
+      "relatedIds": ["marriage_timing", "dhan_yog", "health_areas"],
+      "checks": [
+        { "type": "HOUSE_LORD_STRONG", "house": 5, "weight": 25, "partialWeight": 12 },
+        { "type": "KARAKA_STRONG", "planet": "Jupiter", "weight": 25, "partialWeight": 12 },
+        { "type": "D7_SUPPORT", "planet": "Jupiter", "weight": 25, "partialWeight": 12 },
+        { "type": "BENEFIC_IN_HOUSES", "houses": [5, 9, 11], "weight": 15, "partialWeight": 8 },
+        { "type": "NO_DUSTHANA_CLUSTER", "houses": [5], "weight": 10, "partialWeight": 5 }
+      ]
+    },
+    {
+      "id": "health_areas",
+      "primaryHouse": 1,
+      "houses": [1, 6, 8],
+      "karakas": ["Sun", "Moon", "Saturn"],
+      "timingDashaLords": ["Saturn", "Rahu", "Mars", "HOUSE_6_LORD", "HOUSE_8_LORD"],
+      "relatedIds": ["sade_sati", "debt_clearance", "mangal_dosha"],
+      "checks": [
+        { "type": "HOUSE_LORD_STRONG", "house": 1, "weight": 30, "partialWeight": 15 },
+        { "type": "KARAKA_STRONG", "planet": "Sun", "weight": 20, "partialWeight": 10 },
+        { "type": "KARAKA_STRONG", "planet": "Moon", "weight": 20, "partialWeight": 10 },
+        { "type": "NO_DUSTHANA_CLUSTER", "houses": [1, 6, 8], "weight": 15, "partialWeight": 8 },
+        { "type": "DOSHA_ABSENT", "doshaKey": "SadeSati", "weight": 15, "partialWeight": 8 }
+      ]
+    },
+    {
+      "id": "mangal_dosha",
+      "primaryHouse": 7,
+      "houses": [1, 2, 4, 7, 8, 12],
+      "karakas": ["Mars", "Jupiter", "Venus"],
+      "timingDashaLords": ["Mars", "Jupiter", "Venus", "HOUSE_7_LORD"],
+      "relatedIds": ["marriage_timing", "marriage_type", "sade_sati"],
+      "checks": [
+        { "type": "DOSHA_ABSENT", "doshaKey": "Mangal", "weight": 45, "partialWeight": 20 },
+        { "type": "KARAKA_STRONG", "planet": "Mars", "weight": 20, "partialWeight": 10 },
+        { "type": "KARAKA_STRONG", "planet": "Jupiter", "weight": 20, "partialWeight": 10 },
+        { "type": "D9_SUPPORT", "planet": "Mars", "weight": 15, "partialWeight": 7 }
+      ]
+    },
+    {
+      "id": "sade_sati",
+      "primaryHouse": 12,
+      "houses": [12, 1, 2],
+      "karakas": ["Saturn", "Moon", "Jupiter"],
+      "timingDashaLords": ["Saturn", "Jupiter", "Moon"],
+      "relatedIds": ["health_areas", "debt_clearance", "mangal_dosha"],
+      "checks": [
+        { "type": "DOSHA_ABSENT", "doshaKey": "SadeSati", "weight": 45, "partialWeight": 20 },
+        { "type": "KARAKA_STRONG", "planet": "Saturn", "weight": 20, "partialWeight": 10 },
+        { "type": "KARAKA_STRONG", "planet": "Moon", "weight": 20, "partialWeight": 10 },
+        { "type": "YOGA_PRESENT", "yogaKey": "Gajakesari", "weight": 15, "partialWeight": 6 }
+      ]
+    }
+  ]
+}

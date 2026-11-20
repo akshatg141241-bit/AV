@@ -1,0 +1,325 @@
+{
+  "personality_by_sign": {
+    "0": "Your physical constitution radiates quick fiery Pitta vitality, brisk metabolism, and swift recovery when paced wisely. You possess energetic enthusiasm and respond noticeably well to morning movement and outdoor activity. Guarding your head and cooling excess heat with hydration keeps your lively stamina balanced.",
+    "1": "Grounded earthly steadiness, strong endurance, and comforting sensory rhythms define your health baseline. Your body thrives on regular warm, wholesome meals, outdoor walks, and consistent sleep timing. Avoiding prolonged sedentary comfort keeps lymphatic flow and vitality crisp and light.",
+    "2": "An alert, agile nervous system and responsive breathing rhythms govern your daily wellbeing. Mental stimulation energizes you rapidly, making screen boundaries, gentle pranayama, and rhythmic breaks vital to restful sleep. Grounding movement calms mental chatter into radiant calm.",
+    "3": "Intuitive lunar sensitivity connects your digestive peace directly with your emotional atmosphere. Calm surroundings, warm freshly cooked food, and soothing evening routines keep immunity remarkably strong. Protecting gentle emotional boundaries acts as powerful preventive medicine for you.",
+    "4": "Radiant solar warmth, strong heart vitality, and resilient baseline stamina shape your constitution. Sunlight, proud open posture, and steady cardiovascular joy keep your prana bright all year. Remembering to pause before overexerting pride protects enduring balance.",
+    "5": "Sensitive digestive intelligence and attentive awareness of bodily cues serve your wellbeing nicely. Whole foods, clean hydration, gentle probiotics, and relaxed mealtimes help your meticulous system hum quietly. Replacing worry with trusting breathwork releases needless tension swiftly.",
+    "6": "Balance in hydration, kidney harmony, and aesthetic peaceful environments strongly uplifts your daily vitality. Even sleep schedules, moderate rhythmic exercise, and serene surroundings keep your energy smooth and supple. Avoiding extremes in work or indulgence sustains graceful poise.",
+    "7": "Deep regenerative endurance and remarkable physical resilience carry you strongly through intense demands. Detoxifying hydration, breathwork, and releasing unexpressed stress gently protect long-term cellular health. Restorative nature time recharges your deep reserves completely.",
+    "8": "Robust active energy, strong thighs/hips vitality, and natural optimism boost your healing capacity. Outdoor endurance sports, generous stretching, and open spaces quickly revitalize both mood and immunity. Moderating rich festive foods keeps liver vitality light and bright.",
+    "9": "Steady skeletal durability and surprising late-life resilience define your enduring constitution. Joint mobility, morning warming stretches, adequate minerals, and gentle joyful breaks guard against stiffness from hard work. Slow consistency builds enviable lifelong vigor.",
+    "10": "Electric nervous sensitivity, lively circulation, and mental intensity color your physical rhythm. Grounding barefoot walks, steady hydration, magnesium-rich foods, and consistent bedtime cues soothe over-stimulated thoughts into deep restorative rest.",
+    "11": "Deep empathic sensitivity, restful lymphatic flow, and responsive immune intuition mark your subtle body. Foot care, peaceful sleep sanctuaries, swimming or gentle yoga, and quiet meditation recharge your prana rapidly whenever life feels noisy."
+  },
+  "planet_in_house": {
+    "Sun_1": "Sun in your 1st House radiates strong core vitality, proud posture, and natural physical resilience; balanced hydration keeps fiery heat serene.",
+    "Sun_2": "Sun in your 2nd House illuminates vocal, optical, and dental vitality; clean warm breakfasts and soothing rest protect bright vision.",
+    "Sun_3": "Sun in your 3rd House grants vigorous upper-body stamina, courageous breathing capacity, and energetic daily movement.",
+    "Sun_4": "Sun in your 4th House supports steady heart warmth and chest vitality; peaceful mornings and sunlight nourish domestic calm.",
+    "Sun_5": "Sun in your 5th House strengthens digestive fire (Agni); eating calmly on fixed hours maximizes energetic nutrient absorption.",
+    "Sun_6": "Sun in your 6th House empowers strong disease resistance and rapid athletic recovery through clean disciplined routines.",
+    "Sun_7": "Sun in your 7th House links physical balance with harmonious daily rhythm and adequate afternoon hydration.",
+    "Sun_8": "Sun in your 8th House builds deep core endurance and steady regenerative vitality; rhythmic breathwork sustains deep inner calm.",
+    "Sun_9": "Sun in your 9th House energizes lively hip/leg mobility, morning sunlight rituals, and uplifting outdoor walks.",
+    "Sun_10": "Sun in your 10th House confers strong daytime endurance for demanding careers; evening unwinding protects lasting vitality.",
+    "Sun_11": "Sun in your 11th House circulates lively energy cleanly through group sports, fresh air, and brisk social walks.",
+    "Sun_12": "Sun in your 12th House favors soothing evening routines, dark restful bedrooms, and morning sun exposure to keep sleep deep.",
+    "Moon_1": "Moon in your 1st House links glowing complexion and vitality directly with serene emotional calm and steady hydration.",
+    "Moon_2": "Moon in your 2nd House favors soothing herbal teas, balanced nourishment, and pleasant relaxed mealtime pacing.",
+    "Moon_3": "Moon in your 3rd House energizes respiratory lightness through joyful pranayama, singing, and gentle arm stretching.",
+    "Moon_4": "Moon in your 4th House bestows comforting emotional resilience and strong restorative sleep when home feels serene.",
+    "Moon_5": "Moon in your 5th House connects digestive ease with peaceful mood; light warm home food nourishes smoothly.",
+    "Moon_6": "Moon in your 6th House rewards attentive wellness habits, clean hydration, and soothing rest whenever workload peaks.",
+    "Moon_7": "Moon in your 7th House flourishes with fluid balance, mindful hydration, and serene supportive daily companionship.",
+    "Moon_8": "Moon in your 8th House deepens meditative stillness and intuitive awareness of early fatigue cues for timely renewal.",
+    "Moon_9": "Moon in your 9th House revitalizes spirit and body through nature walks, pilgrimage stillness, and uplifting faith.",
+    "Moon_10": "Moon in your 10th House maintains responsive daytime stamina when purposeful breaks keep stress levels light.",
+    "Moon_11": "Moon in your 11th House lifts wellness beautifully through joyful community movement and relaxed evening circulation.",
+    "Moon_12": "Moon in your 12th House strongly values deep uninterrupted sleep, calming baths, and peaceful meditation before bed.",
+    "Mars_1": "Mars in your 1st House grants abundant muscular vitality, swift reflexes, and courageous athletic drive; gentle cooling balances heat.",
+    "Mars_2": "Mars in your 2nd House fuels energetic speech and strong appetite; mindful slow chewing aids smooth digestion.",
+    "Mars_3": "Mars in your 3rd House brings athletic stamina, resilient shoulder/arm strength, and vigorous brisk recovery.",
+    "Mars_4": "Mars in your 4th House fuels high physical energy at home; consistent daily cardio keeps chest and mind relaxed.",
+    "Mars_5": "Mars in your 5th House creates vigorous digestive Agni and playful athletic enthusiasm; avoiding over-spicy rush protects comfort.",
+    "Mars_6": "Mars in your 6th House gives exceptional immunity, strong physical defense, and rapid bounce-back from exertion.",
+    "Mars_7": "Mars in your 7th House pairs active partnership walks and shared fitness goals with vibrant vitality.",
+    "Mars_8": "Mars in your 8th House grants intense regenerative stamina; careful pacing and safety gear support bold physical activity.",
+    "Mars_9": "Mars in your 9th House strengthens lower-body endurance, hiking passion, and invigorating martial or yoga discipline.",
+    "Mars_10": "Mars in your 10th House supports high work endurance; brief midday mobility breaks guard knee and joint comfort.",
+    "Mars_11": "Mars in your 11th House channels physical vigor productively into team fitness and energizing outdoor milestones.",
+    "Mars_12": "Mars in your 12th House benefits immensely from evening stretching, cool foot soaks, and early screen cutoffs for calm sleep.",
+    "Mercury_1": "Mercury in your 1st House maintains youthful nervous agility and observant self-awareness around wellness habits.",
+    "Mercury_2": "Mercury in your 2nd House thrives on mindful chewing, vocal hydration, and light crisp nutritional choices.",
+    "Mercury_3": "Mercury in your 3rd House supports swift coordination, healthy lung expansion through Nadi Shodhana, and nimble dexterity.",
+    "Mercury_4": "Mercury in your 4th House benefits from calm home ergonomics, uncluttered study corners, and screen-free bedrooms.",
+    "Mercury_5": "Mercury in your 5th House sharpens brain-gut balance; joyful puzzles and unhurried lunches aid clear focus.",
+    "Mercury_6": "Mercury in your 6th House excels at preventive health tracking, clean routines, and responsive mind-body adjustment.",
+    "Mercury_7": "Mercury in your 7th House enjoys balanced daily schedules and calming breathwork between busy conversations.",
+    "Mercury_8": "Mercury in your 8th House supports deep nervous calm through journaling and mindful restorative breathing.",
+    "Mercury_9": "Mercury in your 9th House flourishes with brisk morning walks outdoors that clear both intellect and lungs.",
+    "Mercury_10": "Mercury in your 10th House thrives when structured work timers protect posture, wrists, and clear eyesight.",
+    "Mercury_11": "Mercury in your 11th House uplifts mental lightness through cheerful conversation and steady rhythmic exercise.",
+    "Mercury_12": "Mercury in your 12th House urges soothing digital sunsets 45 minutes before bed for crisp morning cognition.",
+    "Jupiter_1": "Jupiter in your 1st House acts as a classic protective shield of vitality, optimism, and graceful healing resilience.",
+    "Jupiter_2": "Jupiter in your 2nd House favors wholesome satvik nutrition and moderation with rich sweets for lasting brightness.",
+    "Jupiter_3": "Jupiter in your 3rd House expands deep breathing vitality and cheerful endurance during brisk daily walks.",
+    "Jupiter_4": "Jupiter in your 4th House comforts heart and lung peace alongside a joyful, restful home atmosphere.",
+    "Jupiter_5": "Jupiter in your 5th House blesses joyful mental resilience and harmonious digestion when meals feel peaceful.",
+    "Jupiter_6": "Jupiter in your 6th House aids wise healing recovery, balanced weight stewardship, and supportive guidance from skilled doctors.",
+    "Jupiter_7": "Jupiter in your 7th House nurtures holistic equilibrium through peaceful mutual care and unhurried dinners.",
+    "Jupiter_8": "Jupiter in your 8th House provides quiet longevity grace and steady protection during deeper health transitions.",
+    "Jupiter_9": "Jupiter in your 9th House strengthens overall faith, brisk hip vitality, and uplifting morning sunshine routines.",
+    "Jupiter_10": "Jupiter in your 10th House supports balanced executive pace with wise appreciation for restorative rest.",
+    "Jupiter_11": "Jupiter in your 11th House circulates joyful enthusiasm and wellness accountability with uplifting friends.",
+    "Jupiter_12": "Jupiter in your 12th House grants deep peaceful sleep, spiritual calm, and rejuvenating retreats when rest is honored.",
+    "Venus_1": "Venus in your 1st House confers radiant grace, pleasant hormonal equilibrium, and natural vitality nourished by joy.",
+    "Venus_2": "Venus in your 2nd House appreciates delicious food; balancing sweet treats with fresh greens preserves bright energy.",
+    "Venus_3": "Venus in your 3rd House uplifts vitality through rhythmic music, dance, vocal care, and gentle creative movement.",
+    "Venus_4": "Venus in your 4th House flourishes in clean, fragrant, aesthetically soothing home air and comforting sleep spaces.",
+    "Venus_5": "Venus in your 5th House strengthens joyful vitality and reproductive balance through calm delight and artistic expression.",
+    "Venus_6": "Venus in your 6th House emphasizes balanced sugar/hydration awareness and calming self-care routines daily.",
+    "Venus_7": "Venus in your 7th House links physical ease with calm kidney hydration and harmonious daily lifestyle pacing.",
+    "Venus_8": "Venus in your 8th House promotes serene hormonal equilibrium and gentle restorative evenings.",
+    "Venus_9": "Venus in your 9th House revitalizes spirit through scenic nature beauty, unhurried movement, and soothing warmth.",
+    "Venus_10": "Venus in your 10th House balances polished professional pace with soothing evening aesthetics and rest.",
+    "Venus_11": "Venus in your 11th House energizes vibrant wellbeing through joyful social movement and healthy celebratory balance.",
+    "Venus_12": "Venus in your 12th House treasures deeply restful silk-quiet bedrooms, warm baths, and mindful recovery rituals.",
+    "Saturn_1": "Saturn in your 1st House builds tough, long-distance stamina; steady warming mobility keeps joints agile across every decade.",
+    "Saturn_2": "Saturn in your 2nd House favors simple, mineral-rich warm foods, dental care, and regular unhurried meal schedules.",
+    "Saturn_3": "Saturn in your 3rd House develops disciplined breath mastery and enduring upper-back posture strength.",
+    "Saturn_4": "Saturn in your 4th House appreciates warm home climate, deep chest stretching, and nurturing cheerful light daily.",
+    "Saturn_5": "Saturn in your 5th House stabilizes calm eating habits and favors steady digestion with warm spices and fiber.",
+    "Saturn_6": "Saturn in your 6th House builds unshakable chronic resilience, disciplined workout consistency, and methodical recovery.",
+    "Saturn_7": "Saturn in your 7th House thrives on steady lower-back core strength, warm hydration, and reliable sleep schedules.",
+    "Saturn_8": "Saturn in your 8th House awards remarkable longevity endurance through patient preventive habits and calm stress care.",
+    "Saturn_9": "Saturn in your 9th House protects knees and hips best through daily warming yoga stretches and supportive footwear.",
+    "Saturn_10": "Saturn in your 10th House builds tireless professional durability when posture breaks and bone/vitamin D care stay regular.",
+    "Saturn_11": "Saturn in your 11th House supports long-term circulation through daily walking and patient endurance routines.",
+    "Saturn_12": "Saturn in your 12th House values comfortable feet, warm socks, regular bedtimes, and quiet grounding before sleep.",
+    "Rahu_1": "Rahu in your 1st House benefits from grounding nature rituals and clear meal rhythms to keep intense mental energy serene.",
+    "Rahu_2": "Rahu in your 2nd House rewards whole-food simplicity over ultra-processed snacks for bright lasting stamina.",
+    "Rahu_3": "Rahu in your 3rd House thrives on rhythmic cardio and calm breathwork to balance fast nervous energy.",
+    "Rahu_4": "Rahu in your 4th House finds soothing peace in natural greenery, open windows, and gentle evening breathwork.",
+    "Rahu_5": "Rahu in your 5th House benefits from calm, distraction-free lunches for smooth effortless digestion.",
+    "Rahu_6": "Rahu in your 6th House empowers strong recovery through innovative diagnostics, disciplined hygiene, and resilient adaptability.",
+    "Rahu_7": "Rahu in your 7th House prospers when steady sleep hours anchor dynamic social and work rhythms.",
+    "Rahu_8": "Rahu in your 8th House encourages mindful whole foods, steady hydration, and gentle stress release daily.",
+    "Rahu_9": "Rahu in your 9th House enjoys invigorating outdoor exploration paired with sensible travel hydration and rest.",
+    "Rahu_10": "Rahu in your 10th House sustains ambitious pace best when digital breaks protect eyes, neck, and serene focus.",
+    "Rahu_11": "Rahu in your 11th House thrives on fresh air, active group sports, and regular mineral balance.",
+    "Rahu_12": "Rahu in your 12th House strongly benefits from peaceful dark sleep hygiene and grounding meditation before slumber.",
+    "Ketu_1": "Ketu in your 1st House promotes intuitive body awareness, light wholesome nourishment, and responsive restorative rest.",
+    "Ketu_2": "Ketu in your 2nd House appreciates gentle, warm seasonal meals eaten calmly without rush.",
+    "Ketu_3": "Ketu in your 3rd House sharpens breath stillness and soothing focus through mindful meditation.",
+    "Ketu_4": "Ketu in your 4th House values tranquil airy home rest and deep heart-calming pranayama.",
+    "Ketu_5": "Ketu in your 5th House rewards calm intuitive eating and soothing abdominal relaxation.",
+    "Ketu_6": "Ketu in your 6th House supports subtle holistic healing, disciplined minimalism, and sharp preventive discernment.",
+    "Ketu_7": "Ketu in your 7th House nurtures restful calm through rhythmic hydration and balanced personal space.",
+    "Ketu_8": "Ketu in your 8th House unlocks deep meditative recovery, gentle nervous reset, and strong preventive clarity.",
+    "Ketu_9": "Ketu in your 9th House flourishes through contemplative nature walks, yoga, and peaceful morning light.",
+    "Ketu_10": "Ketu in your 10th House supports focused work blocks punctuated by peaceful silent stretch breaks.",
+    "Ketu_11": "Ketu in your 11th House circulates calm vitality through gentle walking and supportive tranquil company.",
+    "Ketu_12": "Ketu in your 12th House blesses deep restorative meditation and peaceful spiritual serenity at bedtime."
+  },
+  "hidden_challenges": {
+    "Sun": "Pushing through intense schedules without pausing can quietly overheat Pitta energy or strain eyes and sleep depth. Honoring morning sunlight and calm evening cooling restores swift vitality.",
+    "Moon": "Internalizing emotional stress directly into appetite or sleep rhythm can temporarily ripple digestion or energy levels. Grounding warm meals and gentle boundaries keep your lunar calm intact.",
+    "Mars": "High drive and impatience toward slow recovery can tempt you back into intense effort before full rest completes. Listening respectfully to early soreness prevents avoidable strain.",
+    "Mercury": "Active thinking well into late evening can leave the nervous system humming when deep sleep wants quiet. A clear screen-free wind-down unlocks effortless mental freshness.",
+    "Jupiter": "Comforting hospitality and enjoyment of rich, generous food can gradually tax weight or liver lightness if movement dips. Pairing joyful meals with brisk daily walks keeps vitality buoyant.",
+    "Venus": "Love for comfort, sweets, and late pleasant evenings can gently soften morning fitness consistency over busy months. Light joyful movement keeps beauty and energy radiant together.",
+    "Saturn": "Long hours of focused stillness or ignoring subtle stiffness can invite sluggish stiffness around joints over winter seasons. Daily 15-minute mobility keeps endurance timeless.",
+    "Rahu": "Erratic meal hours, stimulating caffeine, or screen glow late at night can over-excite subtle nervous rhythms. Anchoring fixed sleep and whole-food rhythms restores steady poise immediately.",
+    "Ketu": "Subtle detachment from physical hunger or thirst cues during deep work can lead to skipped hydration or light meals. Keeping water close by and honoring scheduled breaks preserves vibrant prana."
+  },
+  "superpowers": {
+    "Sun": {
+      "title": "Solar Core Vitality & Quick Bounce-Back",
+      "body": "The Sun strengthens your baseline physical radiance, heart vigor, and natural self-healing spark. Morning light, clean nutrition, and upright movement rapidly multiply your daily stamina. Your vitality responds powerfully to purposeful discipline."
+    },
+    "Moon": {
+      "title": "Intuitive Mind-Body Harmony",
+      "body": "The Moon blesses you with sensitive awareness of what your body truly needs in each season. Peaceful home rest, hydration, and serene emotional warmth rejuvenate you remarkably fast. When heart feels settled, radiant health follows smoothly."
+    },
+    "Mars": {
+      "title": "Vigorous Athletic Stamina & Defense",
+      "body": "Mars energizes your constitution with courageous strength, spirited immunity, and active endurance for physical milestones. Regular sweat, clean exercise, and purposeful movement keep vitality vibrant and protective."
+    },
+    "Mercury": {
+      "title": "Adaptive Awareness & Breath Agility",
+      "body": "Mercury brings observant intelligence to health—helping you adjust diet, posture, and mental rest proactively. Pranayama and structured routines swiftly keep both nervous focus and youthful lightness sharp."
+    },
+    "Jupiter": {
+      "title": "Auspicious Resilience & Healing Grace",
+      "body": "Jupiter wraps your constitution in protective optimism, wise healing support, and joyful vitality. Steady moderate habits, pure gratitude, and fresh air expand your longevity and daily cheer effortlessly."
+    },
+    "Venus": {
+      "title": "Radiant Balance & Restorative Joy",
+      "body": "Venus sustains health through beauty, emotional warmth, and harmonious self-care that feels uplifting rather than harsh. Enjoyable movement, hydration, and peaceful aesthetic rest preserve youthful glow across years."
+    },
+    "Saturn": {
+      "title": "Enduring Longevity & Steady Grit",
+      "body": "Saturn anchors your body in remarkable long-horizon durability, calm tolerance, and habit mastery. Consistent walking, warming foods, and disciplined sleep compound into enviable strength through every decade."
+    },
+    "Rahu": {
+      "title": "Resilient Modern Adaptability",
+      "body": "Rahu grants energetic drive to adopt helpful health tools and recover rapidly when clear grounding habits stay active. Focused breathwork turns intense mental energy into steady dynamism."
+    },
+    "Ketu": {
+      "title": "Subtle Preventive Discernment",
+      "body": "Ketu deepens meditative poise, clean minimal nutrition, and quiet resilience against external stress. Peaceful awareness aligns mind and breath cleanly into natural wellbeing."
+    }
+  },
+  "growth_areas": {
+    "Sun": {
+      "title": "Cooling Pacing & Unhurried Evenings",
+      "body": "Balancing fierce daytime commitment with gentle, cooling sunset downtime preserves bright eyes, calm digestion, and peaceful sleep.",
+      "guidance": "Step away from intense work screens at sunset and enjoy a refreshing cool water glass or evening stroll."
+    },
+    "Moon": {
+      "title": "Steady Meal Rhythm & Gentle Boundaries",
+      "body": "Protecting mealtimes from emotional stress keeps lunar digestion soothing and morning energy consistently bright.",
+      "guidance": "Eat warm freshly cooked lunches calmly seated without news or work messages."
+    },
+    "Mars": {
+      "title": "Restorative Stretching After Intense Effort",
+      "body": "Honoring slow cool-downs and hydration matches your courageous drive with smooth muscular and joint longevity.",
+      "guidance": "Follow every brisk workout with 10 minutes of slow hamstrings, shoulder stretching, and water."
+    },
+    "Mercury": {
+      "title": "Screen-Free Nervous System Reset",
+      "body": "Giving an active mind structured quiet hours daily transforms scattered mental tension into crisp, cheerful clarity.",
+      "guidance": "Practice 5 minutes of alternate-nostril breathing (Anulom Vilom) daily at 5 PM."
+    },
+    "Jupiter": {
+      "title": "Lightness Through Brisk Daily Movement",
+      "body": "Pairing joyful appreciation for wholesome food with steady daily cardio keeps metabolism light and deeply energized.",
+      "guidance": "Take a brisk 25-minute morning walk before breakfast at least five days every week."
+    },
+    "Venus": {
+      "title": "Morning Consistency Over Comfort Delay",
+      "body": "Starting mornings cleanly with water and movement protects vibrant vitality while keeping evenings peacefully celebratory.",
+      "guidance": "Complete 15 minutes of mobility before checking morning coffee or messages."
+    },
+    "Saturn": {
+      "title": "Daily Joint Warmth & Joyful Mobility",
+      "body": "Consistent light movement and warming nutrition ensure hardworking endurance stays supple, cheerful, and pain-free.",
+      "guidance": "Do gentle morning Surya Namaskar or joint rotations daily and protect weekly outdoor sunlight."
+    },
+    "Rahu": {
+      "title": "Fixed Sleep & Clean Whole Foods",
+      "body": "Replacing late digital stimulation with steady bedtime cues harmonizes restless energy swiftly into deep replenishment.",
+      "guidance": "Dim room lights 45 minutes before bed and swap late snacks for warm herbal tea."
+    },
+    "Ketu": {
+      "title": "Regular Hydration & Embodied Grounding",
+      "body": "Gently tending to scheduled water, protein, and sunlight checks anchors spiritual clarity inside vibrant physical vigor.",
+      "guidance": "Keep a measured water bottle at your workspace and step into morning daylight daily."
+    }
+  },
+  "diverse_paths_by_planet": {
+    "Sun": [
+      { "title": "Sunrise Sunlight & Brisk Bracing Walks", "sector": "Solar Pacing & Spine Care", "reason": "Honors warm radiant heart and metabolic rhythm anchored by {planet} in your {house}." },
+      { "title": "Structured Meal Windows & Light Dinners", "sector": "Digestive Clarity", "reason": "Supports bright Agni digestion governed cleanly by {planet} inside your {house}." },
+      { "title": "Cool Hydration & Eye Relaxation Breaks", "sector": "Heat Balance", "reason": "Prevents daytime drive of {planet} in your {house} from turning into evening tension." }
+    ],
+    "Moon": [
+      { "title": "Calm Moonlit Walks & Hydration Rhythm", "sector": "Emotional Equilibrium", "reason": "Soothes fluid balance and nervous calm nurtured by {planet} in your {house}." },
+      { "title": "Warm Freshly Cooked Home Meals", "sector": "Lunar Digestion", "reason": "Reassures delicate stomach receptivity influenced gently by {planet} in your {house}." },
+      { "title": "Early Restful Sleep Sanctuary", "sector": "Deep Restoration", "reason": "Rebuilds emotional reserves deeply when {planet} rests in your {house}." }
+    ],
+    "Mars": [
+      { "title": "Strength Training, Cycling & Martial Flow", "sector": "Dynamic Endurance", "reason": "Channels natural muscular energy of {planet} in your {house} into resilient vigor." },
+      { "title": "Slow Cool-Down Stretches After Effort", "sector": "Joint Longevity", "reason": "Balanced recovery keeps passionate intensity of {planet} in your {house} agile." },
+      { "title": "Mineral-Rich Whole Foods & Steady Water", "sector": "Cellular Recovery", "reason": "Replenishes active iron and heat generated steadily by {planet} in your {house}." }
+    ],
+    "Mercury": [
+      { "title": "Pranayama Breathing & Screen Boundaries", "sector": "Nervous System Calm", "reason": "Clears fast mental chatter stimulated actively by {planet} in your {house}." },
+      { "title": "Agile Racket Sports or Rhythmic Swimming", "sector": "Breath & Coordination", "reason": "Connects alert intellect of {planet} with balanced lung capacity in your {house}." },
+      { "title": "Evening Pen-on-Paper Unwinding", "sector": "Sleep Hygiene", "reason": "Gives curious analytical circuits of {planet} in your {house} clean overnight rest." }
+    ],
+    "Jupiter": [
+      { "title": "Outdoor Morning Cardio in Open Parks", "sector": "Metabolic Lightness", "reason": "Keeps generous warmth and liver health flourishing under {planet} in your {house}." },
+      { "title": "Seasonal Whole Grains & Clean Early Dinners", "sector": "Balanced Nourishment", "reason": "Harmonizes expansive appetite joyfully through {planet} in your {house}." },
+      { "title": "Laughter Yoga & Peaceful Gratitude Habits", "sector": "Immune Resilience", "reason": "Radiates optimism that uplifts physical vitality via {planet} in your {house}." }
+    ],
+    "Venus": [
+      { "title": "Dance, Yoga Flow & Joyful Swimming", "sector": "Graceful Mobility", "reason": "Blends pleasure with sustained circulation guided harmoniously by {planet} in your {house}." },
+      { "title": "Balanced Sweetness & Steady Clean Water", "sector": "Hormonal & Kidney Harmony", "reason": "Protects radiant skin and energy balance held by {planet} in your {house}." },
+      { "title": "Restorative Music & Unhurried Grooming Rituals", "sector": "Sensory Renewal", "reason": "Replenishes nervous peace gently via refined beauty of {planet} in your {house}." }
+    ],
+    "Saturn": [
+      { "title": "Morning Mobility & Daily Sunlight Warmth", "sector": "Bone & Joint Longevity", "reason": "Lubricates hardworking knees, spine, and tendons steadied by {planet} in your {house}." },
+      { "title": "Consistent Low-Impact Walking Marathons", "sector": "Lifelong Endurance", "reason": "Turns unshakeable persistence of {planet} in your {house} into graceful aging." },
+      { "title": "Warm Oil Massage & Early Bedtimes", "sector": "Deep Repair", "reason": "Recharges heavy practical responsibility carried faithfully by {planet} in your {house}." }
+    ],
+    "Rahu": [
+      { "title": "Barefoot Grass Grounding & Consistent Bedtime", "sector": "Circadian Anchor", "reason": "Settles high-frequency nervous curiosity stimulated by {planet} in your {house}." },
+      { "title": "Clean Home-Cooked Routine Over Packaged Snacks", "sector": "Digestive Purity", "reason": "Stabilizes sensitive reactions heightened around {planet} in your {house}." },
+      { "title": "Mindful Digital Sunset Before Sleep", "sector": "Mental Stillness", "reason": "Prevents late information streams from tiring {planet} focus in your {house}." }
+    ],
+    "Ketu": [
+      { "title": "Quiet Vipassana, Breathwork & Embodied Posture", "sector": "Somatic Clarity", "reason": "Connects refined inner stillness cleanly to physical alignment via {planet} in your {house}." },
+      { "title": "Scheduled Water & Light Protein Reminders", "sector": "Grounded Energy", "reason": "Supports deep mental absorption around {planet} in your {house} with steady fuel." },
+      { "title": "Nature Trails & Morning Daylight Exposure", "sector": "Immunity & Mood", "reason": "Re-anchors subtle intuition inside brisk natural rhythm under {planet} in your {house}." }
+    ]
+  },
+  "cautious_zones_by_planet": {
+    "Sun": ["Skipping water during intense midday sun and back-to-back calls", "Overworking evening screens right up to midnight"],
+    "Moon": ["Working or scrolling emotionally during main meals", "Letting irregular late schedules erode restful sleep depth"],
+    "Mars": ["Jumping straight into heavy lifts without 10 minutes of warm-up", "Pushing through sharp physical strain on willpower alone"],
+    "Mercury": ["Continuous late-night screen scrolling and news grazing", "Skipping lunch breaks while multitasking urgent deadlines"],
+    "Jupiter": ["Heavy sugary or rich dinners close to bedtime", "Letting comfortable desk hours replace daily morning walks"],
+    "Venus": ["Treating caffeine or sweets as quick energy replacements for sleep", "Postponing light exercise during comfortable cozy weekends"],
+    "Saturn": ["Neglecting shoulder/hip stretches during long seated stretches", "Ignoring subtle chronic stiffness until deadlines ease up"],
+    "Rahu": ["Random meal hours and overly spiced late packaged foods", "Experimenting with intense supplements without clear guidance"],
+    "Ketu": ["Forgetting plain hydration when deeply absorbed in solitary focus", "Skipping routine preventive checkups out of mild detachment"]
+  },
+  "safety_advice_by_planet": {
+    "Sun": ["Take cool water breaks hourly and close intense work near sunset", "Protect eyes every 20 minutes with calm distant horizon gazing"],
+    "Moon": ["Eat freshly prepared warm meals calmly away from anxious news", "Practice 5 minutes of evening Anulom-Vilom breathing before bed"],
+    "Mars": ["Pair high-intensity exercise with mandatory slow stretching afterward", "Keep electrolytes steady and schedule prompt checkups for persistent discomfort"],
+    "Mercury": ["Establish a screen curfew 45 minutes prior to sleep consistently", "Take a brisk 15-minute afternoon walk without headphones daily"],
+    "Jupiter": ["Walk briskly 25 minutes before breakfast five mornings weekly", "Finish light wholesome dinners at least three hours prior to sleep"],
+    "Venus": ["Complete 15 minutes of mobility before checking morning coffee or chats", "Balance rich celebrations smoothly with extra green hydration next day"],
+    "Saturn": ["Begin mornings with gentle warm Surya Namaskar and joint rotations", "Catch mid-morning natural sunlight daily for natural vitamin balance"],
+    "Rahu": ["Lock fixed 30-minute windows for meals and sleep every single day", "Dim harsh overhead LEDs early evening to calm rapid brainwaves"],
+    "Ketu": ["Place a measured water carafe visibly beside every work session", "Book an annual preventive health checkup calmly on your birthday month"]
+  },
+  "absorbed_topics": {
+    "health_areas": {
+      "title": "Constitutional Focus Areas & Resilient Cycles",
+      "strong": "Your Lagna, {house}, and {planet} indicate durable foundational vigor and reliable bounce-back strength. Consistent sleep timing and clean hydration keep vitality luminous across {year_range}.",
+      "balanced": "Overall resilience sits in a healthy range under {planet}, while digestive rhythm, screen posture, or sleep recovery near your {house} flourish on steady habits. Preventive checkups keep {year_range} smooth.",
+      "focus": "Sensitivities around your {house}—such as fatigue accumulation, digestion, or muscular tension—invite gentler pacing under {planet}. Consistent routines and timely checkups make {year_range} restorative.",
+      "basis": "Lagna Lord, 6th/8th Balance & {planet}"
+    },
+    "sade_sati": {
+      "title": "Sade Sati Phase Status & Saturn Maturity",
+      "strong": "Your Moon chart currently sits free from peak Sade Sati pressure while {planet} supports clear mental equilibrium. Use this wide-open horizon across {year_range} to lock in joyful lifelong wellness rituals.",
+      "balanced": "Saturn relative to your {house} and {planet} invites calm realism, unhurried discipline, and humble patience over quick shortcuts. Consistent grounding habits convert {year_range} into quiet strength.",
+      "focus": "An active Saturn cycle touching your lunar {house} builds rare endurance while asking for generous sleep, honest ethics, and slow pacing. Tangible lightness grows as transits shift around {year_range}.",
+      "basis": "Saturn Distance from Moon Sign & {planet}"
+    }
+  },
+  "cross_references": {
+    "CAREER": {
+      "title": "Steady Vitality Powers Sustained Career Ambition",
+      "insight": "Protecting sleep rhythm and posture for {planet} in your {house} prevents mid-career fatigue and sharpens daily executive focus."
+    },
+    "MARRIAGE": {
+      "title": "Calm Nervous System Uplifts Home Warmth",
+      "insight": "When physical recovery around {planet} in your {house} stays high, patience and warm presence with loved ones flow naturally."
+    },
+    "WEALTH": {
+      "title": "Preventive Wellness Protects Compounding",
+      "insight": "Simple preventive habits for {planet} in your {house} safeguard long-horizon savings and keep decision-making crisp."
+    },
+    "DHARMA": {
+      "title": "Inner Stillness Fuels Soul Clarity",
+      "insight": "Clean hydration, silent breathwork, and restorative rest around {planet} in your {house} sharpen intuition and dharmic clarity."
+    }
+  }
+}

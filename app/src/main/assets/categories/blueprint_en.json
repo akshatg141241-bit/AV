@@ -1,0 +1,48 @@
+{
+  "lagna_themes": {
+    "0": "With Aries (Mesha) rising as your Ascendant, you carry a courageous, pioneering spirit that thrives when initiating bold ventures with clarity.",
+    "1": "With Taurus (Vrishabha) rising as your Ascendant, your life path is anchored in steady endurance, refined taste, and the gift of turning patience into lasting abundance.",
+    "2": "With Gemini (Mithuna) rising as your Ascendant, your nimble intellect and expressive curiosity allow you to bridge diverse ideas and people effortlessly.",
+    "3": "With Cancer (Karka) rising as your Ascendant, deep emotional wisdom and nurturing intuition guide your choices toward meaningful protection and creative growth.",
+    "4": "With Leo (Simha) rising as your Ascendant, noble warmth and natural solar dignity equip you to inspire others through generous leadership.",
+    "5": "With Virgo (Kanya) rising as your Ascendant, discerning precision and thoughtful service transform complex challenges into reliable excellence.",
+    "6": "With Libra (Tula) rising as your Ascendant, gracious diplomacy and an innate sense of harmony help you build balanced, prosperous alliances.",
+    "7": "With Scorpio (Vrishchika) rising as your Ascendant, remarkable emotional depth and transformative resilience empower you to uncover hidden opportunities.",
+    "8": "With Sagittarius (Dhanu) rising as your Ascendant, philosophical optimism and a love for truth keep your horizons expanding toward higher purpose.",
+    "9": "With Capricorn (Makara) rising as your Ascendant, quiet perseverance and pragmatic mastery allow you to construct enduring achievements step by step.",
+    "10": "With Aquarius (Kumbha) rising as your Ascendant, progressive vision and humanitarian insight orient your journey toward forward-thinking contribution.",
+    "11": "With Pisces (Meena) rising as your Ascendant, compassionate imagination and spiritual grace lend subtle harmony to everything you touch."
+  },
+  "moon_themes": {
+    "0": "Your Moon in Aries infuses your inner world with swift intuition, emotional honesty, and readiness to act on inspiration.",
+    "1": "Your Moon in Taurus bestows calm emotional poise, steady affection, and a grounded appreciation for life's comforts.",
+    "2": "Your Moon in Gemini keeps your mind agile, observant, and receptive to lifelong learning and vibrant conversation.",
+    "3": "Your Moon in Cancer places emotional depth and caring empathy at the heart of your intuition, strengthening family bonds.",
+    "4": "Your Moon in Leo radiates heartfelt warmth, creative pride, and loyal generosity toward those in your circle.",
+    "5": "Your Moon in Virgo refines your sensitivity into observant care, practical mindfulness, and quiet problem-solving.",
+    "6": "Your Moon in Libra seeks peace, mutual respect, and aesthetic grace in every partnership and daily rhythm.",
+    "7": "Your Moon in Scorpio grants fearless introspection, fierce loyalty, and profound regenerative strength.",
+    "8": "Your Moon in Sagittarius uplifts your spirit with faith, ethical clarity, and enthusiasm for meaningful journeys.",
+    "9": "Your Moon in Capricorn lends dignified composure, emotional maturity, and steady follow-through under responsibility.",
+    "10": "Your Moon in Aquarius values intellectual freedom, thoughtful friendship, and altruistic purpose.",
+    "11": "Your Moon in Pisces blesses your heart with poetic empathy, serene intuition, and gentle healing presence."
+  },
+  "dasha_themes": {
+    "Sun": "Under your active Sun Dasha, authentic confidence, visibility, and purposeful leadership come naturally into focus.",
+    "Moon": "Under your active Moon Dasha, emotional clarity, family harmony, and intuitive flow guide your most rewarding steps.",
+    "Mars": "Under your active Mars Dasha, focused courage, decisive momentum, and physical vitality propel fresh milestones.",
+    "Mercury": "Under your active Mercury Dasha, sharp communication, strategic learning, and versatile opportunities open new doors.",
+    "Jupiter": "Under your active Jupiter Dasha, wisdom, auspicious mentorship, and ethical expansion bless your long-term path.",
+    "Venus": "Under your active Venus Dasha, creative refinement, relational warmth, and graceful prosperity take center stage.",
+    "Saturn": "Under your active Saturn Dasha, disciplined consistency, patient craftsmanship, and lasting structural rewards ripen steadily.",
+    "Rahu": "Under your active Rahu Dasha, bold innovation, unconventional breakthroughs, and global ambitions accelerate your evolution.",
+    "Ketu": "Under your active Ketu Dasha, deep insight, distilled focus, and spiritual clarity help you master what truly matters."
+  },
+  "closings": {
+    "CAREER": "Across your entire chart, purposeful vocational expression stands out as a luminous channel for fulfillment and recognition.",
+    "WEALTH": "Taken together, your placements weave steady prosperity with wise stewardship, turning disciplined choices into lasting security.",
+    "MARRIAGE": "Altogether, your cosmic pattern celebrates heartfelt connection, mutual respect, and enduring companionship as key pillars of joy.",
+    "HEALTH": "Overall, your chart supports vibrant mind-body balance whenever you honor steady rhythms, clean nourishment, and joyful rest.",
+    "DHARMA": "Collectively, your celestial blueprint reveals meaningful soul purpose, ethical wisdom, and inspiring spiritual evolution."
+  }
+}

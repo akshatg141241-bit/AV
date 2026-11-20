@@ -1,0 +1,325 @@
+{
+  "personality_by_sign": {
+    "0": "Your learning style is swift, hands-on, and energized by visible challenges, competitive exams, and live problem solving. Passive reading alone quickly feels slow unless paired with practice drills or real prototypes. Direct study sprints with clear scoreboards ignite extraordinary academic momentum.",
+    "1": "Methodical, sensory-grounded study mastery defines how you retain complex subjects for life. Rather than cramming overnight, you absorb knowledge deeply through structured notes, clear physical models, and steady daily repetition. Once mastered, concepts stay firmly anchored in memory.",
+    "2": "Omnivorous curiosity, fast reading comprehension, and multidisciplinary connections empower your intellect. You thrive when exploring languages, computing, media, economics, or vibrant seminar discussions. Summarizing core takeaways cleanly prevents wandering across too many fascinating side topics.",
+    "3": "Intuitive comprehension, strong long-term memory, and personal meaning drive your finest learning breakthroughs. You excel when studying subjects connected to human wellbeing, history, literature, psychology, or supportive mentors. Calm, peaceful study spaces boost retention remarkably.",
+    "4": "You learn with noble conceptual pride, grasping overarching principles and shining in debates, presentations, and leadership fellowships. Teaching concepts aloud or leading study groups cements mastery immediately. Combining big-picture confidence with meticulous past-paper drills guarantees top ranks.",
+    "5": "Analytical rigor, structured note organization, and eye for subtle technical nuance make you a standout scholar and test-taker. Complex coding, medicine, accounting, data science, and detailed law suit your sharp discernment. Trusting thorough preparation calms exam nerves completely.",
+    "6": "Balanced synthesis, elegant persuasive writing, and collaborative seminars bring out your brightest academic gifts. Law, design, diplomacy, international trade, and humanities blossom effortlessly under your thoughtful taste. Pairing dialogue with solo timed drills seals top mastery.",
+    "7": "Penetrating research stamina and fearless curiosity toward hidden mechanics set your intellect apart. You relish deep STEM mysteries, advanced diagnostics, psychology, or doctoral research that rewards relentless concentration. Quiet uninterrupted hours produce brilliant breakthroughs.",
+    "8": "Philosophical hunger, love for global cultures, and natural affinity for higher education animate your journey. International universities, fellowships, ethics, publishing, and big-system wisdom inspire boundless dedication. Grounding broad curiosity in crisp exam rubrics delivers consistent distinction.",
+    "9": "Disciplined persistence, realistic time management, and mastery of foundational classics build formidable credentials over time. Professional certifications, engineering, law, and competitive exams yield gracefully to your unhurried daily stamina. Patience makes your academic stature unstoppable.",
+    "10": "Inventive systems reasoning, digital fluency, and independent original insight characterize your learning path. Cutting-edge technology, social sciences, astronomy, and unconventional research capture your imagination swiftly. Translating abstract models into clear written briefs earns top acclaim.",
+    "11": "Imaginative synthesis, intuitive pattern sensing, and compassionate depth guide your intellectual growth. Visual storytelling, healing arts, music, research sanctuaries, and global immersion fit your subtle mind gracefully. Consistent study schedules turn inspired insights into lasting degrees."
+  },
+  "planet_in_house": {
+    "Sun_1": "Sun in your 1st House illuminates independent scholarship, crisp intellectual pride, and confident performance in interviews and vivas.",
+    "Sun_2": "Sun in your 2nd House strengthens articulate academic speech, clear memorization, and scholarly voice in debates.",
+    "Sun_3": "Sun in your 3rd House fuels courageous study discipline, clear writing portfolios, and self-driven mastery of demanding skills.",
+    "Sun_4": "Sun in your 4th House supports dignified foundational degrees, strong campus leadership, and pride in academic roots.",
+    "Sun_5": "Sun in your 5th House sharpens radiant analytical intelligence, creative problem solving, and celebrated academic recognition.",
+    "Sun_6": "Sun in your 6th House excels at disciplined competitive exams, civil tests, medical/law preparation, and overcoming tough hurdles.",
+    "Sun_7": "Sun in your 7th House favors collaborative study fellowships, global academic exchanges, and articulate seminar leadership.",
+    "Sun_8": "Sun in your 8th House thrives in deep investigative research, advanced data exploration, and scholarly turnarounds.",
+    "Sun_9": "Sun in your 9th House elevates higher degrees, honorable professors' patronage, publishing, and inspiring foreign travel.",
+    "Sun_10": "Sun in your 10th House converts hard-earned academic credentials swiftly into respected leadership roles and distinction.",
+    "Sun_11": "Sun in your 11th House connects scholarly excellence with prestigious alumni networks and international conferences.",
+    "Sun_12": "Sun in your 12th House supports overseas universities, quiet research sanctuaries, and deeply focused global fellowships.",
+    "Moon_1": "Moon in your 1st House grants responsive memory, intuitive comprehension, and empathetic warmth in presentations.",
+    "Moon_2": "Moon in your 2nd House enriches eloquent language learning, gentle articulation, and supportive family backing for study.",
+    "Moon_3": "Moon in your 3rd House empowers vivid writing, rhythmic recall, and inspired short academic journeys.",
+    "Moon_4": "Moon in your 4th House brings peaceful home study sanctuary and strong intuitive mastery of undergraduate foundations.",
+    "Moon_5": "Moon in your 5th House unlocks imaginative brilliance, literary sensitivity, and heartfelt passion for creative study.",
+    "Moon_6": "Moon in your 6th House favors healing sciences, structured study schedules, and calm resilience in competitive testing.",
+    "Moon_7": "Moon in your 7th House invites supportive study partners and enriching cross-cultural or foreign study exchange.",
+    "Moon_8": "Moon in your 8th House sharpens deep psychological inquiry, research intuition, and calm decoding of hidden complexity.",
+    "Moon_9": "Moon in your 9th House strongly blesses overseas learning, cultural travel, philosophical mentors, and higher studies.",
+    "Moon_10": "Moon in your 10th House pairs adaptable curiosity with public speaking poise and practical credential impact.",
+    "Moon_11": "Moon in your 11th House uplifts learning through vibrant study groups, supportive peers, and inspiring scholarly clubs.",
+    "Moon_12": "Moon in your 12th House powerfully favors distant relocation, international study retreats, and reflective creative research.",
+    "Mars_1": "Mars in your 1st House energizes fearless learning action, rapid exam pacing, and natural STEM or leadership initiative.",
+    "Mars_2": "Mars in your 2nd House brings assertive clarity in debates and determined mastery of technical vocabulary.",
+    "Mars_3": "Mars in your 3rd House grants unstoppable drill stamina, technical coding/engineering skill, and fearless competitive courage.",
+    "Mars_4": "Mars in your 4th House channels passionate focus into engineering, architecture, and mastering foundational mechanics quickly.",
+    "Mars_5": "Mars in your 5th House ignites crisp tactical intelligence, competitive mathematics, and high-energy problem solving.",
+    "Mars_6": "Mars in your 6th House is a classic powerhouse for cracking intense competitive examinations, medicine, law, and technical rounds.",
+    "Mars_7": "Mars in your 7th House encourages dynamic travel partnerships and spirited international field assignments.",
+    "Mars_8": "Mars in your 8th House empowers fearless lab research, forensic analysis, and cracking complex theoretical bottlenecks.",
+    "Mars_9": "Mars in your 9th House drives adventurous overseas study, bold legal/policy inquiry, and energetic higher exploration.",
+    "Mars_10": "Mars in your 10th House converts applied technical credentials quickly into visible career leadership.",
+    "Mars_11": "Mars in your 11th House fuels ambitious team hackathons, STEM competitions, and fulfilling academic milestones.",
+    "Mars_12": "Mars in your 12th House encourages distant technical travel and deep behind-the-scenes lab or coding mastery.",
+    "Mercury_1": "Mercury in your 1st House bestows swift learning agility, linguistic flair, and effortless intellectual versatility.",
+    "Mercury_2": "Mercury in your 2nd House favors multilingual fluency, sharp arithmetic, and lucid oral exam mastery.",
+    "Mercury_3": "Mercury in your 3rd House shines brilliantly in journalism, technical documentation, coding, and nimble research synthesis.",
+    "Mercury_4": "Mercury in your 4th House supports organized note architecture, crisp conceptual foundations, and analytics mastery.",
+    "Mercury_5": "Mercury in your 5th House places intellect's karaka in learning's home, sparking high-speed quantitative mastery and academic honors.",
+    "Mercury_6": "Mercury in your 6th House awards meticulous exam accuracy, swift pattern diagnostics, and calm competitive precision.",
+    "Mercury_7": "Mercury in your 7th House opens lively international study collaborations and persuasive scholarly dialogue.",
+    "Mercury_8": "Mercury in your 8th House excels in cryptography, research intelligence, finance theory, and decoding intricate texts.",
+    "Mercury_9": "Mercury in your 9th House illuminates publishing, foreign languages, legal scholarship, and inspiring global academic travel.",
+    "Mercury_10": "Mercury in your 10th House links broad lifelong learning directly with versatile executive authority.",
+    "Mercury_11": "Mercury in your 11th House fosters vibrant scholarly exchanges, collaborative publishing, and innovative peer networks.",
+    "Mercury_12": "Mercury in your 12th House supports global university research, translation mastery, and tranquil solo deep-study states.",
+    "Jupiter_1": "Jupiter in your 1st House crowns your mind with ethical wisdom, natural teaching warmth, and generous intellectual breadth.",
+    "Jupiter_2": "Jupiter in your 2nd House enriches wise academic eloquence, respected counsel, and deep mastery of treasured texts.",
+    "Jupiter_3": "Jupiter in your 3rd House inspires uplifting writing, generous mentorship of peers, and purposeful educational journeys.",
+    "Jupiter_4": "Jupiter in your 4th House blesses supportive teachers, auspicious college degrees, and serene joyful study foundations.",
+    "Jupiter_5": "Jupiter in your 5th House illuminates profound conceptual mastery, wise judgment, and fortunate scholarships or fellowships.",
+    "Jupiter_6": "Jupiter in your 6th House guides calm preparation, wise exam mentors, and honorable victory in demanding evaluations.",
+    "Jupiter_7": "Jupiter in your 7th House attracts wise study companions and fruitful international university partnerships.",
+    "Jupiter_8": "Jupiter in your 8th House awards protective insight for doctoral research, deep classics, and hidden philosophical truths.",
+    "Jupiter_9": "Jupiter in your 9th House creates extraordinary blessing for higher degrees, foreign universities, law, and revered mentors.",
+    "Jupiter_10": "Jupiter in your 10th House pairs respected credentials with inspiring teaching and distinguished public mentorship.",
+    "Jupiter_11": "Jupiter in your 11th House opens prestigious fellowships, helpful professors, and joyful collaborative wisdom.",
+    "Jupiter_12": "Jupiter in your 12th House blesses foreign campuses, serene retreat scholarships, and expansive spiritual-philosophical depth.",
+    "Venus_1": "Venus in your 1st House graces learning with aesthetic clarity, diplomatic poise, and cultured artistic taste.",
+    "Venus_2": "Venus in your 2nd House enhances melodious speaking, refined poetry/languages, and pleasant seminar eloquence.",
+    "Venus_3": "Venus in your 3rd House unlocks creative design portfolios, media storytelling, and joyful cultural travels.",
+    "Venus_4": "Venus in your 4th House cultivates comforting academic environments, architectural vision, and harmonious college years.",
+    "Venus_5": "Venus in your 5th House fuels inspired creativity, arts/humanities distinction, and joyful intellectual curiosity.",
+    "Venus_6": "Venus in your 6th House smooths academic collaboration with charm and steady, peaceful daily preparation.",
+    "Venus_7": "Venus in your 7th House invites refined travel partnerships and uplifting global cultural study exchanges.",
+    "Venus_8": "Venus in your 8th House enriches subtle artistic depth, cultural history research, and quiet restorative curiosity.",
+    "Venus_9": "Venus in your 9th House blesses international arts travel, refined philosophy, and gracious overseas academic experiences.",
+    "Venus_10": "Venus in your 10th House aligns refined creative education swiftly with distinguished design or leadership careers.",
+    "Venus_11": "Venus in your 11th House surrounds scholarship with supportive artistic circles and enjoyable collaborative learning.",
+    "Venus_12": "Venus in your 12th House inspires global cinema, design residencies abroad, and serene creative immersion.",
+    "Saturn_1": "Saturn in your 1st House builds patient scholarly stamina, deep focus, and serious mastery over classical fundamentals.",
+    "Saturn_2": "Saturn in your 2nd House encourages deliberate precision in speech, lasting language retention, and structured memory.",
+    "Saturn_3": "Saturn in your 3rd House forges relentless practice discipline, long-form technical writing, and calm exam endurance.",
+    "Saturn_4": "Saturn in your 4th House develops solid architectural and engineering foundations; consistent routines bring high college scores.",
+    "Saturn_5": "Saturn in your 5th House grants serious analytical endurance for engineering, law, math, and methodical test mastery.",
+    "Saturn_6": "Saturn in your 6th House outperforms rushing peers cleanly through unshakable daily mock tests and competitive persistence.",
+    "Saturn_7": "Saturn in your 7th House rewards patient long-distance study partnerships and disciplined international assignments.",
+    "Saturn_8": "Saturn in your 8th House excels at arduous longitudinal research, archival mastery, and complex theoretical patience.",
+    "Saturn_9": "Saturn in your 9th House earns profound, lasting higher-education stature through steady patience and classical rigor.",
+    "Saturn_10": "Saturn in your 10th House ensures mature certifications compound into authoritative executive credentials.",
+    "Saturn_11": "Saturn in your 11th House creates enduring mentor circles and gradual, lasting fruition of ambitious study goals.",
+    "Saturn_12": "Saturn in your 12th House supports disciplined overseas residency, focused solo research, and calm nocturnal study endurance.",
+    "Rahu_1": "Rahu in your 1st House sparks hunger for unconventional subjects, modern tech fluency, and bold self-taught breakthroughs.",
+    "Rahu_2": "Rahu in your 2nd House enhances multilingual agility and compelling modern presentation across diverse audiences.",
+    "Rahu_3": "Rahu in your 3rd House powers inventive digital skills, fearless coding/media experimentation, and agile self-education.",
+    "Rahu_4": "Rahu in your 4th House often inspires studying far from one's birthplace and mastering modern technology systems.",
+    "Rahu_5": "Rahu in your 5th House stimulates unconventional problem-solving and computer/analytics brilliance when rooted cleanly in basics.",
+    "Rahu_6": "Rahu in your 6th House brings sharp strategic ingenuity to conquer tough entrance exams and intricate puzzles.",
+    "Rahu_7": "Rahu in your 7th House favors cross-border academic exchanges, diverse mentors, and global networking trips.",
+    "Rahu_8": "Rahu in your 8th House excites deep scientific curiosity, AI/frontier research, and uncovering complex hidden laws.",
+    "Rahu_9": "Rahu in your 9th House is a classic signature for foreign education, global travel, and cross-cultural intellectual expansion.",
+    "Rahu_10": "Rahu in your 10th House connects pioneering modern certifications swiftly with visible industry leadership.",
+    "Rahu_11": "Rahu in your 11th House attracts global online cohorts, international conferences, and scalable modern learning communities.",
+    "Rahu_12": "Rahu in your 12th House strongly activates foreign relocation, distant universities, and bold cross-oceanic horizons.",
+    "Ketu_1": "Ketu in your 1st House brings quiet independent inquiry, subtle intuition, and authentic research depth.",
+    "Ketu_2": "Ketu in your 2nd House favors concise, distilled expression and refined mastery of specialized scripts or languages.",
+    "Ketu_3": "Ketu in your 3rd House sharpens minimalist editing, mathematical clarity, and focused technical documentation.",
+    "Ketu_4": "Ketu in your 4th House appreciates tranquil study sanctuaries and deep research into history, philosophy, or core systems.",
+    "Ketu_5": "Ketu in your 5th House unlocks extraordinary intuitive leaps in coding logic, mathematics, and ancient wisdom.",
+    "Ketu_6": "Ketu in your 6th House grants razor-sharp diagnostic accuracy and calm detachment from exam pressure.",
+    "Ketu_7": "Ketu in your 7th House values meaningful one-on-one mentorship over noisy crowds during academic growth.",
+    "Ketu_8": "Ketu in your 8th House illuminates profound research mastery, metaphysics, deep data science, and serene concentration.",
+    "Ketu_9": "Ketu in your 9th House inspires soulful pilgrimages, independent philosophical inquiry, and timeless wisdom over rote trivia.",
+    "Ketu_10": "Ketu in your 10th House nurtures specialized mastery where authentic skill earns quiet reverence.",
+    "Ketu_11": "Ketu in your 11th House treasures purposeful peer circles devoted to genuine intellectual discovery.",
+    "Ketu_12": "Ketu in your 12th House supports serene foreign study retreats, deep contemplative writing, and tranquil breakthrough insight."
+  },
+  "hidden_challenges": {
+    "Sun": "High intellectual pride can sometimes tempt skipping foundational repetition or resisting gentle critique from instructors. Humility before basic drills transforms natural brilliance into effortless top scores.",
+    "Moon": "Test anxiety or emotionally absorbing family distractions can occasionally ripple study concentration before big exams. Tranquil breathing and uncluttered study rooms safeguard steady recall cleanly.",
+    "Mars": "High speed and eagerness to jump straight into hard problems can occasionally cause small reading oversights on exam questions. Slowing down to underline key prompt conditions elevates accuracy immediately.",
+    "Mercury": "Curious exploration across fascinating electives and tabs can gently fragment focus before completion. Curating one clean syllabus checklist turns curiosity into deep mastery.",
+    "Jupiter": "Grasping grand theories swiftly can sometimes make routine memorization or timed drills feel tedious. Pairing conceptual joy with short timed practice seals top rankings effortlessly.",
+    "Venus": "Preference for pleasant, unhurried environments can gently postpone dry technical revision until deadlines loom close. Rewarding crisp study blocks with enjoyable art breaks keeps pace balanced.",
+    "Saturn": "Self-critical thoroughness makes mastery solid, yet agonizing endlessly over early drafts can slow momentum during timed exams. Practicing timed pacing builds easy confidence alongside rigor.",
+    "Rahu": "Rapid jumps between trendy courses and global ambitions can scatter foundational continuity if timelines stay vague. Anchoring big horizons in daily 60-minute study habits delivers breakthroughs.",
+    "Ketu": "Subtle impatience with conventional grading formats can tempt detaching from formal rubric requirements. Aligning intuitive brilliance with exam format expectations multiplies recognition effortlessly."
+  },
+  "superpowers": {
+    "Sun": {
+      "title": "Independent Intellectual Authority",
+      "body": "The Sun illuminates your study signature with bright self-direction, clear conceptual leadership, and confident command during presentations. Mentors quickly notice your initiative and principled curiosity. Purpose-driven learning unlocks distinguished credentials steadily."
+    },
+    "Moon": {
+      "title": "Intuitive Recall & Cultural Empathy",
+      "body": "The Moon blesses your intellect with responsive memory, emotional resonance, and effortless adaptability across diverse cultures and languages. Peaceful focus transforms complex readings into clear intuitive understanding."
+    },
+    "Mars": {
+      "title": "Competitive Exam Grit & Technical Speed",
+      "body": "Mars fuels your learning engine with fearless problem-solving drive, swift stamina for timed drills, and hands-on STEM courage. Difficult hurdles ignite rather than intimidate your spirit. Action turns challenge into mastery."
+    },
+    "Mercury": {
+      "title": "Agile Polymath Comprehension",
+      "body": "Mercury empowers your intellect with rapid pattern recognition, lucid articulation, and versatile synthesis across analytics, writing, and technology. You grasp new tools swiftly and teach complex ideas cleanly."
+    },
+    "Jupiter": {
+      "title": "Scholarly Wisdom & Auspicious Mentors",
+      "body": "Jupiter graces your educational path with philosophical depth, ethical clarity, and timely support from generous teachers and scholarships. Global horizons and higher degrees open auspiciously before your dedication."
+    },
+    "Venus": {
+      "title": "Expressive Synthesis & Global Grace",
+      "body": "Venus elevates learning through creative storytelling, refined aesthetics, and harmonious rapport across international communities. Artistic clarity makes complex projects memorable and inspiring."
+    },
+    "Saturn": {
+      "title": "Deep Foundational Endurance",
+      "body": "Saturn anchors your scholarship in unhurried persistence, structured note mastery, and rock-solid recall under intense exam pressure. Steady daily discipline compounds into respected credentials that last a lifetime."
+    },
+    "Rahu": {
+      "title": "Frontier Curiosity & Global Horizons",
+      "body": "Rahu sparks bold fascination with cutting-edge disciplines, foreign institutions, and inventive self-directed mastery. Unconventional leaps across borders and emerging fields unlock exciting global breakthroughs."
+    },
+    "Ketu": {
+      "title": "Laser Research Intuition",
+      "body": "Ketu deepens your mind with razor-sharp focus, mathematical/philosophical clarity, and calm detachment from study distractions. Quiet immersion uncovers profound insights hidden below surface details."
+    }
+  },
+  "growth_areas": {
+    "Sun": {
+      "title": "Open Feedback & Humility in Basics",
+      "body": "Welcoming early practice tests and instructor feedback sharpens radiant natural confidence into unbeatable exam precision.",
+      "guidance": "Complete mock tests weekly and review every small error note neutrally as pure polish."
+    },
+    "Moon": {
+      "title": "Protected Quiet Study Sanctuaries",
+      "body": "Shielding deep learning hours from external noise and emotional multitasking frees your luminous natural memory completely.",
+      "guidance": "Study during calm morning hours with phone notifications paused in another room."
+    },
+    "Mars": {
+      "title": "Calm Verification of Every Prompt Detail",
+      "body": "Pairing bold rapid execution with a mindful double-check of question phrasing turns speed into top-tier accuracy.",
+      "guidance": "Reserve the final 10% of every exam or assignment strictly for calm line-by-line review."
+    },
+    "Mercury": {
+      "title": "Focused Revision Over Endless New Tabs",
+      "body": "Resisting shiny distractions and revisiting one core summary repeatedly multiplies retention dramatically over cramming new sources.",
+      "guidance": "Keep a single master notebook per subject and review summaries on Day 1, Day 3, and Day 7."
+    },
+    "Jupiter": {
+      "title": "Timed Practice Alongside Big Vision",
+      "body": "Translating inspiring conceptual clarity into timed practice runs ensures exams reflect your full breadth cleanly.",
+      "guidance": "Pair conceptual reading with 30 minutes of timed problem sets three times weekly."
+    },
+    "Venus": {
+      "title": "Consistent Daily Study Momentum",
+      "body": "Honoring short structured study starts—even before feeling fully inspired—lets creative joy flourish stress-free.",
+      "guidance": "Use a gentle 25-minute timer to begin technical study blocks effortlessly every afternoon."
+    },
+    "Saturn": {
+      "title": "Confident Pacing & Restful Sleep",
+      "body": "Trusting steady preparation—and stepping away on time before exams—protects recall sharpness against perfectionist fatigue.",
+      "guidance": "Stop heavy new cramming 12 hours before major exams so rested clarity leads your focus."
+    },
+    "Rahu": {
+      "title": "Clear Documentation & Verified Roadmaps",
+      "body": "Backing exciting overseas or tech ambitions with crisp checklists, test dates, and verified paperwork ensures smooth lift-off.",
+      "guidance": "Maintain a dated milestone tracker for visas, applications, and prerequisite exams."
+    },
+    "Ketu": {
+      "title": "Expressing Deep Insight Clearly to Others",
+      "body": "Packaging subtle private breakthroughs into crisp essays, projects, and rubric-aligned answers earns the wide recognition your depth merits.",
+      "guidance": "Draft plain-language outlines before writing final papers so evaluators follow every insight smoothly."
+    }
+  },
+  "diverse_paths_by_planet": {
+    "Sun": [
+      { "title": "Public Policy, Civil Exams & Institutional Degrees", "sector": "Governance & Leadership Study", "reason": "Favors high-visibility academic distinction propelled by {planet} in your {house}." },
+      { "title": "Executive MBA & Administrative Management", "sector": "Management Education", "reason": "Develops sovereign strategic authority illuminated by {planet} in your {house}." },
+      { "title": "National Fellowship Tours & Speaking Circuits", "sector": "Merit Recognition", "reason": "Draws confident platform recognition centered around {planet} in your {house}." }
+    ],
+    "Moon": [
+      { "title": "Psychology, Nursing, Pedagogy & Social Research", "sector": "Human Sciences", "reason": "Nurtures deep empathetic understanding shaped by {planet} in your {house}." },
+      { "title": "Heritage Languages, Literature & Memory Craft", "sector": "Cultural Humanities", "reason": "Flows gracefully through rich imaginative retention of {planet} in your {house}." },
+      { "title": "Coastal & Cultural Exchange Journeys", "sector": "Reflective Travel", "reason": "Restores emotional curiosity effortlessly while {planet} graces your {house}." }
+    ],
+    "Mars": [
+      { "title": "Engineering, Robotics, Surgery & Applied Sciences", "sector": "Technical Mastery", "reason": "Channels crisp problem-solving focus powered directly by {planet} in your {house}." },
+      { "title": "Competitive Aptitude Sprints & Defense Academies", "sector": "Merit & Endurance", "reason": "Rewarded in timed problem-solving exams backed by {planet} in your {house}." },
+      { "title": "Field Research & Mountain / Adventure Travel", "sector": "Expedition Learning", "reason": "Energizes hands-on active exploration driven by {planet} in your {house}." }
+    ],
+    "Mercury": [
+      { "title": "Computer Science, Finance, Law & Linguistics", "sector": "Analytical Disciplines", "reason": "Multiplies fast pattern comprehension awakened by {planet} in your {house}." },
+      { "title": "Multi-Disciplinary Certifications & Writing", "sector": "Rapid Upskilling", "reason": "Excels at summarizing complex textbooks smoothly through {planet} in your {house}." },
+      { "title": "International Trade Trips & Short Study Residencies", "sector": "Agile Exchange", "reason": "Connects curious dialogue across cities guided by {planet} in your {house}." }
+    ],
+    "Jupiter": [
+      { "title": "Agricultural Science, Ecology, Law & Economics", "sector": "Higher Wisdom & Land Study", "reason": "Highly favorable for broad philosophical and ecological study due to {planet} in your {house}." },
+      { "title": "Graduate Fellowships & Teaching Credentials", "sector": "Academia & Mentorship", "reason": "Attracts generous professors and scholarships via {planet} blessing your {house}." },
+      { "title": "Pilgrimage Heritage & Cross-Border Symposia", "sector": "Purposeful Travel", "reason": "Expands worldview purposefully under guiding fortune of {planet} in your {house}." }
+    ],
+    "Venus": [
+      { "title": "Architecture, Fine Arts, Design & Media Studies", "sector": "Creative Degrees", "reason": "Illuminates aesthetic composition refined naturally by {planet} in your {house}." },
+      { "title": "Hospitality, Culinary & Cultural Diplomacy Programs", "sector": "Experiential Mastery", "reason": "Blends gracious social poise with structured learning from {planet} in your {house}." },
+      { "title": "Art Cities, Design Residencies & Curated Travel", "sector": "Creative Travel", "reason": "Feeds visual inspiration continuously when {planet} shines in your {house}." }
+    ],
+    "Saturn": [
+      { "title": "Civil Engineering, Chartered Accountancy & Pure Law", "sector": "Rigorous Credentials", "reason": "Conquers demanding multi-stage exams through grit anchored by {planet} in your {house}." },
+      { "title": "Deep Mastery Over Multi-Year PhDs or Trades", "sector": "Enduring Expertise", "reason": "Rewards unhurried consistency across long syllabi shaped by {planet} in your {house}." },
+      { "title": "Scheduled Overseas Academic Assignments", "sector": "Structured Travel", "reason": "Turned smoothly into lasting credentials via discipline of {planet} in your {house}." }
+    ],
+    "Rahu": [
+      { "title": "International Universities, AI & Emerging STEM", "sector": "Global Frontier Study", "reason": "Propels bold border-crossing academic leaps ignited by {planet} in your {house}." },
+      { "title": "Foreign Languages, Digital Media & Global Policy", "sector": "Cross-Border Fluency", "reason": "Unlocks unconventional international scholarships energized by {planet} in your {house}." },
+      { "title": "Long-Haul Relocation & Multicultural Immersion", "sector": "Global Mobility", "reason": "Thrives cleanly amid new time zones stimulated by {planet} in your {house}." }
+    ],
+    "Ketu": [
+      { "title": "Pure Mathematics, Research Philosophy & Sanskrit", "sector": "Deep Inquiry", "reason": "Penetrates abstract theoretical depths effortlessly under {planet} in your {house}." },
+      { "title": "Contemplative Tradition & Archival Humanities", "sector": "Heritage Mastery", "reason": "Reveals subtle insights missed on first glance through {planet} in your {house}." },
+      { "title": "Quiet Monastic Retreats & Focused Sabbaticals", "sector": "Restorative Travel", "reason": "Recharges razor-sharp clarity gently away from noise via {planet} in your {house}." }
+    ]
+  },
+  "cautious_zones_by_planet": {
+    "Sun": ["Skipping humble weekly mock papers out of overconfidence", "Assuming prestige alone compensates for fine exam details"],
+    "Moon": ["Studying late amid noisy social chatter or emotional tension", "Changing preparation plans during temporary mood dips"],
+    "Mars": ["Submitting timed answers quickly without checking final signs", "Booking travel logistics impulsively without backup buffers"],
+    "Mercury": ["Opening ten reference courses instead of mastering one core book", "Overlooking fine visa, syllabus, or deadline footnotes"],
+    "Jupiter": ["Spending study hours solely on broad theory without timed drills", "Over-relying on last-minute inspiration rather than scheduled review"],
+    "Venus": ["Waiting for ideal inspiration before opening challenging chapters", "Blending travel leisure with overdue visa/exam paperwork"],
+    "Saturn": ["Exhausting sleep reserves right before major exam dates", "Perfectionist hesitation delaying final paper submission"],
+    "Rahu": ["Pursuing unaccredited overseas shortcuts lacking transparent rules", "Leaving passport, transcript, or fee documents till final week"],
+    "Ketu": ["Writing overly condensed answers assuming evaluators see every leap", "Skipping peer mock interviews when clear articulation pays off"]
+  },
+  "safety_advice_by_planet": {
+    "Sun": ["Take weekly timed mock tests and log every small polish calmly", "Keep visas and university recommendations verified two months ahead"],
+    "Moon": ["Guard morning quiet hours with phone notifications paused away", "Anchor travel plans with steady hydration and familiar sleep rhythms"],
+    "Mars": ["Reserve the final 10% of every exam cleanly for calm verification", "Pack travel checklists and health insurance copies cleanly beforehand"],
+    "Mercury": ["Keep one master summary notebook per subject reviewed Day 1/3/7", "Verify travel itineraries and academic deadlines twice in writing"],
+    "Jupiter": ["Pair broad conceptual reading with 30-minute timed problem drills", "Confirm scholarship rules and host-country rules with official portals"],
+    "Venus": ["Start technical study effortlessly with a calm 25-minute timer", "Enjoy creative travel balanced cleanly against structured study blocks"],
+    "Saturn": ["Stop heavy new cramming 12 hours prior to key exams so focus stays fresh", "Set intermediate milestone deadlines weeks before visa submissions"],
+    "Rahu": ["Maintain a dated milestone tracker for visas, exams, and transcripts", "Choose verified accredited institutions backed by transparent reviews"],
+    "Ketu": ["Draft plain-language outlines first so every grader follows your clarity", "Share research roadmaps periodically with an attentive mentor"]
+  },
+  "absorbed_topics": {
+    "competitive_exams": {
+      "title": "Competitive Exams & Merit Selection Readiness",
+      "strong": "Sharp analytical focus from {planet} paired with steady grit in your {house} strongly supports competitive exams, merit scholarships, and structured interviews. Consistent mock-test reviews match productively with {year_range}.",
+      "balanced": "Your {house} and {planet} back encouraging selection odds when active spaced revision replaces distractions. Structured discipline steadily lifts outcomes across the {year_range} window.",
+      "focus": "High cut-off selection around your {house} rewards unwavering daily schedules and applied portfolio proof supported by {planet}. Extra steady mock practice builds breakthrough readiness toward {year_range}.",
+      "basis": "Mercury, Mars Courage, 5th/6th & {planet}"
+    },
+    "foreign_travel": {
+      "title": "Global Study, Foreign Travel & Relocation",
+      "strong": "Active 9th and 12th house indicators energized by {planet} near your {house} show auspicious horizons for overseas university study, global projects, or meaningful foreign settlement around {year_range}.",
+      "balanced": "Your {house} and {planet} reveal open doors for international collaborations, cross-border certifications, and enriching overseas journeys. Clean paperwork preparation aligns well near {year_range}.",
+      "focus": "Strong roots around your {house} show domestic mastery currently compounding smoothly alongside {planet}, with purposeful international visits opening gracefully around {year_range}.",
+      "basis": "9th/12th Houses, Rahu, Moon & {planet}"
+    }
+  },
+  "cross_references": {
+    "CAREER": {
+      "title": "Credentials Convert Directly Into Career Authority",
+      "insight": "Every focused milestone around {planet} in your {house} feeds 10th house D10 elevation and stronger leadership roles."
+    },
+    "WEALTH": {
+      "title": "Specialized Learning Compounds Earning Power",
+      "insight": "Mastery cultivated through {planet} in your {house} turns specialized skills and global fluency into enduring financial surplus."
+    },
+    "MARRIAGE": {
+      "title": "Intellectual Curiosity Enriches Companionship",
+      "insight": "Travel stories and lifelong learning inspired by {planet} in your {house} keep shared partnership dialogue lively and inspiring."
+    },
+    "HEALTH": {
+      "title": "Calm Nervous Rhythm Sustains Exam Recall",
+      "insight": "Alternating focused study blocks with evening walks honors {planet} in your {house} so high-stakes concentration stays steady."
+    }
+  }
+}

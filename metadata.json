@@ -1,0 +1,6 @@
+{
+  "name": "AstroVeda",
+  "description": "Offline Vedic astrology app with Kundali charts, 15-question Q&A, chart-flavored predictions, and Shaadi Milan compatibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

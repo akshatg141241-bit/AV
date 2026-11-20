@@ -1,0 +1,332 @@
+{
+  "personality_by_sign": {
+    "0": "Your financial style blends bold initiative with an instinct to create independent income quickly. Rather than waiting passively for incremental raises, you feel energized by performance bonuses, entrepreneurial equity, or active ventures. Guarding against impulsive luxury or rushed purchases ensures your strong earning surges stay securely invested.",
+    "1": "You possess an innate reverence for tangible security, quality assets, and patient compounding wealth. Comfort matters deeply to you, motivating disciplined saving habits and attraction toward real estate, dividend reserves, and reliable stores of value. Once you establish a financial foundation, your steady stewardship guards it vigilantly.",
+    "2": "Resourceful versatility and agile monetization mark your relationship with prosperity. You excel at cultivating multiple income channels—blending advisory, digital commerce, writing, or portfolio rebalancing smoothly. Keeping automated transfers active prevents curious lifestyle spending from diluting your steady intellectual gains.",
+    "3": "Emotional security and protecting family wellbeing form the core motivation behind your financial decisions. You think long term about home equity, emergency cushions, and nurturing shared family prosperity. Intuitive timing often guides your wisest asset entries when you stay calm and avoid worry-driven conservatism.",
+    "4": "Generous pride and a preference for excellence color how you attract and spend abundance. You naturally gravitate toward high-quality assets, dignified hospitality, and ventures where prestige aligns with profitability. Balancing open-hearted generosity with disciplined wealth tracking keeps surplus overflowing.",
+    "5": "Analytical prudence, tax awareness, and keen optimization of every rupee make you a natural financial steward. You rarely fall for empty hype, preferring audited fundamentals, transparent fees, and measurable returns. Your patience for careful accounting turns modest inflows into remarkably durable reserves.",
+    "6": "Balance, refined taste, and collaborative wealth creation shape your prosperity journey. Joint ventures, legal/design advisory, brand partnerships, and tasteful real assets often prove especially fruitful. Ensuring partner agreements remain crisp and budgets transparent keeps abundance flowing harmoniously.",
+    "7": "Strategic discretion and long-horizon resilience define how you build and protect capital. You possess rare nerve for researching undervalued opportunities, managing shared investments, or holding firm through market cycles. Clear separation between personal reserves and complex joint debts sustains effortless peace.",
+    "8": "Optimism, ethical principles, and expansive vision mark your attitude toward abundance. Prosperity grows richest when connected to advisory knowledge, international channels, education, or purposeful investments. Pairing cheerful confidence with structured downside budgets keeps every growth cycle flourishing.",
+    "9": "Patience, institutional respect, and calculated capital allocation form your greatest financial edge. You build durable wealth steadily across years through disciplined saving, core equity, and unhurried real assets. Long-term perspective ensures your late-cycle financial stature towers effortlessly.",
+    "10": "Forward-looking systems thinking and collective scalability guide how you generate modern wealth. Technology equity, platform businesses, network advisory, and automated wealth systems match your innovative mindset. Consistent cashflow reviews translate big future bets into grounded daily liquidity.",
+    "11": "Flowing generosity, intuitive foresight, and creative value creation define your financial aura. Abundance thrives when your work aligns with genuine purpose, wellness, arts, or global service. Automated budgeting frees your imagination from mundane arithmetic while protecting generous reserves."
+  },
+  "planet_in_house": {
+    "Sun_1": "Sun in the 1st House grants self-made financial dignity and steady earning confidence through personal leadership. Income grows cleanly when you anchor wealth decisions in self-reliance.",
+    "Sun_2": "Sun in the 2nd House illuminates treasury stewardship, executive earnings, and family financial pride. Disciplined tax planning and clear family cashflow rules multiply lasting savings.",
+    "Sun_3": "Sun in the 3rd House rewards self-started income streams, brokerage, publishing, and assertive commercial deals. Courageous skill monetization drives crisp financial acceleration.",
+    "Sun_4": "Sun in the 4th House favors residential real estate equity, institutional assets, and grounded domestic prosperity. Property value compounds steadily alongside family stability.",
+    "Sun_5": "Sun in the 5th House energizes creative intellectual property, leadership equity, and disciplined long-term investing. Measured research outperforms impulsive speculation cleanly.",
+    "Sun_6": "Sun in the 6th House excels at overcoming debts cleanly, winning competitive contracts, and disciplined treasury operations. Consistent structure transforms effort into solid surpluses.",
+    "Sun_7": "Sun in the 7th House channels prosperity through high-profile client contracts, legal agreements, and strategic business alliances. Mutual accountability elevates joint cashflows.",
+    "Sun_8": "Sun in the 8th House favors inheritance stewardship, corporate finance, taxation, insurance, and quiet long-horizon investments. Research reveals steady returns hidden from casual eyes.",
+    "Sun_9": "Sun in the 9th House connects fortune with ethical advisory, international trade, publishing, and respected mentors. Principled investments invite steady abundance.",
+    "Sun_10": "Sun in the 10th House brings elevated professional compensation, executive bonuses, and durable career wealth. Authority and income rise harmoniously step by step.",
+    "Sun_11": "Sun in the 11th House creates magnetic income expansion through influential networks, senior patrons, and large-scale achievements. Ambitious financial milestones ripen fruitfully.",
+    "Sun_12": "Sun in the 12th House supports international remittances, foreign currency income, and thoughtful capital deployment abroad. Clear expense tracking ensures tranquil reserves.",
+    "Moon_1": "Moon in the 1st House attracts public goodwill and customer trust that steadily fuels personal earning power. Emotional poise stabilizes wise saving habits.",
+    "Moon_2": "Moon in the 2nd House favors liquid cash reserves, hospitality/food ventures, treasury comfort, and harmonious family finances. Mindful balance between nurturing and saving keeps coffers healthy.",
+    "Moon_3": "Moon in the 3rd House empowers creative communication, commerce, and community-driven income streams. Agile marketing turns sincere ideas into responsive cashflow.",
+    "Moon_4": "Moon in the 4th House strongly blesses home ownership, land equity, vehicle comforts, and peaceful financial roots. Real property anchors enduring security.",
+    "Moon_5": "Moon in the 5th House sharpens intuitive investing, creative royalties, and prosperous advisory work. Calm patience guards portfolio moves from reactive timing.",
+    "Moon_6": "Moon in the 6th House supports service-based earnings, healthcare/wellness income, and steady debt repayment discipline. Routine budgeting builds unshakable confidence.",
+    "Moon_7": "Moon in the 7th House prospers through retail relationships, client trust, and balanced partner finances. Shared monetary clarity amplifies household abundance.",
+    "Moon_8": "Moon in the 8th House highlights joint assets, family trusts, research-driven portfolios, and quiet liquidity buffers. Deep calm transforms unexpected shifts into readiness.",
+    "Moon_9": "Moon in the 9th House attracts fortunate global connections, travel commerce, and blessings from generous mentors. Ethical stewardship keeps wealth flowing steadily.",
+    "Moon_10": "Moon in the 10th House connects public popularity and responsive leadership directly with rising career revenue. Adaptable service brings reliable prosperity.",
+    "Moon_11": "Moon in the 11th House bestows flowing social gains, supportive friendships, and responsive multi-channel earnings. Networks readily uplift valuable initiatives.",
+    "Moon_12": "Moon in the 12th House favors cross-border revenue, charitable abundance, and peaceful behind-the-scenes wealth management. Dedicated savings buckets protect generous spending.",
+    "Mars_1": "Mars in the 1st House drives energetic wealth creation through bold self-initiative and decisive asset accumulation. Channeling drive into long-term equity yields strong returns.",
+    "Mars_2": "Mars in the 2nd House energizes high earning drive and bold asset acquisition. Pausing before rapid purchases turns intense cashflow into deep savings.",
+    "Mars_3": "Mars in the 3rd House empowers enterprising commissions, digital trade, and relentless execution toward financial targets. Bold negotiation wins favorable deals.",
+    "Mars_4": "Mars in the 4th House favors construction, land equity, engineering infrastructure, and physical real estate. Tangible property investments carry strong growth energy.",
+    "Mars_5": "Mars in the 5th House sharpens tactical market analysis and entrepreneurial innovation. Disciplined risk limits convert bold conviction into lasting gains.",
+    "Mars_6": "Mars in the 6th House conquers liabilities decisively and thrives in competitive commercial contracts. Paying down high-interest commitments happens swiftly under your focus.",
+    "Mars_7": "Mars in the 7th House injects assertive momentum into business partnerships and enterprise sales. Clear equity agreements sustain harmonious joint profitability.",
+    "Mars_8": "Mars in the 8th House excels at real-asset turnarounds, capital restructuring, and resolute management of shared finances. Calm diligence safeguards joint wealth.",
+    "Mars_9": "Mars in the 9th House drives profitable legal, technical, global trade, and entrepreneurial publishing ventures. Bold integrity earns enduring trust.",
+    "Mars_10": "Mars in the 10th House converts commanding professional status into decisive income growth and real asset leadership. Executive execution earns top rewards.",
+    "Mars_11": "Mars in the 11th House represents one of the strongest wealth-multiplying placements for bold enterprise gains, property flips, and ambitious profit targets.",
+    "Mars_12": "Mars in the 12th House empowers international asset ventures, import-export, and remote technical revenues. Structured expense caps keep foreign gains compounding.",
+    "Mercury_1": "Mercury in the 1st House confers sharp commercial instincts, financial literacy, and smart value negotiation throughout life. Analytical clarity boosts net worth reliably.",
+    "Mercury_2": "Mercury in the 2nd House excels in accounting, fintech, publishing, advisory, and eloquent business communication. Intelligent cashflow design fuels steady treasury growth.",
+    "Mercury_3": "Mercury in the 3rd House unlocks profitable digital commerce, media deals, writing royalties, and agile trade. Smart communication scales revenue seamlessly.",
+    "Mercury_4": "Mercury in the 4th House supports property documentation mastery, analytics-driven home equity, and structured household budgets. Informed planning maximizes asset stability.",
+    "Mercury_5": "Mercury in the 5th House blends quantitative skill, software/IP equity, and measured market intelligence. Calculated compounding replaces guesswork cleanly.",
+    "Mercury_6": "Mercury in the 6th House brings crisp audit mastery, zero-waste budgeting, and debt-management logic. Careful analysis preserves hard-earned margins.",
+    "Mercury_7": "Mercury in the 7th House flourishes in B2B trade, brokerage, consulting contracts, and commercial negotiation. Win-win agreements expand recurring cashflow.",
+    "Mercury_8": "Mercury in the 8th House thrives in taxation strategy, portfolio analytics, insurance auditing, and unlocking hidden asset efficiency. Precision safeguards joint wealth.",
+    "Mercury_9": "Mercury in the 9th House connects intellectual royalties, international trade, and advisory wisdom into steady long-range prosperity.",
+    "Mercury_10": "Mercury in the 10th House converts executive intelligence, analytical leadership, and versatile skill portfolios into consistent, scalable income.",
+    "Mercury_11": "Mercury in the 11th House creates smart network monetization, commercial alliances, and multiple diversified income lanes.",
+    "Mercury_12": "Mercury in the 12th House supports global consulting, cross-border software revenue, and quiet financial optimization across timezones.",
+    "Jupiter_1": "Jupiter in the 1st House blesses ethical abundance, wise capital judgment, and trusted reputation that naturally draws prosperous opportunities.",
+    "Jupiter_2": "Jupiter in the 2nd House places the great benefic in the treasury house, fostering noble family reserves, wise advisory earnings, and auspicious compounding.",
+    "Jupiter_3": "Jupiter in the 3rd House expands honorable commerce, educational publishing, and mutually uplifting sibling or peer ventures.",
+    "Jupiter_4": "Jupiter in the 4th House graces spacious homes, comforting real-estate appreciation, and generous domestic financial stability.",
+    "Jupiter_5": "Jupiter in the 5th House brings auspicious investment judgment, ethical intellectual equity, and fruitful long-horizon compounding.",
+    "Jupiter_6": "Jupiter in the 6th House protects through honorable dispute resolution, service-sector wealth, and steady clearance of old obligations.",
+    "Jupiter_7": "Jupiter in the 7th House draws prosperous, high-integrity business partners and fortunate commercial contracts over time.",
+    "Jupiter_8": "Jupiter in the 8th House acts as a protective shield over joint wealth, family trusts, retirement reserves, and long-term solvency.",
+    "Jupiter_9": "Jupiter in the 9th House elevates abundant fortune, generous patronage, international prosperity, and ethical wealth expansion.",
+    "Jupiter_10": "Jupiter in the 10th House combines respected career authority with honorable, steadily rising compensation and lasting institutional rewards.",
+    "Jupiter_11": "Jupiter in the 11th House creates joyous network abundance, fulfilling income expansion, and generous community returns over decades.",
+    "Jupiter_12": "Jupiter in the 12th House brings serene wealth through global missions, philanthropy that circles back, and wise international reserves.",
+    "Venus_1": "Venus in the 1st House attracts comfort, fine quality, and magnetic goodwill that lifts earning potential in creative and client fields.",
+    "Venus_2": "Venus in the 2nd House in its natural treasury home promotes luxurious reserves, design/brand wealth, precious assets, and joyful prosperity.",
+    "Venus_3": "Venus in the 3rd House turns creative storytelling, aesthetic marketing, and refined collaborations into pleasant, repeatable cashflow.",
+    "Venus_4": "Venus in the 4th House reaches exalted domestic comfort—beautiful residences, smooth vehicles, and harmonious real-estate appreciation.",
+    "Venus_5": "Venus in the 5th House fuels prosperous design, entertainment, hospitality, and tasteful long-term portfolio investments.",
+    "Venus_6": "Venus in the 6th House favors wellness, beauty, boutique services, and resolving financial friction diplomatically.",
+    "Venus_7": "Venus in the 7th House blesses affluent partnerships, mutually rewarding joint ventures, and strong retail/client patronage.",
+    "Venus_8": "Venus in the 8th House enhances partner wealth, quiet asset appreciation, luxury valuation, and serene joint reserves.",
+    "Venus_9": "Venus in the 9th House invites refined travel commerce, international art/design value, and fortunate aesthetic opportunities.",
+    "Venus_10": "Venus in the 10th House converts creative prestige, brand charm, and refined management into elevated executive rewards.",
+    "Venus_11": "Venus in the 11th House pours abundance through supportive networks, artistic audiences, and rewarding social collaborations.",
+    "Venus_12": "Venus in the 12th House favors global luxury markets, international creative royalties, and serene capital enjoyment with mindful saving.",
+    "Saturn_1": "Saturn in the 1st House builds patient, self-earned wealth foundations through steady discipline and realistic budgeting.",
+    "Saturn_2": "Saturn in the 2nd House acts as a strict guardian of reserves—slow early growth evolves into rock-solid, enduring accumulated capital.",
+    "Saturn_3": "Saturn in the 3rd House turns persistent skill building and disciplined commercial outreach into dependable recurring revenue.",
+    "Saturn_4": "Saturn in the 4th House favors enduring land holdings, industrial/core property, and patient mortgage payoff across decades.",
+    "Saturn_5": "Saturn in the 5th House promotes ultra-disciplined long-term investing, index compounding, and intellectual rigor over flashy bets.",
+    "Saturn_6": "Saturn in the 6th House methodically eliminates debt, outperforms competitors through endurance, and stabilizes operational cashflow.",
+    "Saturn_7": "Saturn in the 7th House grounds joint ventures in durable contracts, mature partners, and steadily appreciating commercial trusts.",
+    "Saturn_8": "Saturn in the 8th House builds enduring retirement security, tax-efficient long trusts, and calm poise through long market cycles.",
+    "Saturn_9": "Saturn in the 9th House earns principled prosperity through classical mastery, law, institutional equity, and patient global expansion.",
+    "Saturn_10": "Saturn in the 10th House elevates long-horizon executive income, high-responsibility compensation, and lasting financial stature.",
+    "Saturn_11": "Saturn in the 11th House provides exceptional late-cycle compounding—long-term investments and steadfast alliances pay richly over time.",
+    "Saturn_12": "Saturn in the 12th House urges disciplined expense systems and favors global infrastructure or quiet institutional treasury growth.",
+    "Rahu_1": "Rahu in the 1st House fuels bold wealth ambitions, entrepreneurial scale, and attraction to modern growth industries.",
+    "Rahu_2": "Rahu in the 2nd House expands unconventional income streams, tech commerce, and persuasive revenue generation when anchored with clean ledgers.",
+    "Rahu_3": "Rahu in the 3rd House unlocks bold media monetization, digital sales scalability, and courageous entrepreneurial cashflow.",
+    "Rahu_4": "Rahu in the 4th House magnifies ambition around grand residences, modern real estate development, and tech-enabled property assets.",
+    "Rahu_5": "Rahu in the 5th House sparks inventive product monetization and market insight; strict risk ceilings convert boldness into lasting surplus.",
+    "Rahu_6": "Rahu in the 6th House empowers clever debt clearance, legal-commercial agility, and outthinking competitive bottlenecks cleanly.",
+    "Rahu_7": "Rahu in the 7th House expands lucrative international trade, diverse joint ventures, and modern digital partnerships.",
+    "Rahu_8": "Rahu in the 8th House brings affinity for venture turnarounds, modern fintech, and unlocking latent asset value with strong due diligence.",
+    "Rahu_9": "Rahu in the 9th House connects global commerce, publishing, and international markets with expanding opportunity.",
+    "Rahu_10": "Rahu in the 10th House accelerates prominent career compensation, digital reach, and high-growth industry leadership.",
+    "Rahu_11": "Rahu in the 11th House acts as a celebrated powerhouse for network scale, multiple revenue streams, and rapid financial expansion.",
+    "Rahu_12": "Rahu in the 12th House supports global remote contracts, foreign-currency earnings, and cross-border investments when tracked transparently.",
+    "Ketu_1": "Ketu in the 1st House frees your wealth mindset from hollow status chasing, prioritizing genuine independence and niche value.",
+    "Ketu_2": "Ketu in the 2nd House teaches concise financial clarity and specialized mastery; keeping clean records turns understated skill into solid reserves.",
+    "Ketu_3": "Ketu in the 3rd House excels at minimalist, high-margin technical or editorial value creation free from bloated overhead.",
+    "Ketu_4": "Ketu in the 4th House favors peaceful living, debt-free simplicity, and intuitive property timing over flashy leverage.",
+    "Ketu_5": "Ketu in the 5th House brings sharp mathematical/analytical clarity for investing cleanly without emotional overtrading.",
+    "Ketu_6": "Ketu in the 6th House quietly resolves financial obligations and crafts efficient, waste-free operational profitability.",
+    "Ketu_7": "Ketu in the 7th House favors selective, high-integrity financial alliances where clarity of purpose protects shared wealth.",
+    "Ketu_8": "Ketu in the 8th House sharpens deep research instincts for estate planning, hidden efficiencies, and unshakeable emergency preparedness.",
+    "Ketu_9": "Ketu in the 9th House aligns wealth with ethical depth, research publishing, and meaningful long-term stewardship.",
+    "Ketu_10": "Ketu in the 10th House supports high-integrity boutique consulting and specialized technical value where reputation speaks quietly.",
+    "Ketu_11": "Ketu in the 11th House brings unhurried, authentic gains through trusted circles when purpose leads profit cleanly.",
+    "Ketu_12": "Ketu in the 12th House favors global niche royalties, quiet philanthropy, and serene financial freedom grounded in low overhead."
+  },
+  "hidden_challenges": {
+    "Sun": "Pride in self-sufficiency can occasionally tempt you into oversized prestige commitments or reluctance to ask financial advisors early. Letting objective spreadsheets guide generosity preserves proud independence.",
+    "Moon": "When emotions surge or family needs feel urgent, comfort spending or reactive investment tweaks can ripple cashflow unexpectedly. Waiting 48 hours on emotional purchases keeps savings serene.",
+    "Mars": "High financial energy sparks swift earning wins, yet hurried buying or aggressive leverage can test cashflow buffers. Channeling urgency into automated investments builds lasting momentum.",
+    "Mercury": "Clever ideas across many avenues can occasionally scatter capital across too many small experiments at once. Consolidating into two core wealth pillars multiplies compounding clarity.",
+    "Jupiter": "Natural optimism and generous hospitality make money flow warmly, yet overestimating near-term projections can stretch reserves thin. Pairing faith with conservative cash buffers keeps expansion joyful.",
+    "Venus": "Aesthetic refinement enhances your lifestyle beautifully, yet subtle comfort upgrades can quietly keep pace with rising income. Automating savings before discretionary spending preserves effortless luxury.",
+    "Saturn": "Caution around capital protects you well, yet excessive hesitation can sometimes leave cash idle instead of quietly compounding in quality assets. Systematic monthly allocation bridges safety and growth.",
+    "Rahu": "Big-scale financial visions excite you deeply, yet opaque high-speed schemes demand extra verification before committing capital. Anchoring ambition in audited fundamentals secures lasting wealth.",
+    "Ketu": "Healthy detachment from materialism keeps you principled, yet ignoring routine account tracking or underpricing specialized skill can slow accumulation. Regular calendarized check-ins honor your craft fairly."
+  },
+  "superpowers": {
+    "Sun": {
+      "title": "Self-Made Prosperity Authority",
+      "body": "The Sun anchors your wealth signature in proud self-reliance, leadership income, and dignified resource stewardship. You generate credibility effortlessly in high-responsibility arenas where fair compensation follows trusted impact. Clean governance makes your treasury shine steadily."
+    },
+    "Moon": {
+      "title": "Intuitive Abundance Flow",
+      "body": "The Moon blesses your finances with perceptive market timing, domestic security, and warm public trust that sustains steady inflows. People readily invest in your sincerity and caring judgment. Family support and property foundations nurture lasting prosperity."
+    },
+    "Mars": {
+      "title": "Decisive Wealth Acceleration",
+      "body": "Mars fuels your financial profile with enterprising speed, bold deal-making courage, and strong affinity for tangible real assets. You transform stagnation into decisive earnings through active execution and debt-busting grit. Actionable targets mobilize remarkable momentum."
+    },
+    "Mercury": {
+      "title": "Smart Multi-Stream Value Design",
+      "body": "Mercury powers your prosperity blueprint with commercial agility, numerical intelligence, and creative monetization skills. You spot arbitrage, scalable systems, and efficient investments with crisp analytical speed. Intellectual equity becomes a dependable wealth engine."
+    },
+    "Jupiter": {
+      "title": "Auspicious Compounding Wisdom",
+      "body": "Jupiter graces your treasury with ethical judgment, fortunate long-term expansion, and protective blessing over family reserves. Your patient, principled approach steadily draws quality opportunities and trustworthy advisors. Generosity circles back into enduring security."
+    },
+    "Venus": {
+      "title": "Magnetic Luxury & Asset Grace",
+      "body": "Venus enriches your financial path with refined taste, creative value creation, and harmonious property comfort. You naturally attract resources through artistry, diplomacy, and thoughtful curation of lasting quality. Abundance feels both prosperous and joyful."
+    },
+    "Saturn": {
+      "title": "Generational Compounding Endurance",
+      "body": "Saturn anchors your wealth architecture in patient consistency, debt-free resilience, and rock-solid long-horizon equity. Every steady deposit and verified real asset grows mightier decade by decade. Time works decisively in your favor."
+    },
+    "Rahu": {
+      "title": "Scalable Modern Wealth Vision",
+      "body": "Rahu energizes your earning power with bold entrepreneurial scale, digital reach, and cross-border commercial vision. You sense emerging wealth waves early and assemble diverse networks that multiply value rapidly. Grounded execution turns big ideas into breakthroughs."
+    },
+    "Ketu": {
+      "title": "Pure High-Margin Precision",
+      "body": "Ketu refines your wealth style with zero-waste discernment, specialized niche authority, and serenity beyond fleeting market noise. Deep expertise commands quiet value without wasteful overhead. Clarity of purpose secures authentic prosperity."
+    }
+  },
+  "growth_areas": {
+    "Sun": {
+      "title": "Balanced Co-Investment & Neutral Advice",
+      "body": "Taking sole responsibility builds proud strength, while letting trusted financial counsel stress-test large commitments multiplies safety. Shared wisdom complements personal conviction seamlessly.",
+      "guidance": "Consult an independent fee-only planner or quantitative checklist before locking major capital outlays."
+    },
+    "Moon": {
+      "title": "Automated Savings Before Mood Swings",
+      "body": "Protecting your sensitive intuition from market headlines keeps investment compounding smooth across every season. Automatic transfers remove emotional friction cleanly.",
+      "guidance": "Automate savings and investments on payday so monthly comfort spending stays naturally balanced."
+    },
+    "Mars": {
+      "title": "Measured Due Diligence Before Action",
+      "body": "Slowing the final green-light moment by just one calm review day preserves your bold wins from hasty contracts or rushed upgrades. Patience amplifies net gains noticeably.",
+      "guidance": "Adopt a 72-hour cooling-off pause on any discretionary purchase or deal above your monthly threshold."
+    },
+    "Mercury": {
+      "title": "Unified Wealth Architecture",
+      "body": "Trimming excess financial accounts and speculative side experiments funnels your bright analytical mind into a clean, compounding engine. Simplicity creates effortless scale.",
+      "guidance": "Consolidate accounts quarterly and direct at least 80% of capital into your top two core strategies."
+    },
+    "Jupiter": {
+      "title": "Realistic Cashflow Ceilings on Generosity",
+      "body": "Your noble desire to support everyone thrives longest when funded strictly from dedicated giving buckets rather than core reserves. Generosity and solvency uplift each other harmoniously.",
+      "guidance": "Maintain a dedicated giving allocation each month while keeping emergency reserves untouched."
+    },
+    "Venus": {
+      "title": "Conscious Value vs. Impulse Comfort",
+      "body": "Savoring beauty deeply aligns with your nature, and pairing lifestyle upgrades with matching long-term asset buys multiplies lasting wealth effortlessly. Quality outshines quantity.",
+      "guidance": "Match every major lifestyle upgrade with an equal transfer into long-term compounding assets."
+    },
+    "Saturn": {
+      "title": "Joyful Flexibility Within Discipline",
+      "body": "Your diligent prudence guards capital tirelessly; allowing a modest, guilt-free joy budget refreshes motivation along the marathon. Balanced enjoyment strengthens lifelong consistency.",
+      "guidance": "Designate 5-10% of surplus strictly for restorative travel, health, or joyful family memories."
+    },
+    "Rahu": {
+      "title": "Transparent Verification & Tax Cleanliness",
+      "body": "Bold modern opportunities soar highest when built atop spotless legal, tax, and liquidity foundations. Verifying fundamentals protects fast trajectories against hidden surprises.",
+      "guidance": "Require plain-language audits and clear exit terms for every non-traditional or partner investment."
+    },
+    "Ketu": {
+      "title": "Fair Valuation & Active Portfolio Reviews",
+      "body": "Honoring your deep craft with fair pricing—and reviewing accounts on a light monthly rhythm—ensures subtle talent translates into comfortable tangible security.",
+      "guidance": "Schedule a calm 20-minute wealth check on the 1st of every month and benchmark your fees fairly."
+    }
+  },
+  "diverse_paths_by_planet": {
+    "Sun": [
+      { "title": "Executive Equity & Treasury Bonds", "sector": "Capital Preservation & Stewardship", "reason": "Supported by sovereign leadership clarity of {planet} in your {house}." },
+      { "title": "Institutional Retainers & Board Advisory", "sector": "High-Trust Consulting Income", "reason": "Honors natural dignity and steady cashflow anchored by {planet} in your {house}." },
+      { "title": "Civic Land & Commercial Real Assets", "sector": "Fixed Assets", "reason": "Favored by stable asset foundations illuminated through {planet} in your {house}." }
+    ],
+    "Moon": [
+      { "title": "Automated Cashflow Reserves & Family Real Estate", "sector": "Liquid Security & Home Equity", "reason": "Calms intuition and builds rhythmic compounding via {planet} in your {house}." },
+      { "title": "Food, Wellness & Everyday Essentials Equity", "sector": "Defensive Consumer Assets", "reason": "Aligns naturally with steady caring demand nurtured by {planet} in your {house}." },
+      { "title": "Recurring Client Care & Hospitality Assets", "sector": "Hospitality Revenue", "reason": "Flourishes on loyal repeat goodwill created by {planet} in your {house}." }
+    ],
+    "Mars": [
+      { "title": "Direct Residential Land & Skilled-Trade Equity", "sector": "Real Estate & Hard Assets", "reason": "Activated strongly by tangible earth-building drive of {planet} in your {house}." },
+      { "title": "Active Infrastructure & Manufacturing Shares", "sector": "Industrial Equity", "reason": "Captures decisive construction growth backed by {planet} in your {house}." },
+      { "title": "High-Cashflow Operating Trade Margins", "sector": "Operating Cashflow", "reason": "Rewards energetic turnarounds powered cleanly by {planet} in your {house}." }
+    ],
+    "Mercury": [
+      { "title": "Broad Index ETFs & Systematic Advisory Fees", "sector": "Compounding & Knowledge Income", "reason": "Multiplies sharp numerical clarity guided by {planet} inside your {house}." },
+      { "title": "Royalties, Intellectual Property & Digital Assets", "sector": "Scalable IP Income", "reason": "Turns communication and analytical depth of {planet} in your {house} into recurring earnings." },
+      { "title": "Liquid Working-Capital Trade Cycles", "sector": "Commercial Turnover", "reason": "Matches nimble calculation speed sharpened by {planet} in your {house}." }
+    ],
+    "Jupiter": [
+      { "title": "Productive Farmland, Orchards & Long-Term Equity", "sector": "Agriculture & Compounding Assets", "reason": "Highly favorable for land and ethical compounding due to {planet} blessing your {house}." },
+      { "title": "Gold Reserves & Broad Balanced Portfolio", "sector": "Generational Store of Value", "reason": "Reflects enduring wisdom and family security anchored by {planet} in your {house}." },
+      { "title": "Educational Content & Mentorship Endowments", "sector": "Wisdom Monetization", "reason": "Grows abundantly as {planet} expands generous trust in your {house}." }
+    ],
+    "Venus": [
+      { "title": "Design-Led Rental Homes & Aesthetic Assets", "sector": "Lifestyle Real Estate", "reason": "Turns cultivated spatial taste of {planet} in your {house} into appreciating value." },
+      { "title": "Consumer Luxury, Jewelry & Art Collectibles", "sector": "Quality Value Stores", "reason": "Harmonizes refined beauty discernment with wealth retention via {planet} in your {house}." },
+      { "title": "Collaborative Joint Ventures & Brand Licensing", "sector": "Partnership Revenue", "reason": "Draws gracious mutually profitable partnerships through {planet} in your {house}." }
+    ],
+    "Saturn": [
+      { "title": "Patient Debt-Free Compounding & Blue-Chip Dividends", "sector": "Slow-Burn Generational Wealth", "reason": "Protected by ironclad endurance of {planet} compounding across your {house}." },
+      { "title": "Long-Lease Industrial or Rural Land Holdings", "sector": "Steady Yield Property", "reason": "Honors structured multi-decade value anchored by {planet} in your {house}." },
+      { "title": "Structured Retirement & Pension Architecture", "sector": "Zero-Stress Security", "reason": "Maximized through disciplined monthly saving habits backed by {planet} in your {house}." }
+    ],
+    "Rahu": [
+      { "title": "Global Tech Equities & Cross-Border Digital Revenue", "sector": "Modern Scalable Assets", "reason": "Expands borderless earning horizons energized by {planet} in your {house}." },
+      { "title": "Foreign-Currency Consulting & Emerging Sectors", "sector": "Global Arbitrage", "reason": "Captures forward-looking market cycles stimulated by {planet} in your {house}." },
+      { "title": "Venture Co-Investing Paired With Core Treasury", "sector": "Barbell Portfolio", "reason": "Channels bold curiosity of {planet} in your {house} productively inside safety rails." }
+    ],
+    "Ketu": [
+      { "title": "Minimalist Fixed Income & Debt-Free Sovereign Assets", "sector": "Simplicity & Autonomy", "reason": "Matches serene freedom-first values held by {planet} in your {house}." },
+      { "title": "Deep Niche Patent, Book or Research Royalties", "sector": "Quiet Passive Income", "reason": "Monetizes authentic focused mastery refined by {planet} in your {house}." },
+      { "title": "Unencumbered Land Sanctuary & Sovereign Savings", "sector": "Grounded Independence", "reason": "Preserves mental stillness while compounding silently under {planet} in your {house}." }
+    ]
+  },
+  "cautious_zones_by_planet": {
+    "Sun": ["Pride-driven status purchases exceeding core investment targets", "Unofficial verbal guarantees on large family loans"],
+    "Moon": ["Making portfolio exits during temporary emotional headlines", "Neglecting separate written personal emergency reserves"],
+    "Mars": ["Concentrated high-leverage speculation without stop-limits", "Buying property quickly before clear title verification"],
+    "Mercury": ["Fragmenting capital across too many tracking apps and speculative tips", "Signing multi-page credit terms without reading fee clauses"],
+    "Jupiter": ["Extending uncollateralized friendly loans out of pure optimism", "Expanding lifestyle overhead ahead of realized annual surplus"],
+    "Venus": ["Treating luxury comfort subscriptions as invisible recurring drags", "Merging shared business/personal cards without clean bookkeeping"],
+    "Saturn": ["Letting excess cash sit uninvested in zero-yield accounts indefinitely", "Delaying overdue fee raises despite rising skill value"],
+    "Rahu": ["High-volatility leveraged products promising overnight leaps", "Complex tax structures lacking straightforward audit records"],
+    "Ketu": ["Ignoring monthly bank reconciliations and due tax filings", "Underpricing specialized craft out of modest discomfort"]
+  },
+  "safety_advice_by_planet": {
+    "Sun": ["Automate 25-30% wealth transfers first before discretionary spending", "Review major investments with an independent quantitative checklist"],
+    "Moon": ["Hold six months of liquid expenses in a dedicated separate reserve", "Use automated monthly SIPs so emotions never interrupt compounding"],
+    "Mars": ["Enforce a calm 72-hour waiting rule before closing real-asset deals", "Verify clean legal deeds and debt ratios conservatively on paper"],
+    "Mercury": ["Consolidate holdings into three clear core strategies reviewed quarterly", "Maintain a simple shared net-worth sheet updated every month"],
+    "Jupiter": ["Cap philanthropic or family gifting inside a fixed annual bucket", "Document every partnership share and loan schedule in clear writing"],
+    "Venus": ["Pair every lifestyle upgrade with an equal transfer into appreciating assets", "Keep recurring subscriptions audited every quarter for effortless surplus"],
+    "Saturn": ["Allocate steady inflation-beating index investments monthly on autopilot", "Set aside a small joyful wellness budget to reward sustained discipline"],
+    "Rahu": ["Ring-fence 75-80% of capital in transparent regulated core holdings", "Require clear legal, tax, and liquidity exit terms on modern ventures"],
+    "Ketu": ["Schedule a peaceful 20-minute wealth check on the 1st of every month", "Benchmark market rates annually so quiet expertise earns fair rewards"]
+  },
+  "absorbed_topics": {
+    "dhan_yog": {
+      "title": "Dhan Yog & Wealth Accumulation Cycle",
+      "strong": "Your {house}, 11th house gains, and {planet} reveal a constructive Dhan Yog pattern favoring steady surplus and asset expansion. During {year_range}, disciplined investing compounds noticeably.",
+      "balanced": "{planet} working with your {house} supports reliable income growth alongside thoughtful asset acquisition. Automating monthly savings turns {year_range} into a visibly productive wealth-building chapter.",
+      "focus": "Your {house} builds enduring wealth steadily through craft mastery and patient savings discipline rather than speculative luck under {planet}. Avoiding shortcuts positions {year_range} for lasting stability.",
+      "basis": "2nd/11th Lords, Jupiter & {planet}"
+    },
+    "debt_clearance": {
+      "title": "Loan Relief, Cashflow & Liability Strategy",
+      "strong": "Strong 11th-house inflow alignment backed by {planet} around your {house} empowers income to outpace obligations smoothly. Following an orderly payoff plan accelerates debt freedom cleanly through {year_range}.",
+      "balanced": "Your {house} under {planet} reflects manageable obligations that resolve consistently with consolidated budgeting and zero fresh consumer credit. Noticeable cashflow breathing room expands toward {year_range}.",
+      "focus": "Steady prioritization around your {house} guided by {planet} keeps liabilities orderly—retire highest-cost balances first and guard liquidity cleanly. Patient discipline brings tangible relief around {year_range}.",
+      "basis": "6th/11th Balance, 2nd Lord & Saturn"
+    },
+    "property_yog": {
+      "title": "Home, Land & Real-Asset Timing",
+      "strong": "Supportive 4th-house stability combined with {planet} illuminates auspicious timing for home, agricultural land, or fixed-asset ownership. Legal paperwork and family settlement align cleanly near {year_range}.",
+      "balanced": "Your {house} and {planet} favor practical property acquisition once liquid down-payment reserves and title verification are crisp. Realistic market comparisons reward patient buyers around {year_range}.",
+      "focus": "Preserving flexible cash reserves before locking capital into immovable property around your {house} strengthens bargaining power under {planet}. Revisit major purchase milestones as clarity ripens near {year_range}.",
+      "basis": "4th House, Mars, Venus & {planet}"
+    }
+  },
+  "cross_references": {
+    "CAREER": {
+      "title": "How Wealth Reflects Career Growth",
+      "insight": "When {planet} strengthens your {house}, negotiating higher-value vocational problems in your 10th house directly unlocks lasting wealth velocity."
+    },
+    "MARRIAGE": {
+      "title": "Financial Calm & Shared Partnership",
+      "insight": "Transparent household budgets around {planet} in your {house} remove unspoken stress from the 7th house and nurture peaceful family planning."
+    },
+    "DHARMA": {
+      "title": "Purposeful Stewardship & Generosity",
+      "insight": "Aligning prosperity with ethical service amplifies {planet} abundance inside your {house} far beyond idle hoarding."
+    },
+    "HEALTH": {
+      "title": "Vitality Preserves Compounding",
+      "insight": "A steady nervous system protects rational decisions for {planet} in your {house}—rested focus is your highest financial edge."
+    }
+  }
+}

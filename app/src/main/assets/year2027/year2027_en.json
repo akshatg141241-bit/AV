@@ -1,0 +1,339 @@
+{
+  "months": [
+    "January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December"
+  ],
+  "disclaimer": "2027 insights synthesize your natal D1/D9/D10 architecture with Vimshottari Dasha sub-periods active during 2027 for empowering reflection.",
+  "hero_by_planet": {
+    "Sun": {
+      "headline": "Radiant Sovereignty 2027",
+      "glyph": "☉",
+      "summary": "Your 2027 timeline centers on visible leadership, upright integrity, and claiming meaningful authority across career and personal goals. Under {maha} Maha Dasha, clear decisions and confident boundaries open doors steadily across the middle and closing quarters."
+    },
+    "Moon": {
+      "headline": "Serene Intuition 2027",
+      "glyph": "☽",
+      "summary": "Your 2027 chapter rewards emotional wisdom, supportive alliances, and calm domestic grounding alongside thoughtful progress. Guided by {maha} Maha Dasha, steady rhythms and sincere trust nurture both financial peace and heartfelt relationships."
+    },
+    "Mars": {
+      "headline": "Fearless Momentum 2027",
+      "glyph": "♂",
+      "summary": "Your 2027 forecast channels crisp initiative, decisive execution, and energetic breakthroughs across ambitious priorities. Within your {maha} Maha Dasha, pairing bold weekly sprints with patient communication converts plans into tangible wins."
+    },
+    "Mercury": {
+      "headline": "Luminous Strategy 2027",
+      "glyph": "☿",
+      "summary": "Your 2027 year accelerates learning, smart communication, commercial agility, and high-value problem solving across projects. Supported by {maha} Maha Dasha, focused documentation and clear dialogue transform complex ideas into steady reward."
+    },
+    "Jupiter": {
+      "headline": "Expansive Grace 2027",
+      "glyph": "♃",
+      "summary": "Your 2027 horizon opens with wise mentorship, auspicious long-term growth, and ethical abundance across work and home. Through {maha} Maha Dasha, patient generosity and continuous learning elevate both reputation and inner contentment."
+    },
+    "Venus": {
+      "headline": "Harmonious Prosperity 2027",
+      "glyph": "♀",
+      "summary": "Your 2027 chapter blends creative refinement, warm partnerships, tasteful abundance, and balanced personal wellbeing. Guided by {maha} Maha Dasha, diplomatic grace and mindful stewardship foster rewarding growth without unnecessary friction."
+    },
+    "Saturn": {
+      "headline": "Steadfast Architecture 2027",
+      "glyph": "♄",
+      "summary": "Your 2027 timeline rewards durable craftsmanship, patient systems, and reliable follow-through that compounds quietly quarter by quarter. Within {maha} Maha Dasha, disciplined pacing builds lasting authority, solid savings, and grounded peace."
+    },
+    "Rahu": {
+      "headline": "Visionary Horizon 2027",
+      "glyph": "☊",
+      "summary": "Your 2027 year invites bold innovation, cross-border connections, modern tools, and unconventional upward leaps. Supported by {maha} Maha Dasha, anchoring fresh ambition in transparent habits unlocks impressive breakthroughs."
+    },
+    "Ketu": {
+      "headline": "Quiet Mastery 2027",
+      "glyph": "☋",
+      "summary": "Your 2027 path highlights deep specialization, discerning clarity, serene boundaries, and authentic meaning behind daily work. Guided by {maha} Maha Dasha, streamlined priorities and quiet precision command sincere respect."
+    }
+  },
+  "at_a_glance_notes": {
+    "CAREER": {
+      "excellent": "High-visibility mandates and supportive leadership rhythms converge cleanly in 2027.",
+      "favorable": "Consistent execution and smart alliances lift professional standing steadily this year.",
+      "growing": "Skill upgrades and patient project ownership build clear career leverage across 2027.",
+      "extra_effort": "Focused routines and clear milestones ask for extra effort before major promotions click."
+    },
+    "WEALTH": {
+      "excellent": "Strong cash-flow alignment and disciplined asset building glow brightly across 2027.",
+      "favorable": "Balanced budgets and steady income avenues favor reliable savings growth this year.",
+      "growing": "Structured saving rules and gradual diversification quietly strengthen reserves in 2027.",
+      "extra_effort": "Careful expense tracking and unhurried financial decisions reward steady patience."
+    },
+    "HEALTH": {
+      "excellent": "Vibrant stamina, restful sleep rhythms, and uplifting outdoor vitality anchor your 2027.",
+      "favorable": "Steady movement and balanced warm nourishment keep daily energy smoothly supportive.",
+      "growing": "Simple posture breaks, clean hydration, and sleep regularity gradually raise vigor.",
+      "extra_effort": "Consistent rest windows and stress decompression deserve extra priority this year."
+    },
+    "MARRIAGE": {
+      "excellent": "Warm harmony, shared celebrations, and deep mutual respect illuminate close bonds in 2027.",
+      "favorable": "Thoughtful dialogue and loyal presence nourish steady sweetness across relationships.",
+      "growing": "Patient listening and unhurried quality time quietly strengthen partnership trust.",
+      "extra_effort": "Clear expectations and extra empathy turn sensitive discussions into lasting calm."
+    },
+    "GROWTH": {
+      "excellent": "Inspiring mentors, clear intuition, and meaningful spiritual depth guide your 2027.",
+      "favorable": "Reflective study and generous service keep your inner compass bright throughout the year.",
+      "growing": "Quiet daily contemplation and authentic values gradually clarify long-term purpose.",
+      "extra_effort": "Protecting unhurried silence amid busy duties calls for mindful consistency."
+    }
+  },
+  "golden_reasons": {
+    "CAREER": "Supportive D10 momentum and auspicious dasha sub-periods favor leadership pitches, role expansion, and high-visibility deliverables.",
+    "WEALTH": "Favorable wealth-house resonance supports savings milestones, thoughtful portfolio tuning, and fair compensation reviews.",
+    "HEALTH": "Balanced planetary vitality aligns smoothly with refreshing fitness routines, restorative sleep, and outdoor energy.",
+    "MARRIAGE": "Harmonious relational periods encourage heartfelt conversations, family celebrations, and deepened mutual understanding.",
+    "DHARMA": "Elevated ninth-house and Atmakaraka currents bless study, mentors, travel reflection, and serene inner clarity."
+  },
+  "effort_reasons": {
+    "CAREER": "Complex deliverables ask for extra effort, clean documentation, and unhurried stakeholder pacing.",
+    "WEALTH": "Discretionary spending and speculative choices benefit from conservative budgets and second opinions.",
+    "HEALTH": "Busy workweeks ask for extra attention to sleep schedules, hydration, and gentle recovery breaks.",
+    "MARRIAGE": "Tight calendars require extra patience, warm listening, and avoiding hurried reactions during stress.",
+    "DHARMA": "Distracting daily noise invites gentle boundary setting to protect morning reflection."
+  },
+  "category_narratives": {
+    "CAREER": {
+      "high": {
+        "paragraphs": [
+          "During the opening quarter of 2027, your vocational signature (guided by {planet} in your D10 chart alongside your {maha} Maha Dasha) builds unmistakable readiness for expanded scope and visible ownership. Conversations begun earlier begin maturing into concrete project leadership or senior advisory trust.",
+          "Across the mid-year months of 2027, {golden_window} emerges as a particularly bright corridor for pitching flagship initiatives, showcasing documented results, and strengthening ties with key decision-makers. Collaborations flow smoothly when you state priorities clearly.",
+          "Through the second half of 2027, maintaining steady boundaries during {effort_window} ensures high output never drifts into scattered multitasking. Protecting focused deep-work mornings converts strong ambition into measurable recognition without burnout.",
+          "As the closing quarter of 2027 arrives, your cumulative reliability sets a high benchmark for peers and mentors alike. Treat each milestone as permanent credibility that opens even larger horizons heading into 2028."
+        ],
+        "remedy": "Dedicate the first 45 minutes of weekday mornings to your single highest-leverage work goal before opening chat threads."
+      },
+      "balanced": {
+        "paragraphs": [
+          "During the opening months of 2027, your career rhythm ({planet} working with your {maha} Maha Dasha and D10 alignment) favors steady craftsmanship, skill refinement, and organizing workflows cleanly. Quiet consistency builds visible trust across teams.",
+          "Moving into the heart of 2027, {golden_window} offers welcoming openings for constructive performance reviews, thoughtful role adjustments, or cross-functional visibility. Sharing crisp progress summaries amplifies your steady contributions naturally.",
+          "Later across {effort_window}, complex stakeholder expectations may ask for extra patience and written clarity before approvals finalize. Meet slow administrative turns with calm preparation rather than rushing agreements.",
+          "By the final quarter of 2027, steady incremental improvements add up to stronger authority and clearer long-range direction. Honor reliable execution as your quiet competitive edge."
+        ],
+        "remedy": "Keep a concise Friday achievement log documenting key wins, metrics, and lessons learned each week."
+      },
+      "effort": {
+        "paragraphs": [
+          "As 2027 begins, your career sky ({planet} in D10 paired with {maha} Maha Dasha transitions) invites patient groundwork, structured upskilling, and clearing backlog priorities calmly. Foundations laid quietly now pay lasting dividends later.",
+          "Between spring and mid-year, {golden_window} brings encouraging encouragement from trusted mentors and cleaner traction on practical tasks. Lean into roles where steady accuracy matters more than loud office politics.",
+          "During {effort_window}, heavy workloads or shifting timelines can require extra effort, clear checklists, and realistic scheduling. Break large mandates into calm weekly milestones so pressure never feels overwhelming.",
+          "Toward the end of 2027, disciplined perseverance steadily dissolves earlier friction and clarifies which vocational path deserves your finest energy next year."
+        ],
+        "remedy": "Schedule a bi-weekly check-in with an experienced mentor and review priorities calmly every Sunday evening."
+      }
+    },
+    "WEALTH": {
+      "high": {
+        "paragraphs": [
+          "During the first quarter of 2027, your financial blueprint ({planet} alongside your {maha} Maha Dasha) supports healthy cash flow, smart pricing confidence, and steady asset growth. Clean separation between essential reserves and growth capital works in your favor.",
+          "Around {golden_window}, favorable timing aligns for salary or fee negotiations, long-term portfolio rebalancing, and turning steady side-skills into dependable income streams. Measured clarity outperforms rushed speculation.",
+          "Across {effort_window}, celebratory expenses or tempting lifestyle upgrades call for calm pause before committing capital. Reviewing contracts line by line protects hard-earned gains effortlessly.",
+          "Closing out 2027, disciplined compounding and generous yet bounded giving leave your financial foundation measurably stronger and deeply peaceful."
+        ],
+        "remedy": "Automate monthly savings transfers on payday and review long-term allocations quarterly with calm discipline."
+      },
+      "balanced": {
+        "paragraphs": [
+          "In early 2027, your wealth outlook ({planet} harmonized with your {maha} Maha Dasha) rewards tidy budgets, debt reduction, and clearing overdue paperwork cleanly. Steady habits bring immediate peace of mind.",
+          "Through {golden_window}, opportunities emerge to diversify modest reserves or refine professional billing fairly. Calm research ensures every step matches your genuine risk comfort.",
+          "During {effort_window}, unexpected household or vehicle maintenance may call for extra effort and thoughtful cash-buffer management. Keep emergency reserves untouched unless genuinely required.",
+          "By the closing months of 2027, consistent financial awareness creates visible stability and confident readiness for future family goals."
+        ],
+        "remedy": "Follow a simple 24-hour cooling rule before making any non-essential purchase above your weekly comfort threshold."
+      },
+      "effort": {
+        "paragraphs": [
+          "At the start of 2027, your financial rhythm ({planet} interacting with {maha} Maha Dasha seasons) encourages deliberate simplification, tracking recurring subscriptions, and tightening cash leaks gently. Small daily awareness restores margin quickly.",
+          "Mid-year brings {golden_window}, a supportive stretch to consolidate obligations, upskill toward higher earning brackets, and organize tax or family documents systematically.",
+          "Across {effort_window}, shared commitments or delayed reimbursements ask for extra patience and transparent communication rather than high-interest shortcuts. Stick closely to proven conservative plans.",
+          "As 2027 concludes, respectful stewardship and patient saving rebuild steady cushion and quiet financial confidence."
+        ],
+        "remedy": "Audit all recurring subscriptions monthly and keep three months of essential living buffers clearly segregated."
+      }
+    },
+    "MARRIAGE": {
+      "high": {
+        "paragraphs": [
+          "During the opening season of 2027, your D9 Navamsha harmony ({planet} under your {maha} Maha Dasha) radiates warmth, mutual admiration, and joyful companionship. Sincere appreciation strengthens everyday closeness effortlessly.",
+          "Across {golden_window}, heart-to-heart plans, family gatherings, meaningful travel, and commitment milestones unfold with noticeable grace. Shared laughter dissolves minor scheduling stresses before they linger.",
+          "During {effort_window}, busy professional weeks require protecting distraction-free evening hours so practical logistics never crowd out affection. Listen first with open curiosity.",
+          "Toward late 2027, shared values and tender consistency mature into deeper emotional security that enriches every generation around you."
+        ],
+        "remedy": "Reserve one phone-free meal or evening walk together every week purely for joyful conversation."
+      },
+      "balanced": {
+        "paragraphs": [
+          "In the early months of 2027, relationship dynamics ({planet} alongside your {maha} Maha Dasha) encourage steady warmth, fair sharing of home duties, and thoughtful honesty. Everyday kindness carries real weight.",
+          "When {golden_window} arrives, mutual understanding flows smoothly—making it a rewarding window for honest future planning, introducing families, or refreshing shared traditions joyfully.",
+          "Across {effort_window}, differing communication speeds may call for extra patience and softening sharp words before bedtime. Agreeing to revisit sensitive topics after calm rest preserves trust.",
+          "By the final quarter of 2027, patient teamwork nurtures dependable affection and quiet peace around your family table."
+        ],
+        "remedy": "Express one specific word of sincere gratitude to your partner or close family member each evening."
+      },
+      "effort": {
+        "paragraphs": [
+          "Beginning 2027, your D9 relational lessons ({planet} paired with {maha} Maha Dasha patterns) invite gentle emotional honesty, healing old assumptions, and building steady trust step by step. Calm self-awareness transforms closeness.",
+          "Across {golden_window}, supportive conversations and warm family encouragement brighten mood and help bridge past misunderstandings gracefully.",
+          "During {effort_window}, family responsibilities or work fatigue can ask for extra effort, clear boundaries, and unhurried listening without defensiveness. Speak needs warmly using calm 'I feel' statements.",
+          "Closing 2027, compassionate patience deepens emotional maturity and clarifies authentic harmony with those who truly care."
+        ],
+        "remedy": "Pause for three slow breaths before replying during tense discussions and prioritize empathy over winning debates."
+      }
+    },
+    "HEALTH": {
+      "high": {
+        "paragraphs": [
+          "During the opening quarter of 2027, your constitutional vitality ({planet} in D1 alongside {maha} Maha Dasha) responds briskly to morning sunlight, rhythmic exercise, and warm whole foods. Energy reserves stay resilient.",
+          "Through {golden_window}, building stronger cardiovascular stamina, deeper flexibility, and joyful outdoor habits feels surprisingly natural and energizing. Consistency beats occasional intensity cleanly.",
+          "Across {effort_window}, rich social meals or travel schedules ask for extra hydration and steady sleep boundaries so digestion remains light and rested.",
+          "Entering the final stretch of 2027, balanced routines sustain upbeat mood, clear focus, and calm physical poise."
+        ],
+        "remedy": "Step outdoors into natural morning light for 15 minutes daily and keep hydration steady before noon."
+      },
+      "balanced": {
+        "paragraphs": [
+          "As 2027 opens, your health pattern ({planet} with your {maha} Maha Dasha) rewards simple consistency: regular sleep times, warm nourishing meals, and gentle daily mobility. Small sustainable tweaks work wonders.",
+          "During {golden_window}, body recovery smooths out noticeably, making it a supportive season for preventive dental or wellness checkups and building pleasant movement habits.",
+          "Around {effort_window}, neck, shoulder, or sleep fatigue can ask for extra effort around screen curfews and brief midday posture stretches.",
+          "Through late 2027, steady self-care protects calm immunity and reliable daytime stamina without rigid extremes."
+        ],
+        "remedy": "Honor a 45-minute digital wind-down before sleep with warm water or herbal tea instead of bright screens."
+      },
+      "effort": {
+        "paragraphs": [
+          "In the first quarter of 2027, your vitality rhythm ({planet} guided by {maha} Maha Dasha) encourages attentive pacing, gentler nervous-system rest, and listening to subtle fatigue signals early.",
+          "Across {golden_window}, steady breathwork, clean hydration, and supportive walks gradually restore physical lightness and calm digestive ease.",
+          "During {effort_window}, heavy deadlines or seasonal weather changes ask for extra care—protect warm meals, gentle layers, and unhurried restorative sleep every night.",
+          "By the end of 2027, patient daily wellness disciplines build deeper constitutional strength and calm energy reserves."
+        ],
+        "remedy": "Practice 10 minutes of slow alternate-nostril breathing daily and avoid heavy late-night meals."
+      }
+    },
+    "DHARMA": {
+      "high": {
+        "paragraphs": [
+          "During early 2027, your spiritual compass ({planet} Atmakaraka aligned with {maha} Maha Dasha) illuminates deeper purpose, ethical clarity, and meaningful study. Quiet intuition speaks clearly during major choices.",
+          "Throughout {golden_window}, enriching books, wise mentors, sacred travel, or charitable community work fill your spirit with grounded joy and fresh perspective.",
+          "Across {effort_window}, worldly urgency may briefly test inner stillness, asking for extra mindfulness so busy calendars never crowd out daily reflection.",
+          "By late 2027, living closely aligned with conscience brings serene confidence and generous warmth toward everyone you meet."
+        ],
+        "remedy": "Begin each morning with five minutes of silent gratitude and one inspiring page of timeless wisdom."
+      },
+      "balanced": {
+        "paragraphs": [
+          "As 2027 unfolds, your inner path ({planet} alongside {maha} Maha Dasha) nurtures calm integrity inside ordinary responsibilities—work, family care, and truthful kindness.",
+          "During {golden_window}, reflective retreats, journaling insights, or mentoring younger peers bring uplifting clarity and authentic personal fulfillment.",
+          "Through {effort_window}, lingering doubts or busy noise ask for patient solitude and returning gently to simple breath awareness.",
+          "Closing 2027, quiet fidelity to ethical values rewards you with steadier peace and unmistakable inner resilience."
+        ],
+        "remedy": "Keep a bedside reflection notebook recording one grateful moment and one act of kindness daily."
+      },
+      "effort": {
+        "paragraphs": [
+          "Opening 2027, your deeper spiritual journey ({planet} and {maha} Maha Dasha lessons) invites releasing perfectionism, forgiving past chapters kindly, and embracing patient inner growth.",
+          "Around {golden_window}, wise counsel, peaceful nature walks, and honest journaling gradually clear mental fog into steady calm assurance.",
+          "During {effort_window}, external expectations can feel loud and demand extra effort in setting serene boundaries around personal quiet hours.",
+          "By year-end 2027, sincere self-honesty and gentle devotion quietly turn inner reflection into lasting peace."
+        ],
+        "remedy": "Spend 15 quiet screen-free minutes outdoors in nature every Sunday afternoon without headphones."
+      }
+    }
+  },
+  "monthly_templates": {
+    "Sun": {
+      "moon_flavors": ["Luminous Clarity", "Steady Resolve", "Warm Leadership"],
+      "body_variants": [
+        "In {month} 2027, your {maha}–{antar} sub-period spotlights dignified initiative while Moon's {moon_sign} rhythm brightens personal focus. Step forward cleanly on flagship work tasks, honor elders warmly, and avoid letting minor ego friction delay cooperative agreements. Morning sunlight and crisp priorities turn quiet confidence into respected results.",
+        "{month} 2027 channels bright {antar} executive clarity inside your {maha} chapter alongside grounded {moon_sign} intuition. Clarify expectations early with teammates and family so everyone pulls smoothly in one direction. Protect calm sleep around busy mid-month sprints, and let generous fairness define every leadership call.",
+        "During {month} 2027, {antar} currents within {maha} Maha Dasha amplify visibility, personal pride in craft, and clean decision-making under {moon_sign} grace. High-value meetings respond well to concise preparation and transparent numbers. Balance ambitious days with unhurried family evenings and warm hydration."
+      ],
+      "lucky_tags": ["Visible Ownership", "Clear Communication", "Morning Vitality"],
+      "effort_tags": ["Avoid Pride Clashes", "Pace Workloads", "Protect Sleep"]
+    },
+    "Moon": {
+      "moon_flavors": ["Calm Intuition", "Home Warmth", "Gentle Flow"],
+      "body_variants": [
+        "In {month} 2027, {antar} sub-period energy within {maha} Maha Dasha softens pace and highlights emotional wisdom through your {moon_sign} lunar tint. Family warmth, client rapport, and creative planning thrive when schedules stay unhurried. Trust quiet gut instincts on pacing and nourish sleep with calm evening rituals.",
+        "{month} 2027 blends receptive {antar} empathy under {maha} timing with soothing {moon_sign} emotional balance. Supportive allies appreciate your thoughtful listening, opening gentle doors across collaboration and domestic peace. Keep hydration steady and avoid absorbing other people's rushed urgency silently.",
+        "Throughout {month} 2027, {antar} resonance inside {maha} Maha Dasha rewards patient nurturing of relationships, savings stability, and restorative home atmosphere alongside {moon_sign} clarity. Creative writing or caregiving brings deep ease. Honor steady meals so emotional waves settle smoothly into clarity."
+      ],
+      "lucky_tags": ["Trusted Rapport", "Domestic Harmony", "Calm Hydration"],
+      "effort_tags": ["Guard Mood Boundaries", "Avoid Over-Worrying", "Keep Meals Regular"]
+    },
+    "Mars": {
+      "moon_flavors": ["Crisp Drive", "Bold Action", "Athletic Spark"],
+      "body_variants": [
+        "In {month} 2027, {antar} momentum within your {maha} Maha Dasha sparks decisive action and strong problem-solving alongside {moon_sign} energy. Tackle postponed technical or logistical chores first—progress comes fast once hesitation drops. Channel high physical drive into regular workouts so patience stays calm in conversations.",
+        "{month} 2027 activates courageous {antar} initiative under {maha} guidance and steady {moon_sign} focus. Clear targets, direct outreach, and hands-on leadership unlock stalled approvals cleanly. Pause briefly before firing off sharp replies during tight deadlines, and pair exercise with cooling hydration.",
+        "Across {month} 2027, {antar} vigor inside {maha} Maha Dasha energizes ambitious sprints, athletic habits, and protective loyalty under {moon_sign} influence. Break bold projects into structured weekly milestones rather than trying to finish everything overnight. Steady stretching preserves smooth physical ease."
+      ],
+      "lucky_tags": ["Decisive Execution", "Fitness Momentum", "Solving Bottlenecks"],
+      "effort_tags": ["Cool Fast Reactions", "Stretch Daily", "Pace Heavy Tasks"]
+    },
+    "Mercury": {
+      "moon_flavors": ["Sharp Wit", "Smart Dialogue", "Agile Learning"],
+      "body_variants": [
+        "In {month} 2027, {antar} clarity inside {maha} Maha Dasha accelerates writing, analytics, commercial deals, and nimble coordination tinted by {moon_sign}. Double-check fine print and simplify complex decks—articulate precision wins easy trust right now. Protect quiet screen-free evenings to keep sleep deeply restful.",
+        "{month} 2027 brings lively {antar} curiosity under {maha} flow and adaptable {moon_sign} energy. Short trips, skill courses, financial organizing, and heartfelt catch-ups spark fresh opportunities cleanly. Prioritize your top two commitments in writing rather than scattering brilliant focus across ten minor threads.",
+        "During {month} 2027, {antar} diplomacy within {maha} Maha Dasha harmonizes contracts, team communication, and clever budgeting beside {moon_sign} poise. Constructive feedback lands warmly when delivered with humor and patience. Gentle breath pauses keep mental gears sharp without late-night overthinking."
+      ],
+      "lucky_tags": ["Smart Negotiations", "Skill Upgrades", "Crisp Documentation"],
+      "effort_tags": ["Limit Multitasking", "Screen Curfew", "Verify Fine Print"]
+    },
+    "Jupiter": {
+      "moon_flavors": ["Wise Grace", "Steady Expansion", "Joyful Trust"],
+      "body_variants": [
+        "In {month} 2027, {antar} benevolence inside {maha} Maha Dasha expands mentorship, ethical wins, and uplifting family moments under {moon_sign} warmth. Long-horizon plans gain generous backing when honesty and fairness lead every discussion. Balance joyful celebrations with brisk daily walks and simple gratitude.",
+        "{month} 2027 radiates supportive {antar} wisdom through your {maha} timeline alongside calm {moon_sign} reflection. Teaching, advisory work, educational milestones, and thoughtful savings decisions mature gracefully right now. Seek counsel from seasoned elders before finalizing big multi-year commitments.",
+        "Throughout {month} 2027, {antar} grace within {maha} Maha Dasha encourages broad optimism, fair financial growth, and harmonious community bonds tinted by {moon_sign}. Generous kindness returns unexpectedly through helpful introductions. Pair steady enthusiasm with practical step-by-step checklists."
+      ],
+      "lucky_tags": ["Wise Mentors", "Ethical Growth", "Family Blessings"],
+      "effort_tags": ["Mindful Portions", "Verify Details", "Steady Walking"]
+    },
+    "Venus": {
+      "moon_flavors": ["Artful Ease", "Warm Rapport", "Balanced Joy"],
+      "body_variants": [
+        "In {month} 2027, {antar} harmony inside {maha} Maha Dasha elevates creative polish, affectionate bonds, and pleasant financial balance alongside {moon_sign} grace. Diplomatic tact turns awkward negotiations into genuine win-win agreements smoothly. Enjoy tasteful beauty while keeping clear budgets around discretionary shopping.",
+        "{month} 2027 brings tender {antar} warmth through your {maha} period and soothing {moon_sign} energy. Design projects, hospitality, client stewardship, and romantic closeness glow noticeably right now. Speak gentle boundaries kindly so pleasing everyone never drains personal rest.",
+        "During {month} 2027, {antar} elegance within {maha} Maha Dasha nurtures peaceful reconciliation, creative inspiration, and balanced self-care beside {moon_sign} poise. Refreshing home surroundings and sharing unhurried meals lift spirits swiftly. Stay steady with water intake and gentle morning stretching."
+      ],
+      "lucky_tags": ["Harmonious Ties", "Creative Polish", "Pleasant Cash Flow"],
+      "effort_tags": ["Clear Spending Caps", "Honest Boundaries", "Moderate Sweets"]
+    },
+    "Saturn": {
+      "moon_flavors": ["Grounded Poise", "Patient Craft", "Durable Trust"],
+      "body_variants": [
+        "In {month} 2027, {antar} steadiness inside {maha} Maha Dasha honors patient structure, clean follow-through, and dependable commitments anchored by {moon_sign}. Slow administrative steps reward calm persistence over shortcuts. Protect joint mobility, warm nourishing meals, and early bedtimes through busy stretches.",
+        "{month} 2027 invites grounded {antar} discipline within your {maha} cycle alongside steady {moon_sign} composure. Quietly finishing long-running obligations earns lasting respect from senior colleagues and loved ones alike. Break heavy checklists into calm daily blocks so patience stays light and steady.",
+        "Across {month} 2027, {antar} realism under {maha} Maha Dasha strengthens long-term savings, legal or structural clarity, and mature relationship reliability tinted by {moon_sign}. Give demanding tasks extra buffer time without self-criticism. Celebrate small finished steps every Friday evening."
+      ],
+      "lucky_tags": ["Durable Systems", "Long-Term Trust", "Steady Savings"],
+      "effort_tags": ["Honor Rest Breaks", "Warm Joint Care", "Avoid Rushing"]
+    },
+    "Rahu": {
+      "moon_flavors": ["Fresh Horizons", "Bold Reach", "Modern Spark"],
+      "body_variants": [
+        "In {month} 2027, {antar} currents within {maha} Maha Dasha open unconventional ideas, global links, and rapid digital learning under {moon_sign} adaptability. Experiment thoughtfully with fresh tools while keeping contracts crystal transparent. Ground high mental energy with regular mealtimes and evening breathwork.",
+        "{month} 2027 sparks inventive {antar} ambition inside your {maha} period alongside curious {moon_sign} energy. Cross-cultural partnerships or modern workflow upgrades bring surprising breakthroughs when verified calmly with trusted advisors. Avoid chasing noisy hype over solid real-world fundamentals.",
+        "Throughout {month} 2027, {antar} drive within {maha} Maha Dasha pushes comfortable boundaries toward bigger stages tinted by {moon_sign} poise. Bold pitches succeed best when anchored in realistic timelines and clean numbers. Protect quiet screen-free wind-downs before sleep."
+      ],
+      "lucky_tags": ["Fresh Networks", "Tech Agility", "Global Reach"],
+      "effort_tags": ["Verify Agreements", "Steady Meal Hours", "Filter Noise"]
+    },
+    "Ketu": {
+      "moon_flavors": ["Serene Focus", "Deep Insight", "Quiet Clarity"],
+      "body_variants": [
+        "In {month} 2027, {antar} precision inside {maha} Maha Dasha deepens research clarity, spiritual calm, and clutter-free priorities alongside {moon_sign} stillness. Cutting unnecessary commitments restores immediate energy across work and home. Share concise updates with close allies so quiet depth stays warmly connected.",
+        "{month} 2027 guides contemplative {antar} discernment through your {maha} chapter and subtle {moon_sign} intuition. Specialized analysis, healing arts, and mindful editing shine brilliantly right now. Honor gentle rest cues early and keep simple outdoor walks in your daily schedule.",
+        "During {month} 2027, {antar} serenity within {maha} Maha Dasha strips away hollow distractions to highlight what genuinely matters beside {moon_sign} calm. Intuitive choices around health and inner purpose feel remarkably clear. Communicate small practical logistics plainly with loved ones."
+      ],
+      "lucky_tags": ["Deep Mastery", "Clutter-Free Calm", "Sharp Intuition"],
+      "effort_tags": ["Stay Communicative", "Gentle Hydration", "Avoid Isolation"]
+    }
+  }
+}

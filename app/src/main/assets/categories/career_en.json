@@ -1,0 +1,455 @@
+{
+  "personality_by_sign": {
+    "0": "In your career, you step forward as a bold initiator who energizes stalled projects with decisive vision. You prefer roles where measurable momentum, speed, and ownership sit clearly in your hands. Routine repetition rarely satisfies your pioneering drive unless paired with clear milestones for advancement. When given autonomy to champion new territory, your courage naturally earns peers' respect.",
+    "1": "Your professional identity is defined by steady craftsmanship, reliability, and tangible value creation. Rather than chasing fleeting trends, you invest patiently in skills and institutions that compound in reputation over years. Colleagues trust your calm composure under pressure and your eye for lasting quality. You thrive when building enduring resources, refined products, or dependable financial pillars.",
+    "2": "You approach work with intellectual agility, versatile curiosity, and natural persuasive fluency. Environments rich in dialogue, cross-functional problem solving, writing, or rapid learning unlock your finest performance. Your strength lies in connecting dots across disparate domains that specialists sometimes overlook. Clear prioritization keeps your abundant ideas focused into high-impact deliverables.",
+    "3": "Empathy, protective stewardship, and strong memory anchor your vocational style. You intuitively read team morale and stakeholder motivations, making you adept at roles centered on care, hospitality, strategy, or public trust. Rather than forcing change harshly, you nurture resilient cultures where people give their best. Once emotionally committed to a mission, your tenacity is remarkable.",
+    "4": "You carry a natural solar dignity at work, instinctively stepping into central responsibility and inspiring creative standards. Recognition, creative authorship, and honorable leadership motivate you more deeply than quiet background tasks. People look to you during uncertain moments because your confidence steadies the room. Aligning personal pride with generous mentorship elevates your influence.",
+    "5": "Precision, analytical clarity, and a quiet ethic of service make you indispensable in complex roles. You notice subtle details, process gaps, and practical efficiencies long before others detect them. Rather than seeking hollow theatrics, you let polished execution and clean data speak on your behalf. Structured systems where mastery is rewarded allow your brilliance to shine effortlessly.",
+    "6": "Diplomacy, aesthetic judgment, and fair-minded negotiation lie at the heart of your career personality. You excel at harmonizing competing viewpoints, cultivating strategic partnerships, and elevating brand polish. Collaborative ecosystems and client-facing advisory roles bring out your brightest charm and discernment. Balanced boundaries ensure your desire for harmony never delays crisp decisions.",
+    "7": "Depth, strategic discretion, and fearless resilience set you apart in demanding professional arenas. You thrive on complex investigations, transformations, crisis turnarounds, or deep technical research where surface answers fail. Rather than broadcasting every move, you work quietly until results speak undeniably. Purposeful missions that demand total authenticity reward your unwavering focus.",
+    "8": "Big-picture vision, ethical conviction, and love for teaching or guiding shape your career journey. You perform best when connected to meaningful impact, global perspective, advisory roles, or continuous intellectual expansion. Narrow micromanagement dampens your enthusiasm, while inspiring mandates ignite tireless dedication. Pairing lofty vision with disciplined follow-through turns ideals into legacy.",
+    "9": "Pragmatic ambition, quiet stamina, and respect for enduring institutions define your professional path. You are willing to climb patiently step by step, mastering real responsibility rather than taking shortcuts. Colleagues rely on your word because you plan realistically and deliver under scrutiny. Over time, steady competence elevates you into respected executive authority.",
+    "10": "Originality, systems thinking, and humanitarian foresight color how you contribute to the world. You gravitate toward innovation, communities, technology, or forward-looking reforms that serve broader progress. Conventional hierarchy inspires you less than collaborative networks united by shared ideals. Grounding visionary breakthroughs into everyday habits makes your originality unstoppable.",
+    "11": "Intuition, compassionate imagination, and subtle synthesis empower your finest professional contributions. You sense unspoken patterns, human needs, and creative possibilities ahead of analytical curves. Healing arts, storytelling, design, research, or behind-the-scenes guidance suit your gentle depth. Clear daily structure protects your creative sensitivity from scattered external demands."
+  },
+  "planet_in_house": {
+    "Sun_1": "With the Sun energizing your 1st House, natural authority, self-reliance, and visible leadership define your career footprint. People naturally notice your presence in meetings and look toward your conviction for direction.",
+    "Sun_2": "Sun in your 2nd House strengthens executive speech, persuasive credibility, and pride in building high-value skills. Roles tied to finance, advisory, family enterprise, or articulate representation suit your dignified voice.",
+    "Sun_3": "Sun in your 3rd House rewards courageous initiative, writing, media outreach, and hands-on skill mastery. Self-started projects, sales leadership, and determined communication bring steady upward recognition.",
+    "Sun_4": "Sun in your 4th House anchors professional reputation in real assets, institutional stability, or deeply rooted expertise. You lead effectively from behind a strong operational base and excel in property, education, or governance.",
+    "Sun_5": "Sun in your 5th House illuminates creative intellect, strategic advisory, and inspiring mentorship roles. Teaching, product design, investment acumen, or guiding rising teams brings fulfillment and acclaim.",
+    "Sun_6": "Sun in your 6th House excels at disciplined problem-solving, competitive victory, and structured operational leadership. Healthcare, legal compliance, process optimization, and public administration respond powerfully to your rigor.",
+    "Sun_7": "Sun in your 7th House channels career momentum through prominent partnerships, client negotiation, and public outreach. Collaborative leadership and balanced alliance-building multiply your reach across markets.",
+    "Sun_8": "Sun in your 8th House thrives in deep research, transformation, auditing, insurance, or hidden-value discovery. You maintain quiet composure during complex organizational transitions where others hesitate.",
+    "Sun_9": "Sun in your 9th House connects career achievement with ethics, higher learning, law, international networks, and visionary guidance. Senior mentors naturally endorse your integrity and long-range perspective.",
+    "Sun_10": "Sun placed in the 10th House reaches commanding directional strength, showering honor, executive clout, and lasting visibility. You thrive in visible decision-making seats where responsibility meets public trust.",
+    "Sun_11": "Sun in your 11th House turns influential networks, senior alliances, and large-scale goals into abundant career advancement. Collective organizations, leadership boards, and shared missions reward your steady radiance.",
+    "Sun_12": "Sun in your 12th House supports global careers, remote consulting, behind-the-scenes strategy, research institutions, or cross-border ventures. Working with international teams unlocks quiet prominence.",
+    "Moon_1": "Moon in your 1st House gives perceptive adaptability and genuine warmth that endears you to clients and colleagues alike. People respond to your emotional authenticity and agile situational awareness.",
+    "Moon_2": "Moon in your 2nd House brings soothing diplomacy in speech and intuitive instinct for thriving value streams. Hospitality, advisory, education, commerce, and people-centered brand building blossom steadily.",
+    "Moon_3": "Moon in your 3rd House empowers vivid storytelling, rhythmic communication, and agile marketing instincts. Journalism, digital media, coaching, and collaborative team coordination showcase your nimble mind.",
+    "Moon_4": "Moon in your 4th House grants serene emotional intelligence, public goodwill, and steadiness in nurturing organizations. Real estate, civic roles, education, and human-centered leadership thrive under your care.",
+    "Moon_5": "Moon in your 5th House fuels imaginative strategy, empathetic teaching, and intuitive creative breakthroughs. Counseling, design, arts, or mentoring talent flourishes when your heart stays inspired.",
+    "Moon_6": "Moon in your 6th House channels attentive care into daily operations, healing professions, and responsive client service. Practical empathy makes you trusted during urgent problem-solving cycles.",
+    "Moon_7": "Moon in your 7th House elevates public rapport, partnership grace, and loyal customer relationships. Retail strategy, diplomacy, consulting, and joint ventures flourish through your approachable warmth.",
+    "Moon_8": "Moon in your 8th House sharpens psychological insight, investigative intuition, and resilience through shifting industries. You read subtle undercurrents in negotiations with calm foresight.",
+    "Moon_9": "Moon in your 9th House attracts philosophical mentors, international opportunities, and inspiring cultural roles. Publishing, teaching, travel-linked ventures, and ethical leadership nourish your spirit.",
+    "Moon_10": "Moon in your 10th House brings strong public visibility, adaptable leadership, and natural rapport with audiences. Roles involving communication, public service, client empathy, or dynamic operations excel cleanly.",
+    "Moon_11": "Moon in your 11th House expands thriving social circles, supportive friendships, and community-driven income gains. Group initiatives and collaborative platforms respond warmly to your sincerity.",
+    "Moon_12": "Moon in your 12th House enriches imaginative depth, international remote collaborations, wellness fields, and calm behind-the-scenes research. Peaceful workspaces amplify your finest insights.",
+    "Mars_1": "Mars in your 1st House fuels courageous action, decisive execution, and tireless stamina for ambitious launches. You thrive when given clear ownership over challenging, high-impact goals.",
+    "Mars_2": "Mars in your 2nd House adds bold conviction to your voice and determined drive to scale measurable earnings. Direct negotiation and results-focused execution yield clear professional rewards.",
+    "Mars_3": "Mars in your 3rd House grants fearless grit, competitive mastery, and swift tactical initiative. Engineering, sales leadership, athletics, operations, and hands-on entrepreneurship excel strongly.",
+    "Mars_4": "Mars in your 4th House directs energetic focus toward building solid foundations, property ventures, and technical infrastructure. Turning bold energy into calm architectural planning yields lasting gains.",
+    "Mars_5": "Mars in your 5th House ignites sharp tactical intelligence, competitive innovation, and passionate creative leadership. Engineering design, analytics, and strategic decision roles suit your focused spark.",
+    "Mars_6": "Mars in your 6th House creates extraordinary competitive edge, turning obstacles and tight deadlines into decisive victories. Crisis operations, medicine, law, and technical troubleshooting shine brightly.",
+    "Mars_7": "Mars in your 7th House powers dynamic partnerships, proactive deal-making, and fearless market expansion. Clear division of responsibilities keeps collaborative momentum smooth and constructive.",
+    "Mars_8": "Mars in your 8th House excels at high-stakes problem solving, deep engineering audits, forensics, and structural turnaround work. Sustained focus carries you smoothly through demanding transformations.",
+    "Mars_9": "Mars in your 9th House drives passionate pursuit of higher principles, global expansion, and adventurous leadership. Publishing, law, technical policy, and travel-oriented initiatives align powerfully.",
+    "Mars_10": "Mars in your 10th House attains maximum directional power, bestowing commanding drive, execution speed, and visible rise in status. You naturally lead from the front in high-responsibility arenas.",
+    "Mars_11": "Mars in your 11th House channels focused ambition into scalable gains, enterprising networks, and decisive milestone wins. Teamwork thrives when directed toward crisp, measurable targets.",
+    "Mars_12": "Mars in your 12th House supports global engineering, multinational operations, deep behind-the-scenes strategy, and quiet athletic discipline. Structured international channels convert effort into rewards.",
+    "Mercury_1": "Mercury in your 1st House sharpens quick wit, articulate clarity, and versatile problem-solving across fields. Writing, consulting, software architecture, and strategic communication come effortlessly.",
+    "Mercury_2": "Mercury in your 2nd House blesses eloquent persuasion, financial literacy, and commercial acumen. Negotiation, analytics, teaching, and brand advisory turn insight into steady value.",
+    "Mercury_3": "Mercury in your 3rd House unlocks brilliant media communication, technical documentation, and agile networking. Digital publishing, product management, and marketing flourish with crisp clarity.",
+    "Mercury_4": "Mercury in your 4th House fosters thoughtful analytical planning, deep domain knowledge, and organized work hubs. Real estate analysis, education, and systems architecture blossom steadily.",
+    "Mercury_5": "Mercury in your 5th House sparkles with inventive strategy, quantitative agility, and expressive teaching skills. Finance, technology, editorial leadership, and consulting shine cleanly.",
+    "Mercury_6": "Mercury in your 6th House bestows meticulous precision, diagnostic logic, and competitive analytical stamina. Audits, legal drafting, software QA, and healthcare analytics gain standout excellence.",
+    "Mercury_7": "Mercury in your 7th House elevates skillful trade, diplomatic negotiation, and versatile partnership coordination. B2B strategy, commerce, and advisory alliances grow harmoniously.",
+    "Mercury_8": "Mercury in your 8th House excels at uncovering hidden data patterns, research intelligence, taxation, and complex diagnostics. Subtle nuance gives you a rare edge in technical depth.",
+    "Mercury_9": "Mercury in your 9th House connects analytical brilliance with publishing, international law, cross-cultural advisory, and higher academia. Mentorship exchanges accelerate your career reach.",
+    "Mercury_10": "Mercury in your 10th House crowns visible career intelligence, executive communication, and multifaceted leadership. Technology, finance, consulting, and strategic governance reward your versatility.",
+    "Mercury_11": "Mercury in your 11th House weaves profitable professional networks, data-smart ventures, and thriving collaborative groups. Clear communication converts ideas smoothly into shared gains.",
+    "Mercury_12": "Mercury in your 12th House supports quiet research mastery, global remote teams, translation, software systems, and contemplative strategy. Focused solitude sharpens your brightest breakthroughs.",
+    "Jupiter_1": "Jupiter in your 1st House radiates wisdom, benevolent integrity, and natural mentor appeal in every career room. People trust your ethical compass and readily grant leadership scope.",
+    "Jupiter_2": "Jupiter in your 2nd House enriches persuasive wisdom, credible advisory authority, and steady financial honor. Law, education, banking, and family leadership thrive cleanly.",
+    "Jupiter_3": "Jupiter in your 3rd House inspires uplifting writing, ethical teaching, and warm teamwork across ventures. Thoughtful communication builds lasting respect over fleeting hype.",
+    "Jupiter_4": "Jupiter in your 4th House blesses supportive workplace culture, respected institutional foundations, and enduring prosperity. Education, real estate, and civic stewardship unfold gracefully.",
+    "Jupiter_5": "Jupiter in your 5th House bestows radiant creative wisdom, fortunate judgment, and gifted mentorship of emerging talent. Executive guidance, investing, and academia bloom generously.",
+    "Jupiter_6": "Jupiter in your 6th House turns service-oriented dedication, healing wisdom, and calm fairness into steady victory over competition. Legal, wellness, and organizational leadership succeed honorably.",
+    "Jupiter_7": "Jupiter in your 7th House blesses high-trust partnerships, diplomatic consulting, and respected global alliances. Collaborative ventures prosper through shared integrity and foresight.",
+    "Jupiter_8": "Jupiter in your 8th House grants protective intuition during transitions, mastery of shared wealth, and deep research wisdom. Advisory roles in long-term planning suit your steady poise.",
+    "Jupiter_9": "Jupiter in your 9th House amplifies elevated purpose, global visibility, senior sponsorship, and respected scholarly or legal stature. Fortunate timing favors ethical expansion.",
+    "Jupiter_10": "Jupiter in your 10th House brings honorable authority, visionary leadership, and enduring professional respect. Management, counsel, governance, and education expand steadily with goodwill.",
+    "Jupiter_11": "Jupiter in your 11th House opens generous professional networks, respected social influence, and abundant cumulative gains. Long-term collaborations pay rich dividends over time.",
+    "Jupiter_12": "Jupiter in your 12th House empowers international institutions, philanthropy, research centers, and serene advisory work. Quiet service across borders brings profound career satisfaction.",
+    "Venus_1": "Venus in your 1st House infuses your professional style with gracious charm, aesthetic clarity, and effortless likability. Client goodwill and refined creative taste open welcome doors.",
+    "Venus_2": "Venus in your 2nd House gifts diplomatic speech, brand refinement, and sensitivity to quality value creation. Luxury, design, finance, hospitality, and culinary or arts leadership flourish.",
+    "Venus_3": "Venus in your 3rd House brightens storytelling, media design, social grace, and persuasive creative marketing. Collaboration feels smooth and inspiring when you lead visually.",
+    "Venus_4": "Venus in your 4th House promotes harmonious workplaces, aesthetic spaces, and grounded asset comfort. Architecture, interior design, hospitality, and stable management thrive warmly.",
+    "Venus_5": "Venus in your 5th House sparks joyful artistic invention, audience appeal, and refined advisory charisma. Product design, cinema, fashion, education, and cultural curation shine richly.",
+    "Venus_6": "Venus in your 6th House brings soothing diplomacy into daily routines and service excellence, turning tense workflows harmonious. Hospitality, wellness, HR, and client success excel softly.",
+    "Venus_7": "Venus in your 7th House elevates client diplomacy, creative partnerships, and polished public relations. Alliances built on mutual elegance and fairness prosper noticeably.",
+    "Venus_8": "Venus in your 8th House deepens artistic mystery, joint-venture finesse, and quiet financial aesthetics. Wealth management, luxury curation, and psychological arts carry subtle magnetism.",
+    "Venus_9": "Venus in your 9th House harmonizes global culture, publishing, higher design, and gracious cross-border alliances. Travel-linked creativity and refined mentorship uplift your path.",
+    "Venus_10": "Venus in your 10th House polishes public reputation with creativity, charm, and tasteful leadership. Arts, branding, diplomacy, hospitality, and design management achieve admired visibility.",
+    "Venus_11": "Venus in your 11th House turns warm friendships and social circles into steady opportunities and supportive collaborations. Community-based creative ventures blossom gracefully.",
+    "Venus_12": "Venus in your 12th House inspires global aesthetics, cinema, wellness retreats, photography, and serene studio creativity. International markets appreciate your refined imagination.",
+    "Saturn_1": "Saturn in your 1st House shapes disciplined stamina, quiet authority, and deep respect earned through reliable competence. Steady mastery compounds into impressive later-career stature.",
+    "Saturn_2": "Saturn in your 2nd House rewards measured speech, conservative resource building, and long-horizon financial responsibility. Banking, governance, operations, and precision crafts excel steadily.",
+    "Saturn_3": "Saturn in your 3rd House bestows relentless work ethic, structured writing, and fearless perseverance in competitive skills. Every hour of disciplined practice converts into durable skill.",
+    "Saturn_4": "Saturn in your 4th House favors core infrastructure, real estate endurance, manufacturing, and reliable organizational stewardship. Patient brick-by-brick foundations outlast passing trends.",
+    "Saturn_5": "Saturn in your 5th House transforms creative ideas into rigorous engineering, structured curriculum, or enduring long-term strategy. Serious study deepens your intellectual authority.",
+    "Saturn_6": "Saturn in your 6th House grants unmatched operational endurance, calmly outlasting complex hurdles and high-volume responsibilities. Engineering, public service, law, and logistics thrive here.",
+    "Saturn_7": "Saturn in your 7th House cultivates mature, long-lasting business alliances and contracts founded on mutual accountability. Steady trust becomes your signature marketplace advantage.",
+    "Saturn_8": "Saturn in your 8th House awards deep patience for research, compliance, risk governance, and complex long-term engineering. You remain calm and methodical during intricate audits.",
+    "Saturn_9": "Saturn in your 9th House aligns career achievement with principled discipline, classical mastery, law, and patient global growth. Earned wisdom wins senior trust everywhere.",
+    "Saturn_10": "Saturn in your 10th House in its natural domain builds monumental, lasting career achievements through persistence and leadership responsibility. Senior executive stature matures gracefully with time.",
+    "Saturn_11": "Saturn in your 11th House yields enduring professional alliances, dependable senior circles, and steady wealth compounding over decades. Long-term commitment brings abundant fulfillment.",
+    "Saturn_12": "Saturn in your 12th House supports disciplined multinational systems, quiet institutional stewardship, and patient research depth. Global remote excellence thrives on clean boundaries.",
+    "Rahu_1": "Rahu in your 1st House sparks magnetic ambition, unconventional charisma, and readiness to pioneer fresh career categories. You stand out naturally in modern, fast-evolving arenas.",
+    "Rahu_2": "Rahu in your 2nd House amplifies persuasive reach, multilingual communication, and bold commercial innovation. Modern media, digital commerce, and cross-border value streams attract energy.",
+    "Rahu_3": "Rahu in your 3rd House ignites fearless initiative, trendsetting marketing, and breakthroughs in digital communication. Self-started ventures gain rapid visibility.",
+    "Rahu_4": "Rahu in your 4th House motivates ambitious expansion in real estate, modern living concepts, or tech-enabled infrastructure. Balancing scale with inner calm anchors lasting success.",
+    "Rahu_5": "Rahu in your 5th House fuels original innovation, disruptive product concepts, and captivating stage intelligence. Creative entrepreneurship and digital strategy flourish creatively.",
+    "Rahu_6": "Rahu in your 6th House creates unstoppable competitive ingenuity, overcoming intricate bottlenecks with clever modern solutions. Technology, law, and competitive strategy excel sharply.",
+    "Rahu_7": "Rahu in your 7th House attracts diverse, international, or non-traditional business partnerships that widen your market footprint. Clear contracts keep bold alliances mutually fruitful.",
+    "Rahu_8": "Rahu in your 8th House excels in frontier technology, deep research, turnaround finance, and decoding complex hidden systems. Fearless curiosity uncovers breakthroughs.",
+    "Rahu_9": "Rahu in your 9th House opens cross-cultural horizons, global publishing, international credentials, and innovative philosophy. Working across borders accelerates fresh opportunity.",
+    "Rahu_10": "Rahu in your 10th House drives towering public ambition, media visibility, and mastery of cutting-edge industries. Modern leadership and digital reach catapult your profile forward.",
+    "Rahu_11": "Rahu in your 11th House acts as a powerful amplifier of large networks, scalable platforms, and ambitious income targets. Connecting diverse communities expands opportunities swiftly.",
+    "Rahu_12": "Rahu in your 12th House favors global corporations, foreign relocation, remote innovation, and visionary creative production. International environments unlock your highest imagination.",
+    "Ketu_1": "Ketu in your 1st House grants subtle spiritual poise, detached precision, and intuitive leadership free from hollow ego. People admire your calm originality and clarity.",
+    "Ketu_2": "Ketu in your 2nd House refines your voice toward concise truth, specialized mastery, and meaningful niche expertise. Deep domain knowledge speaks louder than loud self-promotion.",
+    "Ketu_3": "Ketu in your 3rd House brings incisive writing, quiet strategic precision, and focus on essentials over noise. Editing, coding, and sharp analytical communication thrive.",
+    "Ketu_4": "Ketu in your 4th House values tranquil work environments and deep research into heritage, architecture, or inner sciences. Working in peaceful clarity sustains lasting excellence.",
+    "Ketu_5": "Ketu in your 5th House unlocks penetrating analytical intuition, mathematics, coding elegance, and philosophical insight. Original problem solving flows cleanly in quiet flow states.",
+    "Ketu_6": "Ketu in your 6th House empowers razor-sharp diagnostic skill, healing dedication, and effortless victory through subtle discernment. Research, medicine, and debugging shine brightly.",
+    "Ketu_7": "Ketu in your 7th House encourages soulful, mission-aligned collaborations where independence and shared purpose coexist gracefully. Quality partners matter far more than sheer volume.",
+    "Ketu_8": "Ketu in your 8th House grants extraordinary intuition for hidden patterns, metaphysics, deep data science, and crisis poise. Complex puzzles reveal their keys quietly to you.",
+    "Ketu_9": "Ketu in your 9th House supports independent scholarship, ethical clarity, spiritual advisory, and authentic global research. Wisdom takes precedence over fleeting titles.",
+    "Ketu_10": "Ketu in your 10th House brings quiet mastery in specialized, high-craft careers driven by excellence rather than applause. Technical depth, advisory craft, and integrity define success.",
+    "Ketu_11": "Ketu in your 11th House connects you with selective, high-integrity circles focused on substance over superficial networking. Meaningful wins arrive naturally when purpose leads.",
+    "Ketu_12": "Ketu in your 12th House illuminates research sanctuaries, international consulting, healing arts, and transcendent creative depth. Peaceful focus turns deep contemplation into tangible art."
+  },
+  "hidden_challenges": {
+    "Sun": "When career visibility feels slow or recognition lags behind effort, guarding against prideful impatience keeps senior relationships warm. Letting quiet consistency carry your light ensures lasting influence.",
+    "Moon": "Because you care deeply about workplace harmony, shifting team moods or unspoken critique can temporarily stir self-doubt. Anchoring decisions in written priorities rather than momentary emotional tides keeps momentum steady.",
+    "Mars": "Your high urgency and direct execution style can occasionally outpace slower consensus builders on your team. Pacing major rollouts with calm check-ins turns raw drive into unified leadership.",
+    "Mercury": "With an agile mind juggling multiple possibilities simultaneously, scattered attention or over-refining minor details can delay key launches. Time-boxing exploration protects decisive delivery.",
+    "Jupiter": "High ethical standards and big-picture optimism can sometimes lead to overcommitting time or expecting peers to match your ideals immediately. Grounding bold visions in clear operational steps protects your bandwidth.",
+    "Venus": "Valuing pleasant collaboration can occasionally tempt you to soften necessary boundary talks or postpone firm commercial negotiations. Combining graceful diplomacy with crisp terms safeguards your worth.",
+    "Saturn": "Strong personal standards and willingness to carry heavy workloads can gradually invite over-responsibility or perfectionistic delays. Delegating smoothly and honoring rest cycles sustains peak longevity.",
+    "Rahu": "Boundless curiosity toward bold new horizons can sometimes make steady, incremental phases feel restless or unexciting. Finishing current milestones before leaping into the next trend secures compounding mastery.",
+    "Ketu": "Natural detachment from office politics keeps you authentic, yet can occasionally make showcasing your real achievements feel unnecessary. Sharing clear progress updates ensures decision-makers value your contributions."
+  },
+  "superpowers": {
+    "Sun": {
+      "title": "Radiant Executive Clarity",
+      "body": "The Sun leads your professional signature with natural confidence, personal integrity, and magnetic presence. When challenges intensify, you step into central stewardship cleanly and inspire clear direction across groups. Decision-makers and teams trust your steadiness because you lead by visible example."
+    },
+    "Moon": {
+      "title": "Intuitive People Magnetism",
+      "body": "The Moon enriches your career path with perceptive empathy, adaptable timing, and strong public rapport. You sense human needs and emerging market shifts long before spreadsheets reflect them. Clients and colleagues feel genuinely understood around you, creating loyal long-term goodwill."
+    },
+    "Mars": {
+      "title": "Fearless Execution Momentum",
+      "body": "Mars infuses your work life with decisive courage, brisk execution speed, and resilient competitive drive. While others debate endlessly, you convert ideas into tangible prototypes and measurable breakthroughs. High-stakes projects bring out your sharpest focus and stamina."
+    },
+    "Mercury": {
+      "title": "Versatile Analytical Brilliance",
+      "body": "Mercury powers your vocational profile with nimble intelligence, articulate persuasion, and systems-level synthesis. You decode complex workflows rapidly and translate nuance into crisp, actionable strategy. Your gift for communication and pattern recognition opens doors across evolving industries."
+    },
+    "Jupiter": {
+      "title": "Visionary Mentor Authority",
+      "body": "Jupiter blesses your career journey with wise judgment, auspicious expansion, and trusted advisory stature. You naturally elevate projects with ethical foresight, generous guidance, and big-picture coherence. Influential mentors and honorable institutions recognize your principled leadership."
+    },
+    "Venus": {
+      "title": "Creative Brand Magnetism",
+      "body": "Venus elevates your professional craft with aesthetic discernment, diplomatic grace, and genuine stakeholder charm. You bring beauty, polish, and collaborative warmth into every deliverable and negotiation. High-trust alliances and refined taste convert effort into enduring distinction."
+    },
+    "Saturn": {
+      "title": "Unshakable Structural Mastery",
+      "body": "Saturn anchors your career engine in patient craftsmanship, disciplined follow-through, and institutional reliability. You build systems, reputations, and skill moats that strengthen steadily with every passing year. While quick trends fade, your earned authority endures gracefully."
+    },
+    "Rahu": {
+      "title": "Frontier Innovation Edge",
+      "body": "Rahu sparks your vocational trajectory with bold originality, modern digital reach, and fearless adaptability across borders. You spot emerging categories early and craft inventive solutions outside conventional templates. Unconventional leaps unlock remarkable expansion when anchored in clear deliverables."
+    },
+    "Ketu": {
+      "title": "Incisive Specialist Mastery",
+      "body": "Ketu deepens your professional aura with razor-sharp intuition, research depth, and ego-free authenticity. You excel at specialized crafts and complex problem solving where quiet precision outweighs noisy self-promotion. Focused insight allows you to resolve intricate challenges effortlessly."
+    }
+  },
+  "growth_areas": {
+    "Sun": {
+      "title": "Shared Spotlight & Receptive Listening",
+      "body": "Your solar pride thrives on clear excellence, yet growing alongside collaborative feedback multiplies your reach exponentially. Inviting peers into early strategy builds stronger ownership without dimming your natural authority.",
+      "guidance": "Practice co-authoring milestones with trusted peers and welcoming candid reviews before finalizing major launches."
+    },
+    "Moon": {
+      "title": "Emotional Anchoring in Fast Cycles",
+      "body": "Your perceptive sensitivity picks up subtle shifts in workplace atmosphere quickly, making steady inner boundaries essential. Separating factual progress from temporary external moods preserves calm creative clarity.",
+      "guidance": "Anchor each workday with three written priorities and revisit objective wins every Friday afternoon."
+    },
+    "Mars": {
+      "title": "Paced Strategy & Patient Collaboration",
+      "body": "Your dynamic speed accomplishes mountains quickly, and pairing that drive with deliberate stakeholder alignment prevents avoidable friction. Pausing briefly to invite buy-in makes every victory sustainable.",
+      "guidance": "Build a 24-hour calm review buffer before sending sharp responses or restructuring active workflows."
+    },
+    "Mercury": {
+      "title": "Deep Single-Thread Completion",
+      "body": "Your agile intellect spots dozens of intriguing angles at once, so protecting uninterrupted deep-work blocks turns cleverness into towering craft. Finishing one flagship effort at a time builds unmistakable momentum.",
+      "guidance": "Reserve the first 90 minutes of each morning for single-focus execution with notifications silenced."
+    },
+    "Jupiter": {
+      "title": "Focused Scope & Practical Budgets",
+      "body": "Your generous vision welcomes expansive possibilities, yet calibrating timelines and resource commitments carefully preserves vitality. Saying a selective yes to core priorities lets your highest wisdom bear full fruit.",
+      "guidance": "Audit active commitments monthly and align big goals with concrete weekly capacity."
+    },
+    "Venus": {
+      "title": "Crisp Commercial Boundaries",
+      "body": "Your gracious nature builds warm goodwill everywhere, and pairing warmth with clear valuation of your time elevates career rewards. Asking directly for fair scope and compensation honors everyone's clarity.",
+      "guidance": "State deliverables, timelines, and commercial terms in writing calmly before beginning collaborative engagements."
+    },
+    "Saturn": {
+      "title": "Visible Storytelling & Restorative Pacing",
+      "body": "Your quiet dedication lets results speak slowly, yet learning to share milestones clearly—and scheduling guilt-free recovery—unlocks faster advancement. Sustaining joy alongside discipline keeps long-term excellence vibrant.",
+      "guidance": "Document one weekly impact highlight for leadership and honor a strict weekly unplug window."
+    },
+    "Rahu": {
+      "title": "Grounded Documentation & Steady Cadence",
+      "body": "Your inventive ambition surges ahead toward big horizons, and pairing bold leaps with verified fundamentals protects rapid growth. Verifying fine details before scaling keeps ambitious trajectories smooth.",
+      "guidance": "Pair every bold initiative with a simple written checklist reviewed with a detail-oriented ally."
+    },
+    "Ketu": {
+      "title": "Visible Communication of Deep Craft",
+      "body": "Your deep intuitive specialization speaks powerfully to insiders, while translating complex mastery into accessible updates widens appreciation. Sharing your roadmap comfortably invites senior sponsorship.",
+      "guidance": "Summarize technical or behind-the-scenes wins in clear, plain-language updates after key milestones."
+    }
+  },
+  "diverse_paths_by_planet": {
+    "Sun": [
+      { "title": "Civil Service & Public Policy", "sector": "Government & Governance", "reason": "Highly favorable due to {planet} illuminating executive stewardship in your {house}." },
+      { "title": "Executive Operations Leadership", "sector": "Enterprise Management", "reason": "Aligned with {planet} authority and decisive clarity anchored in your {house}." },
+      { "title": "Civic Cultural & Arts Directorate", "sector": "Creative Arts & Public Trust", "reason": "Supported by creative radiance of {planet} shaping visible impact from your {house}." }
+    ],
+    "Moon": [
+      { "title": "Clinical Care & Wellness Counseling", "sector": "Healthcare & Empathy", "reason": "Deeply resonant with caring intuition of {planet} placed in your {house}." },
+      { "title": "NGO Community & Family Outreach", "sector": "Social Impact & NGO", "reason": "Nurtured by emotional intelligence of {planet} serving groups from your {house}." },
+      { "title": "Boutique Hospitality & Culinary Arts", "sector": "Hospitality & Food", "reason": "Flowing naturally from welcoming warmth of {planet} in your {house}." }
+    ],
+    "Mars": [
+      { "title": "Precision Engineering & Skilled Trades", "sector": "Engineering & Trades", "reason": "Fueled by hands-on courage and structural mastery of {planet} in your {house}." },
+      { "title": "Civil Infrastructure & Land Development", "sector": "Land, Agriculture & Construction", "reason": "Energized by grounded stamina and action of {planet} working through your {house}." },
+      { "title": "Emergency Response & Athletics Coaching", "sector": "Field Leadership & Defense", "reason": "Empowered by fearless decisiveness of {planet} anchored in your {house}." }
+    ],
+    "Mercury": [
+      { "title": "Applied Analytics & Software Architecture", "sector": "Technology & Data", "reason": "Sharpened by analytical speed and pattern fluency of {planet} in your {house}." },
+      { "title": "Journalism, Publishing & Strategy", "sector": "Media & Communication", "reason": "Elevated by articulate expression and research skill of {planet} in your {house}." },
+      { "title": "Agri-Supply Trade & Commodity Logistics", "sector": "Commerce & Supply Chain", "reason": "Guided by practical negotiation and systems thinking of {planet} in your {house}." }
+    ],
+    "Jupiter": [
+      { "title": "Agriculture, Forestry & Land Stewardship", "sector": "Agriculture & Natural Assets", "reason": "Highly favorable for land & ecological abundance due to {planet} blessing your {house}." },
+      { "title": "Higher Education & Institutional Advisory", "sector": "Academia & Mentorship", "reason": "Naturally supported by expansive wisdom of {planet} rooted in your {house}." },
+      { "title": "Civic Law, Ethics & Foundation Leadership", "sector": "Legal & Philanthropy", "reason": "Guided by broad fairness and long-term vision of {planet} in your {house}." }
+    ],
+    "Venus": [
+      { "title": "Visual Design, Architecture & Fine Arts", "sector": "Creative Arts & Design", "reason": "Radiating aesthetic harmony from {planet} enriching expression in your {house}." },
+      { "title": "Sustainable Fashion & Artisanal Craft", "sector": "Craft & Consumer Aesthetics", "reason": "Nurtured by refined sensory discernment of {planet} in your {house}." },
+      { "title": "Cultural Diplomacy & Experiential Media", "sector": "Media & Events", "reason": "Blessed by gracious diplomacy and charm of {planet} in your {house}." }
+    ],
+    "Saturn": [
+      { "title": "Industrial Trades, Manufacturing & QA", "sector": "Skilled Trades & Systems", "reason": "Grounded in patient durability and craftsmanship of {planet} in your {house}." },
+      { "title": "Rural Cooperative & Land Administration", "sector": "Public Infrastructure & Agriculture", "reason": "Fortified by long-horizon discipline of {planet} working through your {house}." },
+      { "title": "Compliance Auditing & Civil Engineering", "sector": "Governance & Reliability", "reason": "Built upon methodical integrity of {planet} anchored in your {house}." }
+    ],
+    "Rahu": [
+      { "title": "Global SaaS & Applied AI Products", "sector": "Cross-Border Tech", "reason": "Propelled by unconventional curiosity and scale hunger of {planet} in your {house}." },
+      { "title": "Digital Film, Podcasting & Creator Media", "sector": "Modern Media", "reason": "Amplified by trend-spotting reach of {planet} activating your {house}." },
+      { "title": "International NGO & Policy Innovation", "sector": "Global Impact", "reason": "Driven by boundary-crossing ambition of {planet} inside your {house}." }
+    ],
+    "Ketu": [
+      { "title": "Deep R&D, Bioinformatics & Archival Science", "sector": "Specialized Research", "reason": "Illuminated by penetrating subtle focus of {planet} centered in your {house}." },
+      { "title": "Holistic Healing, Yoga & Contemplative Arts", "sector": "Wellness & Heritage", "reason": "Guided by tranquil insight and craftsmanship mastery of {planet} in your {house}." },
+      { "title": "Master Artisan Guilds & Acoustic Arts", "sector": "Fine Craft & Sound", "reason": "Refined by quiet perfectionism and devotion of {planet} in your {house}." }
+    ]
+  },
+  "employment_paths_by_planet": {
+    "Sun": [
+      { "title": "Administrative & Civil Services (IAS/PCS/PSU)", "sector": "Government & Public Sector", "reason": "Supported by institutional leadership strength from {planet} in your {house}." },
+      { "title": "Corporate Program Director", "sector": "Executive Corporate", "reason": "Fits {planet} commanding visibility and clear ownership in your {house}." },
+      { "title": "Hospital or University Dean", "sector": "Institutional Leadership", "reason": "Aligns with dignified mentorship flowing from {planet} in your {house}." }
+    ],
+    "Moon": [
+      { "title": "Public Health & Nursing Specialist", "sector": "Healthcare Service", "reason": "Draws directly on steady empathy and care of {planet} in your {house}." },
+      { "title": "NGO Program Coordinator & Counselor", "sector": "Social Sector & NGO", "reason": "Suits responsive community connection held by {planet} in your {house}." },
+      { "title": "Agricultural Extension & Cooperative Officer", "sector": "Agriculture & Food Systems", "reason": "Honors nurturing earth-centered cycles favored by {planet} in your {house}." }
+    ],
+    "Mars": [
+      { "title": "Mechanical, Civil or Electrical Specialist", "sector": "Skilled Trades & Engineering", "reason": "Matches decisive technical precision of {planet} operating from your {house}." },
+      { "title": "Disaster Relief, Defense or Aviation Tech", "sector": "Uniformed & Field Services", "reason": "Harnesses calm crisis readiness built by {planet} in your {house}." },
+      { "title": "Horticulture & Estate Operations Manager", "sector": "Agriculture & Land Ops", "reason": "Converts physical drive of {planet} into tangible field output in your {house}." }
+    ],
+    "Mercury": [
+      { "title": "Senior Data Scientist & Systems Analyst", "sector": "Technology & Analytics", "reason": "Maximizes rapid logical clarity from {planet} seated in your {house}." },
+      { "title": "Policy Editor, Educator or Trade Banker", "sector": "Media & Financial Services", "reason": "Celebrates crisp articulation and numeracy driven by {planet} in your {house}." },
+      { "title": "Precision Trade Inspector & Logistics Lead", "sector": "Supply Chain & Trades", "reason": "Applies detail orientation of {planet} cleanly within your {house}." }
+    ],
+    "Jupiter": [
+      { "title": "Agricultural Policy & Watershed Officer", "sector": "Agriculture & Conservation", "reason": "Highly favorable for land & ecological stewardship due to {planet} in your {house}." },
+      { "title": "Professor, Legal Counsel or Judiciary Staff", "sector": "Education & Law", "reason": "Uplifts principled synthesis guided by {planet} placed in your {house}." },
+      { "title": "Non-Profit Foundation Grants Director", "sector": "NGO & Philanthropy", "reason": "Expands ethical community reach supported by {planet} in your {house}." }
+    ],
+    "Venus": [
+      { "title": "UI/UX Art Director & Industrial Designer", "sector": "Creative Arts & Design", "reason": "Channels refined visual taste of {planet} directly through your {house}." },
+      { "title": "Cultural Curator & Public Relations Lead", "sector": "Arts, Media & Hospitality", "reason": "Utilizes harmonious communication refined by {planet} in your {house}." },
+      { "title": "Botanical Landscape & Sustainable Architect", "sector": "Green Design & Land", "reason": "Blends living aesthetics with practicality through {planet} in your {house}." }
+    ],
+    "Saturn": [
+      { "title": "Plant Operations & Master Precision Machinist", "sector": "Skilled Trades & Industry", "reason": "Rewards unshakeable patience and reliability of {planet} in your {house}." },
+      { "title": "Government Audit & Revenue Officer", "sector": "Civil Administration", "reason": "Anchored in rule-based fairness built by {planet} in your {house}." },
+      { "title": "Agronomy & Soil Conservation Specialist", "sector": "Agriculture & Earth Trades", "reason": " Honors slow-compounding natural craft guided by {planet} in your {house}." }
+    ],
+    "Rahu": [
+      { "title": "Product Manager at Global Tech Platform", "sector": "Global Technology", "reason": "Accelerates cross-border scale thinking from {planet} in your {house}." },
+      { "title": "Documentary Producer & Broadcast Strategist", "sector": "Digital Media & Arts", "reason": "Captures wide public imagination energized by {planet} in your {house}." },
+      { "title": "International Climate & Agri-Tech Fellow", "sector": "NGO & Innovation", "reason": "Unlocks unconventional global solutions via {planet} in your {house}." }
+    ],
+    "Ketu": [
+      { "title": "Specialized Research Fellow & Lab Lead", "sector": "Science & R&D", "reason": "Focuses deep solitary investigation honed by {planet} in your {house}." },
+      { "title": "Museum Restorer & Heritage Archivist", "sector": "Arts & Cultural Heritage", "reason": "Preserves rare quiet mastery nurtured by {planet} in your {house}." },
+      { "title": "Ayurveda, Rehab or Hospice Clinician", "sector": "Integrative Healthcare", "reason": "Expresses compassionate stillness rooted in {planet} inside your {house}." }
+    ]
+  },
+  "business_paths_by_planet": {
+    "Sun": [
+      { "title": "Executive Leadership & Governance Advisory", "sector": "Boutique Consultancy", "reason": "Leverages commanding personal trust held by {planet} in your {house}." },
+      { "title": "Solar Energy & Clean Civic Contracting", "sector": "Infrastructure Venture", "reason": "Mirrors radiant independent enterprise powered by {planet} in your {house}." },
+      { "title": "Signature Heritage Wellness & Retreat Brand", "sector": "D2C / Hospitality Brand", "reason": "Centers clear vision and flagship quality through {planet} in your {house}." }
+    ],
+    "Moon": [
+      { "title": "Farm-to-Table Hospitality & Comfort Food", "sector": "Culinary & Local Brand", "reason": "Flourishes on emotional warmth and care from {planet} in your {house}." },
+      { "title": "Holistic Care & Home-Support Service Agency", "sector": "Care Service Agency", "reason": "Builds loyal word-of-mouth nurtured by {planet} in your {house}." },
+      { "title": "Clean Botanical Skincare & Self-Care Line", "sector": "D2C Consumer Brand", "reason": "Pairs gentle sensory intuition of {planet} with everyday trust in your {house}." }
+    ],
+    "Mars": [
+      { "title": "Precision Fabrication & Solar-Trade Contractor", "sector": "Skilled Trade Enterprise", "reason": "Turns decisive hands-on grit of {planet} in your {house} into steady contracts." },
+      { "title": "Athletic Gear or Functional Food D2C Brand", "sector": "D2C Brand", "reason": "Captures high-vitality consumer energy fueled by {planet} in your {house}." },
+      { "title": "Modern Organic Farm & Agri-Processing Unit", "sector": "Agribusiness Venture", "reason": "Grounds dynamic drive of {planet} into tangible land output from your {house}." }
+    ],
+    "Mercury": [
+      { "title": "B2B Analytics, SEO & Growth Service Agency", "sector": "Service Agency", "reason": "Scales crisp communication and strategy from {planet} in your {house}." },
+      { "title": "Focused Niche SaaS & Workflow Templates", "sector": "Digital Products", "reason": "Monetizes clean problem-solving efficiency built by {planet} in your {house}." },
+      { "title": "Specialty Bookshop, Ed-Kit or Publishing House", "sector": "Education & Media Venture", "reason": "Channeling agile intellectual curiosity of {planet} in your {house}." }
+    ],
+    "Jupiter": [
+      { "title": "Organic Agribusiness & Regenerative Land Venture", "sector": "Agriculture & Land Enterprise", "reason": "Highly favorable for land abundance and steady harvests due to {planet} in your {house}." },
+      { "title": "Cohort Academy & Certification Platform", "sector": "Digital Education Products", "reason": "Compounds generous teaching gifts radiating from {planet} in your {house}." },
+      { "title": "Ethical Wealth & Family Business Advisory", "sector": "High-Trust Consultancy", "reason": "Earns long-term retainers through wise integrity of {planet} in your {house}." }
+    ],
+    "Venus": [
+      { "title": "Curated D2C Apparel, Jewelry or Home Decor Brand", "sector": "D2C Lifestyle Brand", "reason": "Expresses unmistakable aesthetic taste guided by {planet} in your {house}." },
+      { "title": "Branding, Interior Design & Creative Studio", "sector": "Creative Service Agency", "reason": "Transforms harmony and visual craft of {planet} in your {house} into premium margins." },
+      { "title": "Boutique Eco-Stay & Culinary Studio", "sector": "Hospitality & Arts", "reason": "Invites joyful patronage nurtured by {planet} placed in your {house}." }
+    ],
+    "Saturn": [
+      { "title": "B2B Industrial Maintenance & Logistics Agency", "sector": "Operations Service Agency", "reason": "Wins multi-year retainers via dependable precision of {planet} in your {house}." },
+      { "title": "Heirloom Craft Furniture or Hardware Workshop", "sector": "Skilled Craft Venture", "reason": "Respects enduring build quality anchored by {planet} in your {house}." },
+      { "title": "Sustainable Soil, Water & Seed Supply Venture", "sector": "Long-Horizon Agribusiness", "reason": "Builds generational asset value through patience of {planet} in your {house}." }
+    ],
+    "Rahu": [
+      { "title": "Micro-SaaS Tools & Global Digital Downloads", "sector": "Digital Products", "reason": "Unlocks scalable worldwide distribution powered by {planet} in your {house}." },
+      { "title": "Cross-Border Creator Commerce & Media Agency", "sector": "Growth & Media Agency", "reason": "Harnesses fast trend adaptation energized by {planet} in your {house}." },
+      { "title": "Tech-Enabled Hydroponics or Climate Brand", "sector": "Modern Agri-Tech Venture", "reason": "Blends bold experimentation of {planet} with real-world demand in your {house}." }
+    ],
+    "Ketu": [
+      { "title": "Boutique Research, Cybersecurity or Data Audit Firm", "sector": "Deep-Tech Advisory", "reason": "Commands premium fees for rare quiet focus of {planet} in your {house}." },
+      { "title": "Small-Batch Artisan Pottery, Sound or Herb Studio", "sector": "Craft & Wellness Brand", "reason": "Honors authentic mindful workmanship of {planet} in your {house}." },
+      { "title": "Self-Paced Mindfulness & Specialist Guide Library", "sector": "Evergreen Digital Products", "reason": "Shares distilled contemplative clarity effortlessly from {planet} in your {house}." }
+    ]
+  },
+  "house_bonus_paths": {
+    "Jupiter_4": {
+      "employment": { "title": "Agriculture, Watershed & Land Conservation Officer", "sector": "Agriculture & Land", "reason": "Highly favorable for Agriculture & Land Ventures due to Jupiter blessing your 4th House of land and roots." },
+      "business": { "title": "Agriculture & Regenerative Land Ventures", "sector": "Agribusiness & Land Assets", "reason": "Highly favorable for Agriculture & Land Ventures due to Jupiter expanding prosperity in your 4th House." }
+    },
+    "Mars_4": {
+      "employment": { "title": "Civil Infrastructure & Land Survey Specialist", "sector": "Engineering & Land", "reason": "Strongly aligned with real-asset and agricultural development due to Mars energizing your 4th House." },
+      "business": { "title": "Modern Farm Operations & Green Construction Brand", "sector": "Land & Agribusiness", "reason": "Strongly favorable for land development and agribusiness due to Mars activating your 4th House." }
+    },
+    "Sun_10": {
+      "employment": { "title": "Senior Civil Service & Public Administration", "sector": "Government & Governance", "reason": "Exceptionally well-suited for authoritative leadership due to Sun shining directly in your 10th House." },
+      "business": { "title": "Institutional Strategy & Executive Consultancy", "sector": "Leadership Advisory", "reason": "High natural authority for flagship advisory ventures due to Sun crowning your 10th House." }
+    },
+    "Venus_10": {
+      "employment": { "title": "Creative Director in Media, Arts & Architecture", "sector": "Creative Arts & Design", "reason": "Naturally elevated aesthetic reputation due to Venus illuminating your 10th House." },
+      "business": { "title": "Flagship D2C Design Brand or Creative Agency", "sector": "D2C & Creative Studio", "reason": "Magnetizes loyal brand admiration due to Venus grace in your 10th House." }
+    },
+    "Saturn_6": {
+      "employment": { "title": "Skilled Engineering, Civic Law or Operations Lead", "sector": "Skilled Trades & Systems", "reason": "Remarkable staying power in competitive institutions due to Saturn steadying your 6th House." },
+      "business": { "title": "High-Reliability B2B Operations & Craft Agency", "sector": "Service Agency & Trades", "reason": "Turns disciplined execution into repeat client trust due to Saturn fortifying your 6th House." }
+    }
+  },
+  "cautious_zones_by_planet": {
+    "Sun": ["Signing rigid roles with zero creative autonomy", "Overcommitting personal time strictly to prove authority"],
+    "Moon": ["High-conflict roles lacking psychological safety", "Skipping steady sleep for late-night client emergencies"],
+    "Mars": ["Impulsive career pivots without calm financial runway", "Operating fast machinery or deals during heated fatigue"],
+    "Mercury": ["Spreading attention across five unverified side gigs", "Verbal agreements lacking crisp written scope"],
+    "Jupiter": ["Informal partnerships relying only on optimism without metrics", "Over-promising deliverables beyond team bandwidth"],
+    "Venus": ["Underpricing skilled creative work out of politeness", "Selecting roles for surface prestige while ignoring substance"],
+    "Saturn": ["Undervaluing promotions out of quiet hesitation", "Carrying team bottlenecks silently without delegating"],
+    "Rahu": ["High-hype ventures lacking clear regulatory compliance", "Chasing rapid visibility before core product proof"],
+    "Ketu": ["Hiding completed breakthroughs during performance cycles", "Over-isolating when strategic collaboration accelerates impact"]
+  },
+  "safety_advice_by_planet": {
+    "Sun": ["Request explicit charter authority and measurable milestones in writing", "Delegate operational details weekly so leadership remains energized"],
+    "Moon": ["Keep a six-month calm liquidity buffer before any major role change", "Build supportive peer circles who honor both focus and rest"],
+    "Mars": ["Apply a 48-hour cooling pause before resigning or signing binding contracts", "Protect physical warm-ups and safety checks during intense sprint weeks"],
+    "Mercury": ["Use signed statements of work and single-page milestone trackers", "Cap active side projects to one tested venture at a time"],
+    "Jupiter": ["Run calm unit-economics checks and written partnership deeds before scaling", "Pair generous mentorship with clear calendar boundaries"],
+    "Venus": ["Benchmark industry rates annually and invoice cleanly on schedule", "Balance refined aesthetics with documented recurring revenue streams"],
+    "Saturn": ["Document invisible reliability wins visibly every Friday for leadership", "Protect Sunday rest consciously to sustain decades of steady craft"],
+    "Rahu": ["Verify tax, legal, and client-verification checklists before rapid launches", "Keep core savings conservatively sheltered while testing bold experiments"],
+    "Ketu": ["Share concise one-paragraph impact summaries after key deliveries", "Anchor deep specialization alongside one reliable commercial ally"]
+  },
+  "absorbed_topics": {
+    "career_field": {
+      "title": "Best Career Fields & Natural Vocation",
+      "strong": "Your {house} and Tenth-house D10 alignment powered by {planet} illuminate standout growth in leadership, skilled domain craft, advisory, or modern creative-analytical fields. Around {year_range}, committing visibly to one flagship specialization elevates reputation steadily.",
+      "balanced": "With {planet} guiding your {house}, your vocation thrives where practical execution meets clear human communication. Clarifying one primary lane between {year_range} builds durable momentum across changing markets.",
+      "focus": "Your {house} reflects multi-faceted talents guided by {planet}, rewarding structured experimentation over sudden hops. Around {year_range}, mentoring with experienced practitioners brings crisp long-term clarity.",
+      "basis": "10th House Lord, D10 Dasamsa & {planet}"
+    },
+    "govt_job": {
+      "title": "Government, Civil Service & Public Institutions",
+      "strong": "Strong solar and institutional balance around your {house} with {planet} supports civil services, public administration, judiciary, or PSU leadership. Focused preparation aligns productively with the {year_range} Dasha window.",
+      "balanced": "Your {house} backed by {planet} favors structured public sector, banking, teaching, or civic technology roles when matched with disciplined mock-test cycles. Noticeable clarity strengthens across {year_range}.",
+      "focus": "While your {house} offers reliable career growth under {planet}, private leadership, regulatory advisory, or semi-public enterprise may yield faster appreciation than ultra-competitive exams through {year_range}.",
+      "basis": "Sun, 10th/6th House & D10 Alignment"
+    },
+    "job_vs_business": {
+      "title": "Employment vs Independent Business Fit",
+      "strong": "Active synergy across your 7th, 10th, and 11th houses anchored by {planet} gives clear entrepreneurial instinct alongside leadership capability. Building your venture on solid unit economics gains real traction around {year_range}.",
+      "balanced": "Your {house} and {planet} thrive in a thoughtful sequence: high-leverage salaried growth paired with validating a lean side offering. Between {year_range}, revenue traction clearly signals whether to scale independently.",
+      "focus": "Your {house} currently blossoms best inside structured organizations with steady mentorship and dependable income backed by {planet}. Accumulating capital and deep operational systems through {year_range} creates serene freedom.",
+      "basis": "Mercury, 6th Service vs 7th/10th Enterprise"
+    },
+    "job_promotion": {
+      "title": "Role Elevation, Job Switch & Recognition",
+      "strong": "Supportive 10th and 11th house indicators energized by {planet} herald visible recognition, senior scope, or timely upward role transitions. The {year_range} period opens welcoming doors for impactful interviews and raises.",
+      "balanced": "Consistent craft around your {house} strengthened by {planet} builds quiet credibility with decision-makers. Documenting measurable deliverables positions you smoothly for advancement across {year_range}.",
+      "focus": "During this constructive building cycle in your {house}, deliberate credentialing and calm stakeholder visibility compound under {planet}. Steady preparation matures into well-earned elevation toward {year_range}.",
+      "basis": "10th/11th Lords, D10 & Dasha Transits"
+    }
+  },
+  "cross_references": {
+    "WEALTH": {
+      "title": "How Career Fuels Wealth Building",
+      "insight": "Your {planet} activation in the {house} directly links vocational mastery to lasting 2nd and 11th house cashflow when pricing and skill depth advance together."
+    },
+    "HEALTH": {
+      "title": "Career Rhythm & Daily Vitality",
+      "insight": "Because {planet} drives consistent output from your {house}, protecting sleep and posture routines ensures professional ambition strengthens rather than taxes your energy."
+    },
+    "MARRIAGE": {
+      "title": "Work Demands & Home Harmony",
+      "insight": "Balancing decisive focus in your {house} under {planet} with unhurried evening presence keeps family partnerships feeling deeply respected and calm."
+    },
+    "DHARMA": {
+      "title": "Dharmic Purpose & Vocational Mastery",
+      "insight": "Aligning daily work around {planet} in your {house} turns ambition into deeply fulfilling service and lasting meaning."
+    }
+  }
+}

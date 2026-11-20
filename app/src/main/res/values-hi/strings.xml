@@ -1,0 +1,404 @@
+<resources>
+    <string name="app_name">AstroVeda</string>
+    <string name="studio_name">आर्यलीला स्टूडियोज़</string>
+    <string name="disclaimer_text">केवल मार्गदर्शन के लिए। किसी पेशेवर सलाह का विकल्प नहीं है।</string>
+
+    <!-- Navigation & Top Bar -->
+    <string name="tab_kundali">कुंडली</string>
+    <string name="tab_predictions">भविष्यवाणी</string>
+    <string name="tab_shaadi_milan">शादी मिलान</string>
+    <string name="cd_astroveda_logo">एस्ट्रोवेदा लोगो</string>
+    <string name="cd_profile_avatar">प्रोफ़ाइल और सेटिंग्स खोलें</string>
+    <string name="cd_person_dropdown">व्यक्ति चुनें</string>
+    <string name="cd_back">वापस जाएं</string>
+    <string name="cd_close">बंद करें</string>
+    <string name="cd_expand">विस्तार करें</string>
+    <string name="cd_collapse">समेटें</string>
+    <string name="add_short">+ जोड़ें</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_choose_language">अपनी भाषा चुनें</string>
+    <string name="onboarding_choose_language_sub">पढ़ने के लिए अपनी पसंदीदा भाषा चुनें</string>
+    <string name="onboarding_continue">आगे बढ़ें</string>
+    <string name="onboarding_name_title">हम आपको क्या कहें?</string>
+    <string name="onboarding_name_subtitle">आपका नाम केवल आपके डिवाइस पर सुरक्षित रहेगा</string>
+    <string name="onboarding_name_placeholder">अपना शुभ नाम लिखें</string>
+    <string name="onboarding_default_guest">साधक</string>
+    <string name="onboarding_get_started">शुरू करें</string>
+    <string name="onboarding_step3_title">स्वागत है, %1$s!</string>
+    <string name="onboarding_step3_subtitle">आपकी निजी वैदिक ज्योतिष मार्गदर्शिका तैयार है। कुंडली चक्र, भविष्यवाणी और विस्तृत जीवन विश्लेषण देखने के लिए जन्म विवरण जोड़ें।</string>
+    <string name="onboarding_explore_tab">कुंडली टैब देखें</string>
+
+    <!-- Kundali Empty State & Actions -->
+    <string name="empty_kundali_title">अभी कोई कुंडली नहीं है</string>
+    <string name="empty_kundali_subtitle">प्रामाणिक वैदिक चक्र, पंचांग, विंशोत्तरी दशा, विस्तृत जीवन विवेचना और भविष्यवाणी देखने के लिए पहला व्यक्ति जोड़ें।</string>
+    <string name="cta_add_first_person">+ पहली कुंडली जोड़ें</string>
+    <string name="cta_add_new">+ नई कुंडली</string>
+
+    <!-- Kundali Sections -->
+    <string name="todays_prediction_title">आज का राशिफल</string>
+    <string name="read_more_cta">विस्तार से पढ़ें →</string>
+    <string name="chart_section_title">लग्न कुंडली चक्र</string>
+    <string name="chart_lagna_label">लग्न: %1$s (%2$s)</string>
+    <string name="chart_style_north">उत्तर</string>
+    <string name="chart_style_south">दक्षिण</string>
+    <string name="chart_style_north_full">उत्तर भारतीय</string>
+    <string name="chart_style_south_full">दक्षिण भारतीय</string>
+    <string name="chart_south_watermark">दक्षिण भारतीय चक्र</string>
+    <string name="chart_asc_short">लग्न</string>
+    <string name="chart_lagna_short">लग्न</string>
+
+    <string name="section_cosmic_highlights">आपके प्रमुख ग्रह संकेत</string>
+    <string name="highlight_chart_career">करियर</string>
+    <string name="highlight_chart_marriage">विवाह</string>
+    <string name="highlight_chart_self">स्वयं</string>
+
+    <string name="section_your_reading">आपकी जन्म पत्रिका विवेचना</string>
+    <string name="reading_personality">व्यक्तित्व एवं स्वभाव</string>
+    <string name="reading_career">करियर एवं धन समृद्धि</string>
+    <string name="reading_relationships">संबंध एवं दांपत्य जीवन</string>
+    <string name="reading_health">स्वास्थ्य एवं जीवन शक्ति</string>
+    <string name="reading_dharma">धर्म एवं जीवन उद्देश्य</string>
+    <string name="reading_tap_explore">विस्तृत देखें</string>
+    <string name="reading_current_phase">वर्तमान दशा काल</string>
+    <string name="reading_active_dasha">सक्रिय दशा: %1$s</string>
+    <string name="reading_dasha_note">विंशोत्तरी दशा चक्र के अनुसार यह काल धैर्य, कार्यक्षेत्र में स्थिरता और संतुलित विकास को सुदृढ़ करता है।</string>
+    <string name="reading_lucky_elements">शुभ तत्व</string>
+    <string name="reading_remedies">वैदिक उपाय एवं मार्गदर्शन</string>
+
+    <string name="lucky_number">शुभ अंक</string>
+    <string name="lucky_color">शुभ रंग</string>
+    <string name="lucky_day">शुभ वार</string>
+    <string name="lucky_direction">शुभ दिशा</string>
+    <string name="lucky_gemstone">अनुकूल रत्न</string>
+
+    <string name="remedy_mantra">मंत्र जप</string>
+    <string name="remedy_charity">दान पुण्य</string>
+    <string name="remedy_fasting">व्रत / उपवास</string>
+    <string name="remedy_behavioral">सदाचार</string>
+
+    <!-- Predictions Section & Screen -->
+    <string name="section_predictions">भविष्यवाणी</string>
+    <string name="predictions_screen_title">भविष्यवाणी</string>
+    <string name="period_daily">दैनिक</string>
+    <string name="period_monthly">मासिक</string>
+    <string name="period_yearly">वार्षिक</string>
+    <string name="period_life">जीवन</string>
+    <string name="prediction_daily_card">दैनिक राशिफल</string>
+    <string name="prediction_monthly_card">मासिक राशिफल</string>
+    <string name="prediction_yearly_card">वार्षिक राशिफल</string>
+    <string name="prediction_life_card">जीवन मार्गदर्शन</string>
+    <string name="prediction_sign_label">चंद्र राशि: %1$s</string>
+    <string name="prediction_guidance_title">आपके लिए मार्गदर्शन</string>
+    <string name="prediction_lucky_title">शुभ तत्व</string>
+
+    <!-- Detailed Charts -->
+    <string name="section_detailed_charts">विस्तृत ज्योतिषीय सारणियां</string>
+    <string name="detail_planets_title">ग्रह स्थिति सारणी</string>
+    <string name="col_planet">ग्रह</string>
+    <string name="col_sign">राशि</string>
+    <string name="col_deg">अंश</string>
+    <string name="col_nakshatra">नक्षत्र</string>
+    <string name="detail_bhava_title">भाव कस्प (१ से १२)</string>
+    <string name="house_label">भाव %1$d</string>
+    <string name="detail_dasha_title">विंशोत्तरी दशा (महादशा → अंतर्दशा)</string>
+    <string name="maha_dasha_suffix">%1$s महादशा</string>
+    <string name="detail_panchang_title">जन्म पंचांग</string>
+    <string name="panchang_tithi">तिथि</string>
+    <string name="panchang_vara">वार</string>
+    <string name="panchang_nakshatra">नक्षत्र</string>
+    <string name="panchang_yoga">योग</string>
+    <string name="panchang_karana">करण</string>
+    <string name="panchang_sun_times">सूर्योदय / सूर्यास्त</string>
+    <string name="detail_yogas_doshas_title">योग एवं दोष</string>
+    <string name="remedy_prefix">उपाय: %1$s</string>
+    <string name="detail_divisional_title">वर्ग कुंडलियां (D9, D10, D7)</string>
+
+    <!-- Actions -->
+    <string name="section_actions">कार्य एवं एक्सपोर्ट</string>
+    <string name="action_export_pdf">मास्टर पीडीएफ रिपोर्ट सहेजें</string>
+    <string name="toast_pdf_generating">मास्टर पीडीएफ रिपोर्ट तैयार हो रही है…</string>
+    <string name="action_share_json">कुंडली डेटा शेयर करें (JSON)</string>
+    <string name="action_edit">संपादित करें</string>
+    <string name="action_delete">हटाएं</string>
+    <string name="toast_pdf_saved">पीडीएफ सफलतापूर्वक सहेजी गई</string>
+    <string name="toast_pdf_failed">पीडीएफ सहेजने में त्रुटि</string>
+    <string name="toast_backup_saved">बैकअप सफलतापूर्वक सहेजा गया</string>
+    <string name="toast_import_success">डेटा सफलतापूर्वक आयात किया गया</string>
+    <string name="toast_import_invalid">अमान्य JSON फ़ाइल</string>
+    <string name="share_chooser_title">कुंडली JSON शेयर करें</string>
+
+    <!-- Person Selector Bottom Sheet -->
+    <string name="sheet_select_horoscope">कुंडली चुनें</string>
+    <string name="sheet_search_hint">नाम या स्थान से खोजें…</string>
+    <string name="sheet_no_results">कोई कुंडली नहीं मिली</string>
+    <string name="context_choose_action">इस कुंडली के लिए कार्य चुनें:</string>
+    <string name="context_edit">संपादित करें</string>
+    <string name="context_duplicate">प्रतिलिपि बनाएं</string>
+    <string name="context_delete">हटाएं</string>
+    <string name="close_btn">बंद करें</string>
+    <string name="copy_suffix">%1$s (प्रतिलिपि)</string>
+
+    <!-- Add / Edit Person -->
+    <string name="title_add_person">नई कुंडली जोड़ें</string>
+    <string name="title_edit_person">कुंडली संपादित करें</string>
+    <string name="step1_title">चरण १: नाम एवं लिंग</string>
+    <string name="label_full_name">पूरा नाम (अनिवार्य)</string>
+    <string name="error_enter_name">कृपया नाम दर्ज करें</string>
+    <string name="label_gender_optional">लिंग (वैकल्पिक)</string>
+    <string name="gender_male">पुरुष</string>
+    <string name="gender_female">महिला</string>
+    <string name="gender_other">अन्य</string>
+    <string name="gender_prefer_not">नहीं बताना चाहते</string>
+
+    <string name="step2_title">चरण २: जन्म दिनांक एवं समय</string>
+    <string name="label_birth_date">जन्म दिनांक</string>
+    <string name="label_birth_time">जन्म समय</string>
+    <string name="time_unknown_display">दोपहर १२:०० (अज्ञात)</string>
+    <string name="label_time_unknown">जन्म समय ज्ञात नहीं है</string>
+    <string name="desc_time_unknown">मानक समय दोपहर १२:०० माना जाएगा</string>
+    <string name="warning_time_unknown">चेतावनी: सटीक समय के बिना लग्न और भाव अनुमानित हो सकते हैं। चंद्र राशि एवं नक्षत्र विश्वसनीय रहेंगे।</string>
+
+    <string name="step3_title">चरण ३: जन्म स्थान एवं निर्देशांक</string>
+    <string name="label_birth_place">जन्म स्थान</string>
+    <string name="cd_edit_place">जन्म स्थान बदलें</string>
+    <string name="place_step_hint">• ऑनलाइन स्थान खोजें, ५०+ शहरों की सूची से चुनें, या अक्षांश/देशांतर स्वयं दर्ज करें।</string>
+
+    <string name="step4_title">चरण ४: आपके बारे में (वैकल्पिक)</string>
+    <string name="label_marital_status">वैवाहिक स्थिति</string>
+    <string name="marital_single">अविवाहित</string>
+    <string name="marital_married">विवाहित</string>
+    <string name="marital_divorced">तलाकशुदा</string>
+    <string name="marital_widowed">विधवा/विधुर</string>
+    <string name="label_occupation">व्यवसाय / कार्यक्षेत्र</string>
+    <string name="occ_service">नौकरी / सेवा</string>
+    <string name="occ_business">व्यापार</string>
+    <string name="occ_student">विद्यार्थी</string>
+    <string name="occ_freelancer">स्वतंत्र कार्य</string>
+    <string name="occ_homemaker">गृहणी</string>
+    <string name="occ_other">अन्य</string>
+
+    <string name="step5_title">चरण ५: समीक्षा एवं सहेजें</string>
+    <string name="review_name">नाम</string>
+    <string name="review_gender">लिंग</string>
+    <string name="review_date">जन्म दिनांक</string>
+    <string name="review_time">जन्म समय</string>
+    <string name="review_place">जन्म स्थान</string>
+    <string name="review_coords">निर्देशांक</string>
+    <string name="review_marital">वैवाहिक स्थिति</string>
+    <string name="review_occupation">कार्यक्षेत्र</string>
+    <string name="btn_previous">पीछे</string>
+    <string name="btn_next">आगे बढ़ें</string>
+    <string name="btn_save_horoscope">कुंडली सहेजें</string>
+
+    <!-- Place Picker Dialog -->
+    <string name="place_picker_title">जन्म स्थान चुनें</string>
+    <string name="place_use_location_search">स्थान खोज उपयोग करें</string>
+    <string name="place_search_placeholder">शहर या गाँव खोजें…</string>
+    <string name="place_attribution">OpenStreetMap / Photon द्वारा संचालित</string>
+    <string name="place_search_unavailable">खोज अनुपलब्ध — शहर सूची और मैन्युअल प्रविष्टि दिखाई जा रही है</string>
+    <string name="place_manual_section">मैन्युअल अक्षांश / देशांतर / समय क्षेत्र</string>
+    <string name="place_lat_label">अक्षांश (Lat)</string>
+    <string name="place_lon_label">देशांतर (Lon)</string>
+    <string name="place_tz_label">समय क्षेत्र (जैसे Asia/Kolkata)</string>
+    <string name="place_city_directory">प्रमुख शहरों की सूची (५०+)</string>
+    <string name="place_select_btn">स्थान चुनें</string>
+    <string name="cancel_btn">रद्द करें</string>
+
+    <!-- Shaadi Milan -->
+    <string name="milan_empty_title">मिलान के लिए कम से कम २ व्यक्ति जोड़ें</string>
+    <string name="milan_empty_subtitle">कुंडली मिलान दो सहेजे गए व्यक्तियों के बीच ३६ गुणों और मांगलिक दोष का मूल्यांकन करता है।</string>
+    <string name="milan_add_person_cta">+ व्यक्ति जोड़ें</string>
+    <string name="milan_select_profiles">मिलान के लिए कुंडलियां चुनें</string>
+    <string name="milan_partner_1">प्रथम साथी</string>
+    <string name="milan_partner_2">द्वितीय साथी</string>
+    <string name="milan_gunas_unit">/ ३६ गुण</string>
+    <string name="milan_mangal_title">मांगलिक दोष अनुकूलता</string>
+    <string name="milan_breakdown_title">अष्टकूट मिलान विवरण (८ कूट)</string>
+    <string name="milan_select_partner_1">प्रथम साथी चुनें</string>
+    <string name="milan_select_partner_2">द्वितीय साथी चुनें</string>
+
+    <!-- Profile Drawer -->
+    <string name="drawer_title">प्रोफ़ाइल एवं सेटिंग्स</string>
+    <string name="drawer_your_name">आपका नाम</string>
+    <string name="drawer_guest">अतिथि साधक</string>
+    <string name="drawer_language">ऐप भाषा</string>
+    <string name="drawer_notif_title">दैनिक राशिफल सूचना</string>
+    <string name="drawer_notif_subtitle">प्रातःकालीन मार्गदर्शन</string>
+    <string name="drawer_notif_disabled_hint">दैनिक राशिफल सूचना पाने के लिए पहले एक व्यक्ति जोड़ें।</string>
+    <string name="drawer_notif_time">सूचना समय</string>
+    <string name="drawer_notif_person">सूचना के लिए व्यक्ति</string>
+    <string name="drawer_settings_title">ज्योतिषीय सेटिंग्स</string>
+    <string name="drawer_default_chart">डिफ़ॉल्ट चक्र शैली</string>
+    <string name="drawer_ayanamsa">अयनांश प्रणाली</string>
+    <string name="ayanamsa_lahiri">लाहिड़ी</string>
+    <string name="ayanamsa_raman">रमण</string>
+    <string name="ayanamsa_kp">के.पी.</string>
+    <string name="drawer_data_title">डेटा प्रबंधन</string>
+    <string name="drawer_export_json">सभी डेटा एक्सपोर्ट करें (JSON via SAF)</string>
+    <string name="drawer_import_json">डेटा इम्पोर्ट करें (JSON via SAF)</string>
+    <string name="drawer_clear_all">सभी डेटा मिटाएं</string>
+    <string name="drawer_about_title">AstroVeda v1.0</string>
+    <string name="drawer_about_body">पूर्णतः ऑफलाइन वैदिक ज्योतिष इंजन।\n\nअस्वीकरण: केवल मार्गदर्शन के लिए। किसी पेशेवर सलाह का विकल्प नहीं है।</string>
+    <string name="clear_dialog_title">डेटा मिटाने की पुष्टि</string>
+    <string name="clear_dialog_body">क्या आप सभी सहेजी गई कुंडलियां और प्राथमिकताएं मिटाना चाहते हैं? यह क्रिया पूर्ववत नहीं की जा सकती।</string>
+    <string name="clear_dialog_confirm">हां, सब मिटाएं</string>
+
+    <!-- Notifications & PDF -->
+    <string name="notif_channel_name">दैनिक एस्ट्रोवेदा भविष्यवाणी</string>
+    <string name="notif_channel_desc">प्रातःकालीन ज्योतिषीय मार्गदर्शन एवं भविष्यवाणी</string>
+    <string name="notif_title_format">%1$s • %2$s</string>
+    <string name="notif_expanded_footer">शुभ रंग: %1$s • शुभ अंक: %2$d\nआज का राशिफल देखने के लिए टैप करें।</string>
+    <string name="pdf_header_title">एस्ट्रोवेदा • वैदिक जन्म पत्रिका</string>
+    <string name="pdf_header_subtitle">आर्यलीला स्टूडियोज़ • ऑफलाइन वैदिक ज्योतिष इंजन</string>
+    <string name="pdf_panchang_title">जन्म पंचांग</string>
+    <string name="pdf_planets_title">ग्रह स्थिति</string>
+    <string name="pdf_yogas_title">प्रमुख योग एवं दोष</string>
+    <string name="pdf_lucky_title">शुभ तत्व एवं उपाय</string>
+    <string name="pdf_lagna_row">लग्न (Ascendant)</string>
+    <string name="pdf_date_label">जन्म दिनांक:</string>
+    <string name="pdf_time_label">जन्म समय:</string>
+    <string name="pdf_place_label">जन्म स्थान:</string>
+    <string name="pdf_panchang_line1">तिथि: %1$s (%2$s)  |  वार: %3$s  |  सूर्योदय: %4$s</string>
+    <string name="pdf_panchang_line2">नक्षत्र: %1$s  |  योग: %2$s  |  करण: %3$s</string>
+    <string name="pdf_col_planet">ग्रह</string>
+    <string name="pdf_col_sign">राशि</string>
+    <string name="pdf_col_degree">अंश</string>
+    <string name="pdf_col_retro">वक्री</string>
+    <string name="pdf_col_nakshatra">नक्षत्र (पद)</string>
+    <string name="pdf_col_house">भाव</string>
+    <string name="pdf_lucky_line">शुभ अंक: %1$d  |  रंग: %2$s  |  वार: %3$s  |  रत्न: %4$s</string>
+    <string name="pdf_mantra_line">मंत्र: %1$s</string>
+    <string name="pdf_footer">केवल मार्गदर्शन के लिए। किसी पेशेवर सलाह का विकल्प नहीं है। • AstroVeda (आर्यलीला स्टूडियोज़)</string>
+
+    <string name="predictions_theme_header">ब्रह्मांडीय विषय</string>
+    <string name="predictions_action_tip">सुझाव: प्रातः कुछ शांत क्षण ध्यान में बिताएं और अपनी वाणी में मधुरता व स्पष्टता बनाए रखें।</string>
+    <string name="share_profile_text">AstroVeda प्रोफ़ाइल: %1$s\nजन्म दिनांक: %2$s\nजन्म समय: %3$s\nजन्म स्थान: %4$s\nनिर्देशांक: %5$.4f, %6$.4f (%7$s)</string>
+    <string name="toast_export_error">एक्सपोर्ट त्रुटि: %1$s</string>
+    <string name="toast_import_error">इम्पोर्ट त्रुटि: %1$s</string>
+    <string name="place_custom_format">कस्टम (%1$.4f, %2$.4f)</string>
+    <string name="place_coords_summary">अक्षांश: %1$.4f | देशांतर: %2$.4f | TZ: %3$s</string>
+    <string name="place_city_coords_row">अक्षांश: %1$.2f°, देशांतर: %2$.2f° • %3$s</string>
+    <string name="drawer_user_default">साधक</string>
+    <string name="cd_edit_user_name">नाम बदलें</string>
+    <string name="cd_save_user_name">नाम सहेजें</string>
+    <string name="cd_clear_search">खोज साफ़ करें</string>
+    <string name="predictions_shortcuts_subtitle">पूर्ण भविष्यफल, ब्रह्मांडीय विषय व शुभ तत्व देखें</string>
+
+    <!-- Detailed Category Screens -->
+    <string name="cat_career_title">करियर एवं कर्म क्षेत्र</string>
+    <string name="cat_wealth_title">धन एवं समृद्धि</string>
+    <string name="cat_marriage_title">विवाह एवं संबंध</string>
+    <string name="cat_health_title">स्वास्थ्य एवं प्राण ऊर्जा</string>
+    <string name="cat_dharma_title">धर्म एवं जीवन उद्देश्य</string>
+    <string name="cat_career_tab">करियर</string>
+    <string name="cat_wealth_tab">धन</string>
+    <string name="cat_marriage_tab">विवाह</string>
+    <string name="cat_health_tab">स्वास्थ्य</string>
+    <string name="cat_dharma_tab">धर्म</string>
+    <string name="cat_your_gift_label">विशेष पहचान</string>
+    <string name="cat_recommended_paths">अनुशंसित क्षेत्र</string>
+    <string name="cat_cautious_zones">सावधानी क्षेत्र</string>
+    <string name="cat_diverse_paths_title">अनुकूल क्षेत्र एवं ज्योतिषीय कारण</string>
+    <string name="cat_career_track_title">नौकरी बनाम व्यवसाय दिशा</string>
+    <string name="cat_employment_tab">नौकरी</string>
+    <string name="cat_business_tab">व्यवसाय</string>
+    <string name="cat_career_employment_sub">वेतनभोगी सेवा, प्रशासन, तकनीकी कौशल एवं समाज सेवा</string>
+    <string name="cat_career_business_sub">स्वतंत्र उद्यम, एजेंसी, D2C ब्रांड एवं शिल्प स्टूडियो</string>
+    <string name="cat_power_bars_title">प्रमुख बल सूचकांक</string>
+    <string name="cat_narrative_title">वैदिक विवेचना</string>
+    <string name="cat_astro_proof_title">ज्योतिषीय प्रमाण</string>
+    <string name="cat_yogas_proof_title">संबंधित योग एवं दोष</string>
+    <string name="cat_divisional_chart_title">संबंधित कुंडली (%1$s)</string>
+    <string name="cat_absorbed_topics_title">विस्तृत जीवन प्रश्न एवं समय अवधि</string>
+    <string name="cat_timing_window_badge">अवधि: %1$s</string>
+    <string name="cat_cross_reference_title">अन्य जीवन क्षेत्रों से संबंध</string>
+    <string name="cat_tap_to_open">देखें →</string>
+    <string name="cat_actionable_advice_title">व्यावहारिक मार्गदर्शन</string>
+    <string name="cat_what_to_do">क्या करें</string>
+    <string name="cat_safety_advice">सुरक्षा एवं संयम सलाह</string>
+    <string name="cat_remedies_title">विशेष उपाय एवं मंत्र</string>
+    <string name="cat_remedy_mantra">मंत्र जप</string>
+    <string name="cat_remedy_charity">दान एवं सेवा</string>
+    <string name="cat_remedy_ritual">साप्ताहिक अभ्यास</string>
+
+    <!-- Premium Astro Meters & Cosmic Blueprint -->
+    <string name="meter_excellent">उत्कृष्ट</string>
+    <string name="meter_favorable">अनुकूल</string>
+    <string name="meter_growing">विकासशील</string>
+    <string name="meter_needs_focus">ध्यान आवश्यक</string>
+    <string name="section_cosmic_blueprint">आपकी ब्रह्मांडीय रूपरेखा</string>
+
+    <!-- Category Library Sections -->
+    <string name="cat_personality_heading">इस क्षेत्र में आपका व्यक्तित्व</string>
+    <string name="cat_strengths_heading">आपकी प्रमुख शक्तियां</string>
+    <string name="cat_challenges_heading">सूक्ष्म संतुलन बिंदु</string>
+    <string name="cat_superpower_title">आपकी महाशक्ति</string>
+    <string name="cat_growth_area_title">विकास का क्षेत्र</string>
+    <string name="cat_growth_guidance_label">रचनात्मक मार्गदर्शन</string>
+
+    <!-- Category Blueprint Overhaul & Daily Remedies -->
+    <string name="section_daily_remedies">आपके दैनिक वैदिक उपाय</string>
+    <string name="remedy_label_mantra">मंत्र जप</string>
+    <string name="remedy_label_why">क्यों (ज्योतिषीय आधार)</string>
+    <string name="remedy_label_how">कैसे करें</string>
+    <string name="cat_match_percent_format">%1$d%% अनुकूल</string>
+    <string name="cat_chart_reference_label">कुंडली आधार</string>
+    <string name="cat_career_dna_title">करियर डीएनए</string>
+    <string name="cat_financial_dna_title">वित्तीय डीएनए</string>
+    <string name="cat_relationship_dna_title">संबंध डीएनए</string>
+    <string name="cat_vitality_dna_title">जीवन शक्ति डीएनए</string>
+    <string name="cat_soul_alignment_title">आत्मिक संरेखण</string>
+    <string name="cat_tier1_career_matches_title">शीर्ष अनुकूल करियर विकल्प</string>
+    <string name="cat_tier2_broad_scopes_title">व्यापक कार्यक्षेत्र</string>
+    <string name="cat_tier3_career_attitude_title">कार्य के प्रति सही दृष्टिकोण</string>
+    <string name="cat_tier1_wealth_sources_title">शीर्ष अनुकूल धन स्रोत</string>
+    <string name="cat_tier2_money_mindset_title">आपकी धन मानसिकता</string>
+    <string name="cat_tier3_wealth_rules_title">सार्वभौमिक समृद्धि नियम</string>
+    <string name="cat_tier1_spouse_profile_title">जीवनसाथी स्वभाव एवं शुभ समय</string>
+    <string name="cat_tier2_love_vs_arranged_title">प्रेम बनाम पारिवारिक विवाह दिशा</string>
+    <string name="cat_tier3_rel_psychology_title">संबंध मनोविज्ञान</string>
+    <string name="cat_tier1_health_focus_title">सचेत देखभाल के क्षेत्र</string>
+    <string name="cat_tier2_health_action_title">दैनिक स्वास्थ्य कार्य योजना</string>
+    <string name="cat_tier3_health_mindset_title">समग्र स्वास्थ्य दृष्टिकोण</string>
+    <string name="cat_health_medical_disclaimer_title">चिकित्सीय अस्वीकरण</string>
+    <string name="cat_tier1_soul_mission_title">पूर्व जन्म संस्कार एवं आत्मिक उद्देश्य</string>
+    <string name="cat_tier2_life_themes_title">जीवन के प्रमुख सूत्र</string>
+    <string name="cat_tier3_spiritual_attitude_title">आध्यात्मिक दृष्टिकोण</string>
+    <string name="cat_creative_faqs_title">गहन प्रश्न एवं उत्तर</string>
+    <string name="cat_future_focus_title">भविष्य निर्माण एवं आत्म-विकास</string>
+
+    <!-- Part A: Collapsible Category Story & Tier 1 Expand -->
+    <string name="cat_story_career_title">आपकी करियर कथा</string>
+    <string name="cat_story_wealth_title">आपकी धन कथा</string>
+    <string name="cat_story_marriage_title">आपकी विवाह एवं संबंध कथा</string>
+    <string name="cat_story_health_title">आपकी स्वास्थ्य एवं प्राण कथा</string>
+    <string name="cat_story_dharma_title">आपकी धर्म एवं उद्देश्य कथा</string>
+    <string name="cat_story_subtitle">आपकी ग्रह स्थिति और सक्रिय दशा का विस्तृत समन्वित विवेचन</string>
+    <string name="cat_tier1_show_more">शीर्ष ५ अनुकूल विकल्प देखें</string>
+    <string name="cat_tier1_show_less">शीर्ष ३ अनुकूल विकल्प देखें</string>
+
+    <!-- Part B: 2027 Comprehensive Report -->
+    <string name="kundali_year_2027_badge">२०२७ वार्षिक महाग्रंथ</string>
+    <string name="kundali_year_2027_title">आपका २०२७ वार्षिक भविष्यफल</string>
+    <string name="kundali_year_2027_subtitle">२०२७ की सक्रिय दशाएं, स्वर्णिम व प्रयास-प्रधान माह, ५ क्षेत्र विवेचना एवं जनवरी–दिसंबर समयरेखा</string>
+    <string name="kundali_year_2027_cta">पूर्ण २०२७ रिपोर्ट खोलें →</string>
+    <string name="year_2027_screen_title">२०२७ विस्तृत वार्षिक रिपोर्ट</string>
+    <string name="year_2027_hero_label">२०२७ का ब्रह्मांडीय सूत्र</string>
+    <string name="year_2027_dasha_badge">२०२७ सक्रिय दशा: %1$s</string>
+    <string name="year_2027_at_a_glance">२०२७ एक नज़र में</string>
+    <string name="year_2027_dasha_timeline">२०२७ में सक्रिय विंशोत्तरी अंतर्दशा चक्र</string>
+    <string name="year_2027_golden_windows">२०२७ के स्वर्णिम अवसर माह</string>
+    <string name="year_2027_effort_windows">अतिरिक्त धैर्य व प्रयास वाले माह</string>
+    <string name="year_2027_golden_chip">स्वर्णिम अवसर: %1$s</string>
+    <string name="year_2027_effort_chip">विशेष प्रयास: %1$s</string>
+    <string name="year_2027_deep_dives_title">२०२७ के ५ प्रमुख जीवन क्षेत्र विश्लेषण</string>
+    <string name="year_2027_remedy_note_label">२०२७ विशेष साधना व उपाय</string>
+    <string name="year_2027_monthly_title">जनवरी–दिसंबर २०२७ मासिक राशिफल</string>
+    <string name="year_2027_moon_transit_prefix">गोचर संकेत: %1$s</string>
+    <string name="year_2027_lucky_focus">शुभ दिशा</string>
+    <string name="year_2027_effort_focus">सचेत अभ्यास</string>
+    <string name="year_2027_charts_appendix_title">२०२७ चक्र एवं तुलनात्मक ग्रह सारिणी</string>
+    <string name="year_2027_sign_matrix_title">ग्रह राशि तुलना (D1 / D9 / D10)</string>
+    <string name="year_2027_remedies_title">२०२७ समेकित वैदिक उपाय</string>
+</resources>
